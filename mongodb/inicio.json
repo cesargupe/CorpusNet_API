@@ -1,0 +1,12 @@
+[
+    {
+        "name":"inicio",
+        "language": "es",
+        "data": {"layout":{"top-menu":["Inicio", "otro"], "medio":"hola"}, "content":{"prueba":"si"}}
+    },
+    {
+        "name":"inicio",
+        "language": "en",
+        "data": {"layout":{"top-menu":["KLO", "sss"], "medio":"sss"}, "content":{"prueba":"ssssss"}}
+    }
+]
