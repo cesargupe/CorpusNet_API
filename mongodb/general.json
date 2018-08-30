@@ -1,12 +1,102 @@
 [
-    {
-        "name":"general",
-        "language": "es",
-        "data": {"layout":{"top-menu":["Inicio", "otro"], "medio":"hola"}, "content":{"prueba":"si"}}
-    },
-    {
-        "name":"general",
-        "language": "en",
-        "data": {"layout":{"top-menu":["KLO", "sss"], "medio":"sss"}, "content":{"prueba":"ssssss"}}
+  {
+    "name": "general",
+    "language": "en",
+    "data": {
+      "top_menu": [
+        {
+          "text": "Home"
+        },
+        {
+          "text": "Corpus",
+          "sublements": [
+            {
+              "text": "Comparable Corpus"
+            },
+            {
+              "text": "Parallel Corpus"
+            }
+          ]
+        },
+        {
+          "text": "Tools",
+          "sublements": [
+            {
+              "text": "Tagsets"
+            },
+            {
+              "text": "Technical Tools"
+            }
+          ]
+        },
+        {
+          "text": "Applications"
+        },
+        {
+          "text": "Teams"
+        },
+        {
+          "text": "News"
+        },
+        {
+          "text": "Language"
+        }
+      ],
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "footer": "Network of Excellence <b>CorpusNet</b> funded by MINECO FF12016-81934-RED"
     }
+  },
+  {
+    "name": "general",
+    "language": "es",
+    "data": {
+      "top_menu": [
+        {
+          "text": "Inicio"
+        },
+        {
+          "text": "Corpus",
+          "sublements": [
+            {
+              "text": "Corpus comparable"
+            },
+            {
+              "text": "Corpus paralelos"
+            }
+          ]
+        },
+        {
+          "text": "Herramientas",
+          "sublements": [
+            {
+              "text": "Tagsets"
+            },
+            {
+              "text": "Herramientas técnicas"
+            }
+          ]
+        },
+        {
+          "text": "Aplicaciones"
+        },
+        {
+          "text": "Grupos"
+        },
+        {
+          "text": "Noticias"
+        },
+        {
+          "text": "Idioma"
+        }
+      ],
+      "languages": [
+        "Español",
+        "Inglés"
+      ],
+      "footer": "Red de Excelencia <b>CorpusNet</b> financiada por MINECO FF12016-81934-RED"
+    }
+  }
 ]

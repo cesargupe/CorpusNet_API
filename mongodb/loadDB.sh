@@ -1,1 +1,1 @@
-mongoimport --db corpusnet --collection contents --drop --file inicio.json --jsonArray
+mongoimport --db corpusnet --collection contents --drop --file general.json --jsonArray
