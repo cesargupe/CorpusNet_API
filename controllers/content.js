@@ -7,12 +7,17 @@ function getContent(req, res) {
   var name_content = req.params.name;
   var language_content = req.params.language;
 
+  if (!language_content) language_content = 'es'
+
+  console.log(req.params);
+
+
   if (!name_content) {
     // Si no especificas el contenido devuelve un error.
     res.status(500).send({message: 'No se ha especificado el contenido'});
   }else {
     // Sacar solo el contenido solicitado.
-    Content.findOne({name: name_content, language: language_content}, (err, content) => {
+    Content.findOne({'name': name_content, 'language': language_content}).sort({'_id': -1}).exec((err, content) => {
 
       if (err) {
         res.status(500).send({message: 'Error en la peticion'});
