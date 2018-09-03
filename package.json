@@ -4,9 +4,7 @@
   "description": "API from CorpusNet",
   "main": "index.js",
   "scripts": {
-    "start": "mongoimport --db corpusnet --collection contents --file mongodb/inicio.json --jsonArray",
     "start": "nodemon index.js",
-    "start": "mongoimport --db corpusnet --collection contents --file mongodb/inicio.json --jsonArray && nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Cesar",

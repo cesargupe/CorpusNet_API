@@ -1,0 +1,110 @@
+[
+  {
+    "name": "corpus-comparables",
+    "language": "es",
+    "data": {
+      "title": "Corpus comparables",
+      "corpus": [
+        {
+          "autor": "ACTRES",
+          "name": "C-GEFEM",
+          "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit id suscipit, tortor ac lacinia orci vivamus sed arcu mattis, ultrices penatibus inceptos varius sodales posuere fringilla ante. Potenti nunc sem sodales turpis montes gravida netus morbi, dis natoque vel volutpat bibendum curae cursus nec aliquet, phasellus dignissim egestas tellus eleifend sapien diam. A porttitor dictumst egestas semper praesent montes lobortis molestie, enim fringilla pretium luctus nunc turpis sociosqu leo vestibulum, vel cras netus sagittis est dui class.",
+          "buttons":[
+            {
+              "name": "Acceder",
+              "link": "http://www.google.es"
+            },
+            {
+              "name": "Ficha técnica",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "autor": "ACTRES",
+          "name": "C-GEDEGA",
+          "description": "Posuere nostra fames dapibus pharetra orci aptent rutrum lacus dis, condimentum sollicitudin neque ut penatibus egestas lobortis ornare nam, class commodo senectus nullam tellus augue nisl habitant. Magna mollis sollicitudin placerat odio hendrerit ullamcorper nam potenti, lectus etiam cursus ligula curabitur libero sociosqu neque, nulla faucibus pharetra curae sodales lacinia consequat. Vivamus mollis id tempor rhoncus nibh sollicitudin litora dignissim, faucibus curae venenatis egestas sagittis fermentum habitasse, condimentum eu semper euismod viverra pretium volutpat.",
+          "buttons":[
+            {
+              "name": "Acceder",
+              "link": "http://www.google.es"
+            },
+            {
+              "name": "Ficha técnica",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "autor": "PRUEBA",
+          "name": "Nombre del Corpus",
+          "description": "Posuere nostra fames dapibus pharetra orci aptent rutrum lacus dis, condimentum sollicitudin neque ut penatibus egestas lobortis ornare nam, class commodo senectus nullam tellus augue nisl habitant. Magna mollis sollicitudin placerat odio hendrerit ullamcorper nam potenti, lectus etiam cursus ligula curabitur libero sociosqu neque, nulla faucibus pharetra curae sodales lacinia consequat. Vivamus mollis id tempor rhoncus nibh sollicitudin litora dignissim, faucibus curae venenatis egestas sagittis fermentum habitasse, condimentum eu semper euismod viverra pretium volutpat.",
+          "buttons":[
+            {
+              "name": "Acceder",
+              "link": "http://www.google.es"
+            },
+            {
+              "name": "Ficha técnica",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "corpus-comparables",
+    "language": "en",
+    "data": {
+      "title": "Comparable corpora",
+      "corpus": [
+        {
+          "autor": "ACTRES",
+          "name": "C-GEFEM",
+          "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit id suscipit, tortor ac lacinia orci vivamus sed arcu mattis, ultrices penatibus inceptos varius sodales posuere fringilla ante. Potenti nunc sem sodales turpis montes gravida netus morbi, dis natoque vel volutpat bibendum curae cursus nec aliquet, phasellus dignissim egestas tellus eleifend sapien diam. A porttitor dictumst egestas semper praesent montes lobortis molestie, enim fringilla pretium luctus nunc turpis sociosqu leo vestibulum, vel cras netus sagittis est dui class.",
+          "buttons":[
+            {
+              "name": "Prueba",
+              "link": "http://www.google.es"
+            },
+            {
+              "name": "Ficha técnica",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "autor": "ACTRES",
+          "name": "C-GEDEGA",
+          "description": "Posuere nostra fames dapibus pharetra orci aptent rutrum lacus dis, condimentum sollicitudin neque ut penatibus egestas lobortis ornare nam, class commodo senectus nullam tellus augue nisl habitant. Magna mollis sollicitudin placerat odio hendrerit ullamcorper nam potenti, lectus etiam cursus ligula curabitur libero sociosqu neque, nulla faucibus pharetra curae sodales lacinia consequat. Vivamus mollis id tempor rhoncus nibh sollicitudin litora dignissim, faucibus curae venenatis egestas sagittis fermentum habitasse, condimentum eu semper euismod viverra pretium volutpat.",
+          "buttons":[
+            {
+              "name": "Acceder",
+              "link": "http://www.google.es"
+            },
+            {
+              "name": "Ficha técnica",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "autor": "PRUEBA",
+          "name": "Nombre del Corpus",
+          "description": "Posuere nostra fames dapibus pharetra orci aptent rutrum lacus dis, condimentum sollicitudin neque ut penatibus egestas lobortis ornare nam, class commodo senectus nullam tellus augue nisl habitant. Magna mollis sollicitudin placerat odio hendrerit ullamcorper nam potenti, lectus etiam cursus ligula curabitur libero sociosqu neque, nulla faucibus pharetra curae sodales lacinia consequat. Vivamus mollis id tempor rhoncus nibh sollicitudin litora dignissim, faucibus curae venenatis egestas sagittis fermentum habitasse, condimentum eu semper euismod viverra pretium volutpat.",
+          "buttons":[
+            {
+              "name": "Acceder",
+              "link": "http://www.google.es"
+            },
+            {
+              "name": "Ficha técnica",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
