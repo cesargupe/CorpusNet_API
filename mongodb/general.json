@@ -43,8 +43,14 @@
         }
       ],
       "languages": [
-        "Spanish",
-        "English"
+        {
+          "code": "es",
+          "name": "Spanish"
+        },
+        {
+          "code": "en",
+          "name": "English"
+        }
       ],
       "footer": "Network of Excellence <b>CorpusNet</b> funded by MINECO FF12016-81934-RED"
     }
@@ -93,8 +99,14 @@
         }
       ],
       "languages": [
-        "Español",
-        "Inglés"
+        {
+          "code": "es",
+          "name": "Español"
+        },
+        {
+          "code": "en",
+          "name": "Inglés"
+        }
       ],
       "footer": "Red de Excelencia <b>CorpusNet</b> financiada por MINECO FF12016-81934-RED"
     }
