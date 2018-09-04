@@ -1,0 +1,104 @@
+[
+  {
+    "name": "corpus-paralelos",
+    "language": "es",
+    "data": {
+      "title": "Corpus paralelos",
+      "corpus": [
+        {
+          "autor": "Universidad de León",
+          "name": "ACTRES",
+          "buttons":[
+            {
+              "name": "Acceder",
+              "link": "http://www.google.es"
+            },
+            {
+              "name": "Ficha técnica",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "autor": "Universidad de Alicante",
+          "name": "FRASYTRAM",
+          "buttons":[
+            {
+              "name": "Acceder",
+              "link": "http://www.google.es"
+            },
+            {
+              "name": "Ficha técnica",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "autor": "Universidad del País Vasco",
+          "name": "TRALIMA",
+          "buttons":[
+            {
+              "name": "Acceder",
+              "link": "http://www.google.es"
+            },
+            {
+              "name": "Ficha técnica",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "corpus-paralelos",
+    "language": "en",
+    "data": {
+      "title": "Corpus paralelos",
+      "corpus": [
+        {
+          "autor": "Universidad de León",
+          "name": "ACTRES",
+          "buttons":[
+            {
+              "name": "Acceder",
+              "link": "http://www.google.es"
+            },
+            {
+              "name": "Ficha técnica",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "autor": "Universidad de León",
+          "name": "FRASYTRAM",
+          "buttons":[
+            {
+              "name": "Acceder",
+              "link": "http://www.google.es"
+            },
+            {
+              "name": "Ficha técnica",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "autor": "Universidad del País Vasco",
+          "name": "TRALIMA",
+          "buttons":[
+            {
+              "name": "Acceder",
+              "link": "http://www.google.es"
+            },
+            {
+              "name": "Ficha técnica",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
