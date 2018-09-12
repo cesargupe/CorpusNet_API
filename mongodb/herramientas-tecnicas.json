@@ -1,0 +1,222 @@
+[
+  {
+    "name": "herramientas-tecnicas",
+    "language": "es",
+    "data": {
+      "title": "Herramientas técnicas",
+      "nav": [
+        "Etiquetadores",
+        "Visores",
+        "Alineadores"
+      ],
+      "tools": {
+        "tagger": [
+          {
+            "author": "Universidad de León",
+            "name": "Etiquetador 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+            "buttons":[
+              {
+                "name": "Acceder",
+                "link": "http://www.google.es"
+              },
+              {
+                "name": "Ficha técnica",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "author": "Universidad de León",
+            "name": "Etiquetador 2",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+            "buttons":[
+              {
+                "name": "Acceder",
+                "link": "http://www.google.es"
+              },
+              {
+                "name": "Ficha técnica",
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "browser": [
+          {
+            "author": "Universidad de León",
+            "name": "Visor 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+            "buttons":[
+              {
+                "name": "Acceder",
+                "link": "http://www.google.es"
+              },
+              {
+                "name": "Ficha técnica",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "author": "Universidad de León",
+            "name": "Visor 2",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+            "buttons":[
+              {
+                "name": "Acceder",
+                "link": "http://www.google.es"
+              },
+              {
+                "name": "Ficha técnica",
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "aligner": [
+          {
+            "author": "Universidad de León",
+            "name": "Alineador 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+            "buttons":[
+              {
+                "name": "Acceder",
+                "link": "http://www.google.es"
+              },
+              {
+                "name": "Ficha técnica",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "author": "Universidad de León",
+            "name": "Alineador 2",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+            "buttons":[
+              {
+                "name": "Acceder",
+                "link": "http://www.google.es"
+              },
+              {
+                "name": "Ficha técnica",
+                "link": ""
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "herramientas-tecnicas",
+    "language": "en",
+    "data": {
+      "title": "Herramientas técnicas",
+      "nav": [
+        "Etiquetadores",
+        "Visores",
+        "Alineadores"
+      ],
+      "tools": {
+        "tagger": [
+          {
+            "author": "Universidad de León",
+            "name": "Etiquetador 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+            "buttons":[
+              {
+                "name": "Acceder",
+                "link": "http://www.google.es"
+              },
+              {
+                "name": "Ficha técnica",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "author": "Universidad de León",
+            "name": "Etiquetador 2",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+            "buttons":[
+              {
+                "name": "Acceder",
+                "link": "http://www.google.es"
+              },
+              {
+                "name": "Ficha técnica",
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "browser": [
+          {
+            "author": "Universidad de León",
+            "name": "Visor 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+            "buttons":[
+              {
+                "name": "Acceder",
+                "link": "http://www.google.es"
+              },
+              {
+                "name": "Ficha técnica",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "author": "Universidad de León",
+            "name": "Visor 2",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+            "buttons":[
+              {
+                "name": "Acceder",
+                "link": "http://www.google.es"
+              },
+              {
+                "name": "Ficha técnica",
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "aligner": [
+          {
+            "author": "Universidad de León",
+            "name": "Alineador 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+            "buttons":[
+              {
+                "name": "Acceder",
+                "link": "http://www.google.es"
+              },
+              {
+                "name": "Ficha técnica",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "author": "Universidad de León",
+            "name": "Alineador 2",
+            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+            "buttons":[
+              {
+                "name": "Acceder",
+                "link": "http://www.google.es"
+              },
+              {
+                "name": "Ficha técnica",
+                "link": ""
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

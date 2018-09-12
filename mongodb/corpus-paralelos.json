@@ -4,6 +4,10 @@
     "language": "es",
     "data": {
       "title": "Corpus paralelos",
+      "instructions":{
+        "title": "Instrucciones de uso",
+        "content":"Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor. Et ultricies imperdiet interdum proin porta aptent volutpat neque, semper fringilla libero penatibus nostra id dictum inceptos, magnis pellentesque phasellus quisque lacinia curabitur platea.<br><br>Magnis mattis taciti elementum rhoncus habitasse accumsan lacinia iaculis vel dignissim sagittis metus ultrices, euismod conubia tellus tempor luctus imperdiet ac justo aliquet risus commodo praesent curabitur, gravida fusce per sem morbi ullamcorper arcu turpis lectus pulvinar consequat torquent. Suscipit diam euismod sollicitudin placerat ornare, ultrices porta enim fringilla tellus, mollis magnis est condimentum. Fringilla cubilia elementum tellus condimentum urna imperdiet magnis varius, blandit praesent massa risus neque dapibus volutpat, sociosqu mus montes nullam nostra id phasellus."
+      },
       "corpus": [
         {
           "autor": "Universidad de León",
@@ -55,6 +59,10 @@
     "language": "en",
     "data": {
       "title": "Corpus paralelos",
+      "instructions":{
+        "title": "Instrucciones de uso",
+        "content":"Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor. Et ultricies imperdiet interdum proin porta aptent volutpat neque, semper fringilla libero penatibus nostra id dictum inceptos, magnis pellentesque phasellus quisque lacinia curabitur platea.<br><br>Magnis mattis taciti elementum rhoncus habitasse accumsan lacinia iaculis vel dignissim sagittis metus ultrices, euismod conubia tellus tempor luctus imperdiet ac justo aliquet risus commodo praesent curabitur, gravida fusce per sem morbi ullamcorper arcu turpis lectus pulvinar consequat torquent. Suscipit diam euismod sollicitudin placerat ornare, ultrices porta enim fringilla tellus, mollis magnis est condimentum. Fringilla cubilia elementum tellus condimentum urna imperdiet magnis varius, blandit praesent massa risus neque dapibus volutpat, sociosqu mus montes nullam nostra id phasellus."
+      },
       "corpus": [
         {
           "autor": "Universidad de León",
@@ -71,7 +79,7 @@
           ]
         },
         {
-          "autor": "Universidad de León",
+          "autor": "Universidad de Alicante",
           "name": "FRASYTRAM",
           "buttons":[
             {
