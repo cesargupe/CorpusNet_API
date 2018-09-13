@@ -9,4 +9,8 @@ mongoimport --db corpusnet --collection contents --file herramientas-tecnicas.js
 mongoimport --db corpusnet --collection contents --file aplicaciones.json --jsonArray
 mongoimport --db corpusnet --collection contents --file grupos.json --jsonArray
 mongoimport --db corpusnet --collection contents --file noticias.json --jsonArray
+
+mongo corpusnet --eval 'db.datasheets.drop()'
+mongoimport --db corpusnet --collection datasheets --file datasheet.json --jsonArray
+
 npm start

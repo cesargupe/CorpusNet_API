@@ -7,6 +7,7 @@ var app = express();
 
 // Cargar rutas
 var content_routes = require('./routes/content');
+var datasheet_routes = require('./routes/datasheet');
 
 app.use(bodyParser.urlencoded({extended:false}));
 app.use(bodyParser.json());
@@ -25,5 +26,6 @@ app.use((req, res, next) => {
 
 // Carga de rutas base
 app.use('/api', content_routes);
+app.use('/api', datasheet_routes);
 
 module.exports = app;

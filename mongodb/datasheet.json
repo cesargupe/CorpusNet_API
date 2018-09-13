@@ -1,0 +1,32 @@
+[
+  {
+    "name": "C-GEFEM",
+    "type": "corpus-comparables",
+    "data": [
+      {
+        "name": "Prueba",
+        "content": "Contenido del nombre"
+      },
+      {
+        "name": "Prueba2",
+        "content": "Contenido del nombre2"
+      },
+      {
+        "name": "Prueba3",
+        "content": "Contenido del nombre3"
+      },
+      {
+        "name": "Prueba4",
+        "content": "Contenido del nombre4"
+      },
+      {
+        "name": "Prueba5",
+        "content": "Contenido del nombre5"
+      },
+      {
+        "name": "Prueba6",
+        "content": "Contenido del nombre6"
+      }
+    ]
+  }
+]
