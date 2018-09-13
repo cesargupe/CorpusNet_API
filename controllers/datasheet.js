@@ -15,7 +15,7 @@ function getDatasheet(req, res) {
     res.status(500).send({message: 'No se ha especificado el contenido'});
   }else {
     // Sacar solo el contenido solicitado.
-    Datasheet.findOne({'type': type_content}).sort({'_id': -1}).exec((err, datasheet) => {
+    Datasheet.findOne({'name': name_content, 'type': type_content}).sort({'_id': -1}).exec((err, datasheet) => {
 
       if (err) {
         res.status(500).send({message: 'Error en la peticion'});
