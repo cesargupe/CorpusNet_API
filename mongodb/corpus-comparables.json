@@ -21,7 +21,7 @@
           ]
         },
         {
-          "autor": "ACTRES",
+          "autor": "TRACE",
           "name": "C-GEDEGA",
           "description": "Posuere nostra fames dapibus pharetra orci aptent rutrum lacus dis, condimentum sollicitudin neque ut penatibus egestas lobortis ornare nam, class commodo senectus nullam tellus augue nisl habitant. Magna mollis sollicitudin placerat odio hendrerit ullamcorper nam potenti, lectus etiam cursus ligula curabitur libero sociosqu neque, nulla faucibus pharetra curae sodales lacinia consequat. Vivamus mollis id tempor rhoncus nibh sollicitudin litora dignissim, faucibus curae venenatis egestas sagittis fermentum habitasse, condimentum eu semper euismod viverra pretium volutpat.",
           "buttons":[
@@ -36,8 +36,8 @@
           ]
         },
         {
-          "autor": "PRUEBA",
-          "name": "Nombre del Corpus",
+          "autor": "COVALT",
+          "name": "C-EADEG",
           "description": "Posuere nostra fames dapibus pharetra orci aptent rutrum lacus dis, condimentum sollicitudin neque ut penatibus egestas lobortis ornare nam, class commodo senectus nullam tellus augue nisl habitant. Magna mollis sollicitudin placerat odio hendrerit ullamcorper nam potenti, lectus etiam cursus ligula curabitur libero sociosqu neque, nulla faucibus pharetra curae sodales lacinia consequat. Vivamus mollis id tempor rhoncus nibh sollicitudin litora dignissim, faucibus curae venenatis egestas sagittis fermentum habitasse, condimentum eu semper euismod viverra pretium volutpat.",
           "buttons":[
             {

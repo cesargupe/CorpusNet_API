@@ -5,8 +5,8 @@
     "data": {
       "alert": {
         "bold_text": "Mensage importante",
-        "normal_text": "Hay noticias nuevas sobre CorpusNet.",
-        "link": "https://www.google.com"
+        "normal_text": "Esta es la Beta1 de CorpusNet.",
+        "link": ""
       },
       "panels": [
         {
@@ -26,8 +26,8 @@
     "data": {
       "alert": {
         "bold_text": "Important message",
-        "normal_text": "Hay noticias nuevas sobre CorpusNet.",
-        "link": "https://www.google.com"
+        "normal_text": "This is CorpusNet Beta1.",
+        "link": ""
       },
       "panels": [
         {

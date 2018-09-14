@@ -50,6 +50,48 @@
               "link": ""
             }
           ]
+        },
+        {
+          "autor": "Universidad Complutense de Madrid",
+          "name": "FUNCAP",
+          "buttons":[
+            {
+              "name": "Acceder",
+              "link": "http://www.google.es"
+            },
+            {
+              "name": "Ficha técnica",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "autor": "Universitat Pompeu i Fabra",
+          "name": "GLICom",
+          "buttons":[
+            {
+              "name": "Acceder",
+              "link": "http://www.google.es"
+            },
+            {
+              "name": "Ficha técnica",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "autor": "Universidad de Málaga",
+          "name": "LEXYTRAD",
+          "buttons":[
+            {
+              "name": "Acceder",
+              "link": "http://www.google.es"
+            },
+            {
+              "name": "Ficha técnica",
+              "link": ""
+            }
+          ]
         }
       ]
     }

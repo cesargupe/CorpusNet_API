@@ -7,7 +7,7 @@
       "tools": [
         {
           "author": "Universidad de León",
-          "name": "ACTRES",
+          "name": "Tagset 1",
           "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
           "buttons":[
             {
@@ -21,8 +21,8 @@
           ]
         },
         {
-          "author": "Universidad de León",
-          "name": "ACTRES",
+          "author": "Universidad Complutense de Madrid",
+          "name": "Tagset 2",
           "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
           "buttons":[
             {
@@ -36,8 +36,8 @@
           ]
         },
         {
-          "author": "Universidad de León",
-          "name": "ACTRES",
+          "author": "Universitat Pompeu i Fabra",
+          "name": "Tagset 3",
           "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
           "buttons":[
             {

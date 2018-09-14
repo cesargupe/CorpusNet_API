@@ -7,7 +7,7 @@
       "teams": [
         {
           "place": "Universidad de León",
-          "name": "Aplicacion 1",
+          "name": "ACTRES",
           "master": "Rosa Rabadán Álvarez",
           "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
           "buttons":[
@@ -19,8 +19,8 @@
         },
         {
           "place": "Universidad de León",
-          "name": "Aplicacion 1",
-          "master": "Rosa Rabadán Álvarez",
+          "name": "TRACE",
+          "master": "Nombre Apellido1 Apellido2",
           "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
           "buttons":[
             {
@@ -30,9 +30,33 @@
           ]
         },
         {
-          "place": "Universidad de León",
-          "name": "Aplicacion 1",
-          "master": "Rosa Rabadán Álvarez",
+          "place": "Universidad de Málaga",
+          "name": "LEXYTRAD",
+          "master": "Nombre Apellido1 Apellido2",
+          "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+          "buttons":[
+            {
+              "name": "Visitar página web",
+              "link": "http://www.google.es"
+            }
+          ]
+        },
+        {
+          "place": "Universitat Pompeu i Fabra",
+          "name": "GLICom",
+          "master": "Nombre Apellido1 Apellido2",
+          "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+          "buttons":[
+            {
+              "name": "Visitar página web",
+              "link": "http://www.google.es"
+            }
+          ]
+        },
+        {
+          "place": "Universidad Complutense de Madrid",
+          "name": "FUNCAP",
+          "master": "Nombre Apellido1 Apellido2",
           "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
           "buttons":[
             {

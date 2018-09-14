@@ -6,47 +6,112 @@
       "title": "Noticias",
       "news": [
         {
-          "team": "Actres",
+          "team": "ACTRES",
           "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
           "link": "http://www.google.es"
         },
         {
-          "team": "Actres2",
+          "team": "TRACE",
           "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
           "link": "http://www.google.es"
         },
         {
-          "team": "Actres3",
+          "team": "LEXYTRAD",
           "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
           "link": "http://www.google.es"
         },
         {
-          "team": "Actres4",
+          "team": "GLICom",
           "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
           "link": "http://www.google.es"
         },
         {
-          "team": "Actres5",
+          "team": "FUNCAP",
           "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
           "link": "http://www.google.es"
         },
         {
-          "team": "Actres6",
+          "team": "GRUPO1",
           "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
           "link": "http://www.google.es"
         },
         {
-          "team": "Actres7",
+          "team": "GRUPO2",
           "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
           "link": "http://www.google.es"
         },
         {
-          "team": "Actres8",
+          "team": "GRUPO3",
           "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
           "link": "http://www.google.es"
         },
         {
           "team": "Actres9",
+          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+          "link": "http://www.google.es"
+        },
+        {
+          "team": "Actres10",
+          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+          "link": "http://www.google.es"
+        },
+        {
+          "team": "GRUPO11",
+          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+          "link": "http://www.google.es"
+        },
+        {
+          "team": "GRUPO13",
+          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+          "link": "http://www.google.es"
+        },
+        {
+          "team": "Actres10",
+          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+          "link": "http://www.google.es"
+        },
+        {
+          "team": "GRUPO19",
+          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+          "link": "http://www.google.es"
+        },
+        {
+          "team": "Actres10",
+          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+          "link": "http://www.google.es"
+        },
+        {
+          "team": "Actres10",
+          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+          "link": "http://www.google.es"
+        },
+        {
+          "team": "Actres10",
+          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+          "link": "http://www.google.es"
+        },
+        {
+          "team": "Actres10",
+          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+          "link": "http://www.google.es"
+        },
+        {
+          "team": "Actres10",
+          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+          "link": "http://www.google.es"
+        },
+        {
+          "team": "GRUPO89",
+          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+          "link": "http://www.google.es"
+        },
+        {
+          "team": "Actres10",
+          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+          "link": "http://www.google.es"
+        },
+        {
+          "team": "Actres10",
           "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
           "link": "http://www.google.es"
         },
