@@ -4,192 +4,21 @@
     "language": "es",
     "data": {
       "title": "Noticias",
-      "news": [
-        {
-          "team": "ACTRES",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "TRACE",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "LEXYTRAD",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "GLICom",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "FUNCAP",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "GRUPO1",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "GRUPO2",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "GRUPO3",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres9",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres10",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "GRUPO11",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "GRUPO13",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres10",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "GRUPO19",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres10",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres10",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres10",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres10",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres10",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "GRUPO89",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres10",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres10",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres10",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres11",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        }
-      ]
+      "pagination": {
+        "btn_previous": "Anterior",
+        "btn_next": "Siguiente"
+      }
     }
   },
   {
     "name": "noticias",
     "language": "en",
     "data": {
-      "title": "Noticias",
-      "news": [
-        {
-          "team": "Actres",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        },
-        {
-          "team": "Actres",
-          "text": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
-          "link": "http://www.google.es"
-        }
-      ]
+      "title": "News",
+      "pagination": {
+        "btn_previous": "Previous",
+        "btn_next": "Next"
+      }
     }
   }
 ]

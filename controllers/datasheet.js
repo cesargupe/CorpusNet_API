@@ -39,11 +39,11 @@ function saveDatasheet(req, res) {
 
   console.log(params);
 
-  content.name = params.name;
-  content.type = params.type;
-  content.data = params.data;
+  datasheet.name = params.name;
+  datasheet.type = params.type;
+  datasheet.data = params.data;
 
-  content.save((err, datasheetStored) => {
+  datasheet.save((err, datasheetStored) => {
 
     if (err) {
       res.status(500).send({message: 'Error al guardar la ficha'});
@@ -51,7 +51,7 @@ function saveDatasheet(req, res) {
       if (!datasheetStored) {
         res.status(404).send({message: 'La ficha no ha sido guardada'});
       }else {
-        res.status(200).send({content: datasheetStored});
+        res.status(200).send({datasheet: datasheetStored});
       }
     }
 

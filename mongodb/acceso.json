@@ -1,0 +1,22 @@
+[
+  {
+    "name": "acceso",
+    "language": "es",
+    "data": {
+      "username_title": "Usuario",
+      "username_example": "email@ejemplo.com",
+      "password_title": "Contraseña",
+      "btnLogin_title": "Acceder"
+    }
+  },
+  {
+    "name": "acceso",
+    "language": "en",
+    "data": {
+      "username_title": "Username",
+      "username_example": "email@example.com",
+      "password_title": "Password",
+      "btnLogin_title": "Log in"
+    }
+  }
+]

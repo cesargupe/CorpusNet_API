@@ -6,7 +6,8 @@
       "title": "Aplicaciones",
       "applications": [
         {
-          "author": "Universidad de León",
+          "author": "ACTRES",
+          "acronym":"ULE",
           "name": "Aplicacion 1",
           "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
           "buttons":[
@@ -21,7 +22,8 @@
           ]
         },
         {
-          "author": "Universidad Complutense de Madrid",
+          "author": "FUNCAP",
+          "acronym":"UCM",
           "name": "Aplicacion 2",
           "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
           "buttons":[
@@ -36,7 +38,8 @@
           ]
         },
         {
-          "author": "Universidad de Alicante",
+          "author": "GLICom",
+          "acronym":"UPF",
           "name": "Aplicacion 3",
           "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
           "buttons":[
@@ -60,7 +63,8 @@
       "title": "Aplicaciones",
       "applications": [
         {
-          "author": "Universidad de León",
+          "author": "ACTRES",
+          "acronym":"ULE",
           "name": "Aplicacion 1",
           "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
           "buttons":[
@@ -75,7 +79,8 @@
           ]
         },
         {
-          "author": "Universidad de León",
+          "author": "FUNCAP",
+          "acronym":"UCM",
           "name": "Aplicacion 2",
           "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
           "buttons":[
@@ -90,7 +95,8 @@
           ]
         },
         {
-          "author": "Universidad de León",
+          "author": "GLICom",
+          "acronym":"UPF",
           "name": "Aplicacion 3",
           "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
           "buttons":[

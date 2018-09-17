@@ -12,7 +12,8 @@
       "tools": {
         "tagger": [
           {
-            "author": "Universidad de León",
+            "author": "ACTRES",
+            "acronym":"ULE",
             "name": "Etiquetador 1",
             "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
             "buttons":[
@@ -27,7 +28,8 @@
             ]
           },
           {
-            "author": "Universidad del País Vasco",
+            "author": "TRALIMA",
+            "acronym":"EHU",
             "name": "Etiquetador 2",
             "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
             "buttons":[
@@ -44,7 +46,8 @@
         ],
         "browser": [
           {
-            "author": "Universidad de León",
+            "author": "ACTRES",
+            "acronym":"ULE",
             "name": "Visor 1",
             "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
             "buttons":[
@@ -59,7 +62,8 @@
             ]
           },
           {
-            "author": "Universidad del País Vasco",
+            "author": "TRALIMA",
+            "acronym":"EHU",
             "name": "Visor 2",
             "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
             "buttons":[
@@ -76,7 +80,8 @@
         ],
         "aligner": [
           {
-            "author": "Universidad de León",
+            "author": "ACTRES",
+            "acronym":"ULE",
             "name": "Alineador 1",
             "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
             "buttons":[
@@ -91,7 +96,8 @@
             ]
           },
           {
-            "author": "Universidad del País Vasco",
+            "author": "TRALIMA",
+            "acronym":"EHU",
             "name": "Alineador 2",
             "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
             "buttons":[
@@ -122,7 +128,8 @@
       "tools": {
         "tagger": [
           {
-            "author": "Universidad de León",
+            "author": "ACTRES",
+            "acronym":"ULE",
             "name": "Etiquetador 1",
             "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
             "buttons":[
@@ -137,7 +144,8 @@
             ]
           },
           {
-            "author": "Universidad de León",
+            "author": "TRALIMA",
+            "acronym":"EHU",
             "name": "Etiquetador 2",
             "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
             "buttons":[
@@ -154,7 +162,8 @@
         ],
         "browser": [
           {
-            "author": "Universidad de León",
+            "author": "ACTRES",
+            "acronym":"ULE",
             "name": "Visor 1",
             "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
             "buttons":[
@@ -169,7 +178,8 @@
             ]
           },
           {
-            "author": "Universidad de León",
+            "author": "TRALIMA",
+            "acronym":"EHU",
             "name": "Visor 2",
             "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
             "buttons":[
@@ -186,7 +196,8 @@
         ],
         "aligner": [
           {
-            "author": "Universidad de León",
+            "author": "ACTRES",
+            "acronym":"ULE",
             "name": "Alineador 1",
             "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
             "buttons":[
@@ -201,7 +212,8 @@
             ]
           },
           {
-            "author": "Universidad de León",
+            "author": "TRALIMA",
+            "acronym":"EHU",
             "name": "Alineador 2",
             "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
             "buttons":[
