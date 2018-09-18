@@ -5,7 +5,7 @@
     "data": {
       "alert": {
         "bold_text": "Mensage importante",
-        "normal_text": "Esta es la Beta1 de CorpusNet.",
+        "normal_text": "Esta es una versión Beta de CorpusNet.",
         "link": ""
       },
       "panels": [
@@ -26,7 +26,7 @@
     "data": {
       "alert": {
         "bold_text": "Important message",
-        "normal_text": "This is CorpusNet Beta1.",
+        "normal_text": "This is CorpusNet Beta.",
         "link": ""
       },
       "panels": [
