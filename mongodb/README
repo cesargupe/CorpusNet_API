@@ -1,0 +1,2 @@
+Para solucionar el problema que ocurre a veces al ejecutar script sh hay que utilizar el siguiente comando:
+sed -i 's/\r$//' [filename]

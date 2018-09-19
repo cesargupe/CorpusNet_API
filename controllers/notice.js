@@ -1,10 +1,10 @@
 'use strict'
 
-var Notices = require('../models/notice');
+var Notice = require('../models/notice');
 
 function getNotices(req, res) {
 
-  Notices.find({}).sort({'_id': -1}).exec((err, notices) => {
+  Notice.find({}).sort({'_id': -1}).exec((err, notices) => {
 
     if (err) {
       res.status(500).send({message: 'Error en la peticion'});
@@ -22,7 +22,7 @@ function getNotices(req, res) {
 
 function saveNotice(req, res) {
 
-  var notice = new Datasheet();
+  var notice = new Notice();
   var params = req.body;
 
   console.log(params);
@@ -47,7 +47,54 @@ function saveNotice(req, res) {
 
 }
 
+function updateNotice(req, res) {
+
+  var noticeId = req.params.id;
+  var update = req.body;
+
+  Notice.findByIdAndUpdate(noticeId, update, (err, noticeUpdated) => {
+
+    if (err) {
+      res.status(500).send({message: 'Error en el servidor'});
+    }else {
+
+      if (!noticeUpdated) {
+        res.status(404).send({message: 'No se ha podido actualizar la noticia'});
+      }else {
+        res.status(200).send({song: noticeUpdated});
+      }
+
+    }
+
+  });
+
+}
+
+function deleteNotice(req, res) {
+
+  var noticeId = req.params.id;
+
+  Notice.findByIdAndDelete(noticeId, (err, noticeRemoved) => {
+
+    if (err) {
+      res.status(500).send({message: 'Error en el servidor'});
+    }else {
+
+      if (!noticeRemoved) {
+        res.status(404).send({message: 'No se ha podido borrar la noticia'});
+      }else {
+        res.status(200).send({song: noticeRemoved});
+      }
+
+    }
+
+  });
+
+}
+
 module.exports = {
   getNotices,
-  saveNotice
+  saveNotice,
+  updateNotice,
+  deleteNotice
 };

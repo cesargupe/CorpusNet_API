@@ -1,0 +1,29 @@
+[{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c570"
+	},
+	"name": "noticias",
+	"language": "en",
+	"data": {
+		"title": "News",
+		"pagination": {
+			"btn_previous": "Previous",
+			"btn_next": "Next"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c56f"
+	},
+	"name": "noticias",
+	"language": "es",
+	"data": {
+		"title": "Noticias",
+		"pagination": {
+			"btn_previous": "Anterior",
+			"btn_next": "Siguiente"
+		}
+	}
+}]
+

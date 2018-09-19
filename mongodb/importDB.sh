@@ -1,20 +1,21 @@
 #!/bin/bash
 mongo corpusnet --eval 'db.contents.drop()'
-mongoimport --db corpusnet --collection contents --file general.json --jsonArray
-mongoimport --db corpusnet --collection contents --file inicio.json --jsonArray
-mongoimport --db corpusnet --collection contents --file corpus-comparables.json --jsonArray
-mongoimport --db corpusnet --collection contents --file corpus-paralelos.json --jsonArray
-mongoimport --db corpusnet --collection contents --file herramientas-tagsets.json --jsonArray
-mongoimport --db corpusnet --collection contents --file herramientas-tecnicas.json --jsonArray
-mongoimport --db corpusnet --collection contents --file aplicaciones.json --jsonArray
-mongoimport --db corpusnet --collection contents --file grupos.json --jsonArray
-mongoimport --db corpusnet --collection contents --file noticias.json --jsonArray
-mongoimport --db corpusnet --collection contents --file acceso.json --jsonArray
+mongoimport --db corpusnet --collection contents --file db/general.json --jsonArray
+mongoimport --db corpusnet --collection contents --file db/inicio.json --jsonArray
+mongoimport --db corpusnet --collection contents --file db/corpus-comparables.json --jsonArray
+mongoimport --db corpusnet --collection contents --file db/corpus-paralelos.json --jsonArray
+mongoimport --db corpusnet --collection contents --file db/herramientas-tagsets.json --jsonArray
+mongoimport --db corpusnet --collection contents --file db/herramientas-tecnicas.json --jsonArray
+mongoimport --db corpusnet --collection contents --file db/aplicaciones.json --jsonArray
+mongoimport --db corpusnet --collection contents --file db/grupos.json --jsonArray
+mongoimport --db corpusnet --collection contents --file db/noticias.json --jsonArray
+mongoimport --db corpusnet --collection contents --file db/acceso.json --jsonArray
 
 mongo corpusnet --eval 'db.datasheets.drop()'
-mongoimport --db corpusnet --collection datasheets --file datasheet.json --jsonArray
+mongoimport --db corpusnet --collection datasheets --file db/datasheets.json --jsonArray
 
 mongo corpusnet --eval 'db.notices.drop()'
-mongoimport --db corpusnet --collection notices --file notice.json --jsonArray
+mongoimport --db corpusnet --collection notices --file db/notices.json --jsonArray
 
-npm start
+mongo corpusnet --eval 'db.users.drop()'
+mongoimport --db corpusnet --collection users --file db/users.json --jsonArray

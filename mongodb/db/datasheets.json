@@ -1,0 +1,155 @@
+[{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c580"
+	},
+	"name": "C-GEDEGA",
+	"type": "corpus-comparables",
+	"data": [
+		{
+			"name": "Corpus Name",
+			"content": "C-GEDEGA"
+		},
+		{
+			"name": "Acronym",
+			"content": "Acronym of corpus"
+		},
+		{
+			"name": "Project URL",
+			"content": "www.webproject.com"
+		},
+		{
+			"name": "Medium",
+			"content": "Written, spoken"
+		},
+		{
+			"name": "Contents",
+			"content": "fiction, popular-scientific texts, political speeches , tourism leaflets , corporate websites, academic writtings, minutes of European Parlament."
+		},
+		{
+			"name": "Region",
+			"content": "Spain, South America, Germany"
+		},
+		{
+			"name": "Language pairs",
+			"content": "de es, es-de"
+		},
+		{
+			"name": "Direction",
+			"content": "Unidirectional, bidirectional"
+		},
+		{
+			"name": "Words Number",
+			"content": "Written, spoken"
+		},
+		{
+			"name": "Linguistic Annotation",
+			"content": "Lemmatized, pos tagged, parsed, semantic annotation, pragmatic annotation."
+		},
+		{
+			"name": "Alignment",
+			"content": "Sentence, word"
+		},
+		{
+			"name": "Interface",
+			"content": "Yes, No"
+		},
+		{
+			"name": "Downloadable",
+			"content": "Yes, no"
+		},
+		{
+			"name": "Access Availability",
+			"content": "Free online, free online for research, on request."
+		},
+		{
+			"name": "Research Group",
+			"content": "Free online, free online for research, on request."
+		},
+		{
+			"name": "University",
+			"content": "Universidad de Leçon"
+		},
+		{
+			"name": "Contact person (Name and Email)",
+			"content": "persona@gmail.com"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c581"
+	},
+	"name": "C-GEFEM",
+	"type": "corpus-comparables",
+	"data": [
+		{
+			"name": "Corpus Name",
+			"content": "Name of corpus"
+		},
+		{
+			"name": "Acronym",
+			"content": "Acronym of corpus"
+		},
+		{
+			"name": "Project URL",
+			"content": "www.webproject.com"
+		},
+		{
+			"name": "Medium",
+			"content": "Written, spoken"
+		},
+		{
+			"name": "Contents",
+			"content": "fiction, popular-scientific texts, political speeches , tourism leaflets , corporate websites, academic writtings, minutes of European Parlament."
+		},
+		{
+			"name": "Region",
+			"content": "Spain, South America, Germany"
+		},
+		{
+			"name": "Language pairs",
+			"content": "de es, es-de"
+		},
+		{
+			"name": "Direction",
+			"content": "Unidirectional, bidirectional"
+		},
+		{
+			"name": "Words Number",
+			"content": "Written, spoken"
+		},
+		{
+			"name": "Linguistic Annotation",
+			"content": "Lemmatized, pos tagged, parsed, semantic annotation, pragmatic annotation."
+		},
+		{
+			"name": "Alignment",
+			"content": "Sentence, word"
+		},
+		{
+			"name": "Interface",
+			"content": "Yes, No"
+		},
+		{
+			"name": "Downloadable",
+			"content": "Yes, no"
+		},
+		{
+			"name": "Access Availability",
+			"content": "Free online, free online for research, on request."
+		},
+		{
+			"name": "Research Group",
+			"content": "Free online, free online for research, on request."
+		},
+		{
+			"name": "University",
+			"content": "Universidad de Leçon"
+		},
+		{
+			"name": "Contact person (Name and Email)",
+			"content": "persona@gmail.com"
+		}
+	]
+}]
+

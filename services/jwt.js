@@ -3,17 +3,16 @@
 var jwt = require('jwt-simple');
 var moment = require('moment');
 
-var secret = 'clave secreta'
+var secret = 'aed085f52d361348612b5c27cd82925f'
 
 exports.createToken = function(user){
 
   var payload = {
     sub: user._id,
-    name: user.name,
-    email: user.email,
+    team: user.team,
     role: user.role,
-    iat: moment().unix(),
-    exp: moment().add(30, 'days').unix
+    iat: moment(),
+    exp: moment()
   };
 
   return jwt.encode(payload, secret);

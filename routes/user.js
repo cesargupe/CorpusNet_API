@@ -6,7 +6,8 @@ var md_auth = require('../middlewares/auth');
 
 var api = express.Router();
 
-api.post('/new_user', UserController.saveUser);
 api.post('/login', UserController.loginUser);
+api.get('/users', md_auth.ensureAuth, UserController.getUsers);
+api.post('/new_user', md_auth.ensureAuth, UserController.saveUser);
 
 module.exports = api;

@@ -6,10 +6,9 @@ var md_auth = require('../middlewares/auth');
 
 var api = express.Router();
 
-api.get('/content/:name/:language', ContentControler.getContent);
-api.get('/content/:name/', ContentControler.getContent);
-//api.get('/content/:name/', md_auth.ensureAuth, ContentControler.getContent);
-
-api.post('/content/', ContentControler.saveContent);
+api.get('/all_content', ContentControler.getAllContent);
+api.get('/content/:name/:language?', ContentControler.getContent);
+api.put('/content/:id', md_auth.ensureAuth, ContentControler.updateContent);
+api.delete('/content/:id', md_auth.ensureAuth, ContentControler.deleteContent);
 
 module.exports = api;

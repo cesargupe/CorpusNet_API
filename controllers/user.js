@@ -4,11 +4,29 @@ var bcrypt = require('bcrypt-nodejs');
 var jwt = require('../services/jwt');
 var User = require('../models/user');
 
+function getUsers(req, res) {
+
+  User.find({}).sort({'_id': -1}).exec((err, users) => {
+
+    if (err) {
+      res.status(500).send({message: 'Error en la peticion'});
+    }else {
+      if (!users) {
+        res.status(404).send({message: 'No hay usuarios'});
+      }else {
+        res.status(200).send({users});
+      }
+    }
+
+  });
+
+}
+
 function loginUser(req, res) {
 
   var params = req.body;
 
-  User.findOne({'email': params.email.toLowerCase()}).sort({'_id': -1}).exec((err, user) => {
+  User.findOne({'team': params.team}).sort({'_id': -1}).exec((err, user) => {
 
     if (err) {
       res.status(500).send({message: 'Error en la peticion'});
@@ -21,7 +39,7 @@ function loginUser(req, res) {
 
           if (check) {
             res.status(200).send({
-              user: {'_id': user._id, 'name': user.name, 'email': user.email, 'role': user.role},
+              user: {'_id': user._id, 'team': user.team, 'role': user.role},
               token: jwt.createToken(user)
             });
           }else {
@@ -44,8 +62,7 @@ function saveUser(req, res) {
 
   console.log(params);
 
-  user.name = params.name;
-  user.email = params.email;
+  user.team = params.team;
   user.role = 'ROLE_USER';
 
   if (params.password) {
@@ -75,6 +92,7 @@ function saveUser(req, res) {
 }
 
 module.exports = {
+  getUsers,
   loginUser,
   saveUser
 };

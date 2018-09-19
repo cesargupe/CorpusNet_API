@@ -2,6 +2,24 @@
 
 var Content = require('../models/content');
 
+function getAllContent(req, res) {
+
+  Content.find({}).sort({'_id': -1}).exec((err, allContent) => {
+
+    if (err) {
+      res.status(500).send({message: 'Error en la peticion'});
+    }else {
+      if (!allContent) {
+        res.status(404).send({message: 'No hay contenido'});
+      }else {
+        res.status(200).send({allContent});
+      }
+    }
+
+  });
+
+}
+
 function getContent(req, res) {
 
   var name_content = req.params.name;
@@ -34,34 +52,55 @@ function getContent(req, res) {
 
 }
 
-function saveContent(req, res) {
+function updateContent(req, res) {
 
-  var content = new Content();
-  var params = req.body;
+  var contentId = req.params.id;
+  var update = req.body;
 
-  console.log(params);
-
-  content.name = params.name;
-  content.language = params.language;
-  content.data = params.data;
-
-  content.save((err, contentStored) => {
+  Content.findByIdAndUpdate(contentId, update, (err, contentUpdated) => {
 
     if (err) {
-      res.status(500).send({message: 'Error al guardar el contenido'});
-    } else {
-      if (!contentStored) {
-        res.status(404).send({message: 'El contenido no ha sido guardado'});
+      res.status(500).send({message: 'Error en el servidor'});
+    }else {
+
+      if (!contentUpdated) {
+        res.status(404).send({message: 'No se ha podido actualizar el contenido'});
       }else {
-        res.status(200).send({content: contentStored});
+        res.status(200).send({song: contentUpdated});
       }
+
     }
 
   });
 
 }
 
+function deleteContent(req, res) {
+
+  var contentId = req.params.id;
+
+  Content.findByIdAndDelete(contentId, (err, contentRemoved) => {
+
+    if (err) {
+      res.status(500).send({message: 'Error en el servidor'});
+    }else {
+
+      if (!contentRemoved) {
+        res.status(404).send({message: 'No se ha podido eliminar el contenido'});
+      }else {
+        res.status(200).send({song: contentRemoved});
+      }
+
+    }
+
+  });
+
+}
+
+
 module.exports = {
+  getAllContent,
   getContent,
-  saveContent
+  updateContent,
+  deleteContent
 };

@@ -3,7 +3,7 @@
 var jwt = require('jwt-simple');
 var moment = require('moment');
 
-var secret = 'clave secreta'
+var secret = 'aed085f52d361348612b5c27cd82925f'
 
 exports.ensureAuth = function(req, res, next) {
 
@@ -15,9 +15,14 @@ exports.ensureAuth = function(req, res, next) {
 
   try {
 
+    console.log("hhh");
     var payload = jwt.decode(token, secret);
 
-    if (payload.exp <= moment.unix()) {
+    var currentDate = moment.unix();
+
+    console.log(currentDate);
+
+    if (payload.exp.unix() <= moment().unix()) {
       return res.status(401).send({message: 'El token ha expirado'});
     }
 
