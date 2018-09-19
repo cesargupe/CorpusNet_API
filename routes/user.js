@@ -8,6 +8,6 @@ var api = express.Router();
 
 api.post('/login', UserController.loginUser);
 api.get('/users', md_auth.ensureAuth, UserController.getUsers);
-api.post('/new_user', md_auth.ensureAuth, UserController.saveUser);
+api.post('/new_user', UserController.saveUser);
 
 module.exports = api;

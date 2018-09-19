@@ -1,64 +1,5 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c53f"
-	},
-	"name": "general",
-	"language": "es",
-	"data": {
-		"top_menu": [
-			{
-				"text": "Inicio"
-			},
-			{
-				"text": "Corpus",
-				"sublements": [
-					{
-						"text": "Corpus comparable"
-					},
-					{
-						"text": "Corpus paralelos"
-					}
-				]
-			},
-			{
-				"text": "Herramientas",
-				"sublements": [
-					{
-						"text": "Tagsets"
-					},
-					{
-						"text": "Herramientas técnicas"
-					}
-				]
-			},
-			{
-				"text": "Aplicaciones"
-			},
-			{
-				"text": "Grupos"
-			},
-			{
-				"text": "Noticias"
-			},
-			{
-				"text": "Idioma"
-			}
-		],
-		"languages": [
-			{
-				"code": "es",
-				"name": "Español"
-			},
-			{
-				"code": "en",
-				"name": "Inglés"
-			}
-		],
-		"footer": "Red de Excelencia \u003cb\u003eCorpusNet\u003c/b\u003e financiada por MINECO FF12016-81934-RED"
-	}
-},
-{
-	"_id": {
 		"$oid": "5ba210feaf3c2e052dd8c540"
 	},
 	"name": "general",
@@ -114,6 +55,65 @@
 			}
 		],
 		"footer": "Network of Excellence \u003cb\u003eCorpusNet\u003c/b\u003e funded by MINECO FF12016-81934-RED"
+	}
+},
+{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c53f"
+	},
+	"name": "general",
+	"language": "es",
+	"data": {
+		"top_menu": [
+			{
+				"text": "Inicio"
+			},
+			{
+				"text": "Corpus",
+				"sublements": [
+					{
+						"text": "Corpus comparable"
+					},
+					{
+						"text": "Corpus paralelos"
+					}
+				]
+			},
+			{
+				"text": "Herramientas",
+				"sublements": [
+					{
+						"text": "Tagsets"
+					},
+					{
+						"text": "Herramientas técnicas"
+					}
+				]
+			},
+			{
+				"text": "Aplicaciones"
+			},
+			{
+				"text": "Grupos"
+			},
+			{
+				"text": "Noticias"
+			},
+			{
+				"text": "Idioma"
+			}
+		],
+		"languages": [
+			{
+				"code": "es",
+				"name": "Español"
+			},
+			{
+				"code": "en",
+				"name": "Inglés"
+			}
+		],
+		"footer": "Red de Excelencia \u003cb\u003eCorpusNet\u003c/b\u003e financiada por MINECO FF12016-81934-RED"
 	}
 }]
 

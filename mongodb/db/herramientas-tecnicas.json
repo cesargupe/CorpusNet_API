@@ -1,9 +1,9 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c55e"
+		"$oid": "5ba210feaf3c2e052dd8c55d"
 	},
 	"name": "herramientas-tecnicas",
-	"language": "en",
+	"language": "es",
 	"data": {
 		"title": "Herramientas técnicas",
 		"nav": [
@@ -119,10 +119,10 @@
 },
 {
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c55d"
+		"$oid": "5ba210feaf3c2e052dd8c55e"
 	},
 	"name": "herramientas-tecnicas",
-	"language": "es",
+	"language": "en",
 	"data": {
 		"title": "Herramientas técnicas",
 		"nav": [

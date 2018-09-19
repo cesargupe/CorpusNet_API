@@ -1,53 +1,5 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c56a"
-	},
-	"name": "grupos",
-	"language": "en",
-	"data": {
-		"title": "Grupos",
-		"teams": [
-			{
-				"place": "Universidad de León",
-				"name": "Aplicacion 1",
-				"master": "Rosa Rabadán Álvarez",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"buttons": [
-					{
-						"name": "Visitar página web",
-						"link": "http://www.google.es"
-					}
-				]
-			},
-			{
-				"place": "Universidad de León",
-				"name": "Aplicacion 1",
-				"master": "Rosa Rabadán Álvarez",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"buttons": [
-					{
-						"name": "Visitar página web",
-						"link": "http://www.google.es"
-					}
-				]
-			},
-			{
-				"place": "Universidad de León",
-				"name": "Aplicacion 1",
-				"master": "Rosa Rabadán Álvarez",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"buttons": [
-					{
-						"name": "Visitar página web",
-						"link": "http://www.google.es"
-					}
-				]
-			}
-		]
-	}
-},
-{
-	"_id": {
 		"$oid": "5ba210feaf3c2e052dd8c569"
 	},
 	"name": "grupos",
@@ -107,6 +59,54 @@
 				"place": "Universidad Complutense de Madrid",
 				"name": "FUNCAP",
 				"master": "Nombre Apellido1 Apellido2",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"buttons": [
+					{
+						"name": "Visitar página web",
+						"link": "http://www.google.es"
+					}
+				]
+			}
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c56a"
+	},
+	"name": "grupos",
+	"language": "en",
+	"data": {
+		"title": "Grupos",
+		"teams": [
+			{
+				"place": "Universidad de León",
+				"name": "Aplicacion 1",
+				"master": "Rosa Rabadán Álvarez",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"buttons": [
+					{
+						"name": "Visitar página web",
+						"link": "http://www.google.es"
+					}
+				]
+			},
+			{
+				"place": "Universidad de León",
+				"name": "Aplicacion 1",
+				"master": "Rosa Rabadán Álvarez",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"buttons": [
+					{
+						"name": "Visitar página web",
+						"link": "http://www.google.es"
+					}
+				]
+			},
+			{
+				"place": "Universidad de León",
+				"name": "Aplicacion 1",
+				"master": "Rosa Rabadán Álvarez",
 				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
 				"buttons": [
 					{
