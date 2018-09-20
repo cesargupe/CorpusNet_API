@@ -6,5 +6,13 @@
 	"role": "ROLE_USER",
 	"password": "$2a$10$D55PYvjCktz27OSMhTDCxe7mIG3g7NDun7nwXm2ySyUA2HZ09I9qm",
 	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5ba35eb0c4330f03cda4a53b"
+	},
+	"team": "ADMIN",
+	"role": "ROLE_ADMIN",
+	"password": "$2a$10$mFIchX7arjqCisgMHSyyT.2ZpBz8MyTKydBD83wFJGvspM.I7fl7C",
+	"__v": 0
 }]
-

@@ -9,6 +9,16 @@
 		"pagination": {
 			"btn_previous": "Previous",
 			"btn_next": "Next"
+		},
+		"edit_menu": {
+			"new_btn": "New",
+			"new_title": "New notice",
+			"edit_title": "Edit notice",
+			"error_text": "There was an error saving the notice",
+			"text_title": "Text of the notice",
+			"link_title": "Link of the notice",
+			"cancel_btn": "Cancel",
+			"save_btn": "Save"
 		}
 	}
 },
@@ -23,6 +33,16 @@
 		"pagination": {
 			"btn_previous": "Anterior",
 			"btn_next": "Siguiente"
+		},
+		"edit_menu": {
+			"new_btn": "Nueva",
+			"new_title": "Nueva noticia",
+			"edit_title": "Editar Noticia",
+			"error_text": "Se ha producido un error guardando la noticia",
+			"text_title": "Texto de la noticia",
+			"link_title": "Link de la noticia",
+			"cancel_btn": "Cancelar",
+			"save_btn": "Guardar"
 		}
 	}
 }]

@@ -22,7 +22,7 @@ exports.ensureAuth = function(req, res, next) {
     }
 
   } catch (e) {
-    return res.status(404).send({message: 'Token no válido'});
+    return res.status(401).send({message: 'Token no válido'});
   }
 
   req.user = payload;
