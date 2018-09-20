@@ -4,7 +4,7 @@ var Notice = require('../models/notice');
 
 function getNotices(req, res) {
 
-  Notice.find({}).sort({'_id': -1}).exec((err, notices) => {
+  Notice.find({}).sort({'created': -1}).exec((err, notices) => {
 
     if (err) {
       res.status(500).send({message: 'Error en la peticion'});
