@@ -3,6 +3,7 @@
 		"$oid": "5ba26aefbef64d0cbf1c9ebd"
 	},
 	"team": "ACTRES",
+	"acronym": "ULE",
 	"role": "ROLE_USER",
 	"password": "$2a$10$D55PYvjCktz27OSMhTDCxe7mIG3g7NDun7nwXm2ySyUA2HZ09I9qm",
 	"__v": 0
@@ -16,4 +17,3 @@
 	"password": "$2a$10$mFIchX7arjqCisgMHSyyT.2ZpBz8MyTKydBD83wFJGvspM.I7fl7C",
 	"__v": 0
 }]
-

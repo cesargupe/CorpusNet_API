@@ -10,6 +10,7 @@ exports.createToken = function(user){
   var payload = {
     sub: user._id,
     team: user.team,
+    acronym: user.acronym,
     role: user.role,
     iat: moment().valueOf(),
     exp: moment().add(10, 'days').valueOf()

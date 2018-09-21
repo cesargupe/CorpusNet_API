@@ -10,48 +10,39 @@
 			"title": "Instrucciones de uso",
 			"content": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor. Et ultricies imperdiet interdum proin porta aptent volutpat neque, semper fringilla libero penatibus nostra id dictum inceptos, magnis pellentesque phasellus quisque lacinia curabitur platea.\u003cbr\u003e\u003cbr\u003eMagnis mattis taciti elementum rhoncus habitasse accumsan lacinia iaculis vel dignissim sagittis metus ultrices, euismod conubia tellus tempor luctus imperdiet ac justo aliquet risus commodo praesent curabitur, gravida fusce per sem morbi ullamcorper arcu turpis lectus pulvinar consequat torquent. Suscipit diam euismod sollicitudin placerat ornare, ultrices porta enim fringilla tellus, mollis magnis est condimentum. Fringilla cubilia elementum tellus condimentum urna imperdiet magnis varius, blandit praesent massa risus neque dapibus volutpat, sociosqu mus montes nullam nostra id phasellus."
 		},
+		"buttons": [
+			"Access",
+			"Datasheet"
+		],
+		"edit_menu": {
+			"new_btn": "New Corpora",
+			"new_title": "New Corpora",
+			"edit_title": "Edit Corpora",
+			"error_text": "There was an error saving Corpora",
+			"name_title": "Name of Corpora",
+			"description_title": "Description of Corpora",
+			"email_title": "Link of Corpora",
+			"cancel_btn": "Cancel",
+			"save_btn": "Save"
+		},
 		"corpus": [
 			{
-				"autor": "Universidad de León",
-				"name": "ACTRES",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"author": "ACTRES",
+				"acronym": "ULE",
+				"name": "Corpus 1",
+				"link": "https://google.es"
 			},
 			{
-				"autor": "Universidad de Alicante",
-				"name": "FRASYTRAM",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"author": "FRASYTRAM",
+				"acronym": "AU",
+				"name": "Corpus 2",
+				"link": "https://google.es"
 			},
 			{
-				"autor": "Universidad del País Vasco",
-				"name": "TRALIMA",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"author": "TRALIMA",
+				"acronym": "EHU",
+				"name": "Corpus 3",
+				"link": "https://google.es"
 			}
 		]
 	}
@@ -68,92 +59,58 @@
 			"title": "Instrucciones de uso",
 			"content": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor. Et ultricies imperdiet interdum proin porta aptent volutpat neque, semper fringilla libero penatibus nostra id dictum inceptos, magnis pellentesque phasellus quisque lacinia curabitur platea.\u003cbr\u003e\u003cbr\u003eMagnis mattis taciti elementum rhoncus habitasse accumsan lacinia iaculis vel dignissim sagittis metus ultrices, euismod conubia tellus tempor luctus imperdiet ac justo aliquet risus commodo praesent curabitur, gravida fusce per sem morbi ullamcorper arcu turpis lectus pulvinar consequat torquent. Suscipit diam euismod sollicitudin placerat ornare, ultrices porta enim fringilla tellus, mollis magnis est condimentum. Fringilla cubilia elementum tellus condimentum urna imperdiet magnis varius, blandit praesent massa risus neque dapibus volutpat, sociosqu mus montes nullam nostra id phasellus."
 		},
+		"buttons": [
+			"Acceder",
+			"Ficha técnica"
+		],
+		"edit_menu": {
+			"new_btn": "Nuevo Corpus",
+			"new_title": "Nuevo Corpus",
+			"edit_title": "Editar Corpus",
+			"error_text": "Se ha producido un error guardando el corpus",
+			"name_title": "Nombre del Corpus",
+			"description_title": "Descripción del Corpus",
+			"email_title": "Link del Corpus",
+			"cancel_btn": "Cancelar",
+			"save_btn": "Guardar"
+		},
 		"corpus": [
 			{
-				"autor": "Universidad de León",
-				"name": "ACTRES",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"author": "ACTRES",
+				"acronym": "ULE",
+				"name": "Corpus 1",
+				"link": "https://google.es"
 			},
 			{
-				"autor": "Universidad de Alicante",
-				"name": "FRASYTRAM",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"author": "FRASYTRAM",
+				"acronym": "UA",
+				"name": "Corpus 2",
+				"link": "https://google.es"
 			},
 			{
-				"autor": "Universidad del País Vasco",
-				"name": "TRALIMA",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"author": "TRALIMA",
+				"acronym": "EHU",
+				"name": "Corpus 3",
+				"link": "https://google.es"
 			},
 			{
-				"autor": "Universidad Complutense de Madrid",
-				"name": "FUNCAP",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"author": "FUNCAP",
+				"acronym": "UCM",
+				"name": "Corpus 4",
+				"link": "https://google.es"
 			},
 			{
-				"autor": "Universitat Pompeu i Fabra",
-				"name": "GLICom",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"author": "GLICom",
+				"acronym": "UPF",
+				"name": "Corpus 5",
+				"link": "https://google.es"
 			},
 			{
-				"autor": "Universidad de Málaga",
-				"name": "LEXYTRAD",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"author": "LEXYTRAD",
+				"acronym": "UMA",
+				"name": "Corpus 6",
+				"link": "https://google.es"
 			}
 		]
 	}
 }]
-

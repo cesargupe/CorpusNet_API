@@ -5,6 +5,7 @@ var Schema = mongoose.Schema;
 
 var UserSchema = Schema({
   team: String,
+  acronym: String,
   password: String,
   role: String
 });

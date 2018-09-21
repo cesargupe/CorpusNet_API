@@ -39,7 +39,7 @@ function loginUser(req, res) {
 
           if (check) {
             res.status(200).send({
-              user: {'_id': user._id, 'team': user.team, 'role': user.role},
+              user: {'_id': user._id, 'team': user.team, 'acronym': user.acronym, 'role': user.role},
               token: jwt.createToken(user)
             });
           }else {
