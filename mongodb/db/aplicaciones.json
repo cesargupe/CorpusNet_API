@@ -6,54 +6,28 @@
 	"language": "en",
 	"data": {
 		"title": "Aplicaciones",
+		"buttons": [
+			"Access",
+			"Datasheet"
+		],
 		"applications": [
 			{
 				"author": "ACTRES",
 				"acronym": "ULE",
 				"name": "Aplicacion 1",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 			},
 			{
 				"author": "FUNCAP",
 				"acronym": "UCM",
 				"name": "Aplicacion 2",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 			},
 			{
 				"author": "GLICom",
 				"acronym": "UPF",
 				"name": "Aplicacion 3",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 			}
 		]
 	}
@@ -66,56 +40,29 @@
 	"language": "es",
 	"data": {
 		"title": "Aplicaciones",
+		"buttons": [
+			"Acceder",
+			"Ficha técnica"
+		],
 		"applications": [
 			{
 				"author": "ACTRES",
 				"acronym": "ULE",
 				"name": "Aplicacion 1",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 			},
 			{
 				"author": "FUNCAP",
 				"acronym": "UCM",
 				"name": "Aplicacion 2",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 			},
 			{
 				"author": "GLICom",
 				"acronym": "UPF",
 				"name": "Aplicacion 3",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 			}
 		]
 	}
 }]
-
