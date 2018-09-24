@@ -10,6 +10,17 @@
 			"Access",
 			"Datasheet"
 		],
+		"edit_menu": {
+			"new_btn": "New application",
+			"new_title": "New application",
+			"edit_title": "Edit application",
+			"error_text": "There was an error saving application",
+			"name_title": "Name of application",
+			"description_title": "Description of application",
+			"email_title": "Link of application",
+			"cancel_btn": "Cancel",
+			"save_btn": "Save"
+		},
 		"applications": [
 			{
 				"author": "ACTRES",
@@ -44,6 +55,17 @@
 			"Acceder",
 			"Ficha técnica"
 		],
+		"edit_menu": {
+			"new_btn": "Nueva aplicación",
+			"new_title": "Nueva aplicación",
+			"edit_title": "Editar aplicación",
+			"error_text": "Se ha producido un error guardando la aplicación",
+			"name_title": "Nombre de la aplicación",
+			"description_title": "Descripción de la aplicación",
+			"email_title": "Link de la aplicación",
+			"cancel_btn": "Cancelar",
+			"save_btn": "Guardar"
+		},
 		"applications": [
 			{
 				"author": "ACTRES",

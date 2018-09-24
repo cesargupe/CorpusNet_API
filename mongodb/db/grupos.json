@@ -10,6 +10,14 @@
 			"Acceder",
 			"Ficha técnica"
 		],
+		"edit_menu": {
+			"edit_title": "Editar grupo",
+			"error_text": "Se ha producido un error guardando el contenido",
+			"description_title": "Descripción del grupo",
+			"email_title": "Link del grupo",
+			"cancel_btn": "Cancelar",
+			"save_btn": "Guardar"
+		},
 		"teams": [
 			{
 				"place": "Universidad de León",
@@ -61,6 +69,14 @@
 			"Access",
 			"Datasheet"
 		],
+		"edit_menu": {
+			"edit_title": "Edit team",
+			"error_text": "There was an error saving content",
+			"description_title": "Description of team",
+			"email_title": "Link of team",
+			"cancel_btn": "Cancel",
+			"save_btn": "Save"
+		},
 		"teams": [
 			{
 				"place": "Universidad de León",
