@@ -6,10 +6,35 @@
 	"language": "en",
 	"data": {
 		"title": "Herramientas técnicas",
+		"buttons": [
+			"Access",
+			"Datasheet"
+		],
+		"edit_menu": {
+			"new_btn": "New tool",
+			"new_title": "New tool",
+			"edit_title": "Edit tool",
+			"error_text": "There was an error saving tool",
+			"type_title": "Type of tool",
+			"name_title": "Name of tool",
+			"description_title": "Description of tool",
+			"email_title": "Link of tool",
+			"cancel_btn": "Cancel",
+			"save_btn": "Save"
+		},
 		"nav": [
-			"Etiquetadores",
-			"Visores",
-			"Alineadores"
+			{
+				"name": "tagger",
+				"title": "Taggers"
+			},
+			{
+				"name": "browser",
+				"title": "Browsers"
+			},
+			{
+				"name": "aligner",
+				"title": "Aligners"
+			}
 		],
 		"tools": {
 			"tagger": [
@@ -17,33 +42,13 @@
 					"author": "ACTRES",
 					"acronym": "ULE",
 					"name": "Etiquetador 1",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-					"buttons": [
-						{
-							"name": "Acceder",
-							"link": "http://www.google.es"
-						},
-						{
-							"name": "Ficha técnica",
-							"link": ""
-						}
-					]
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 				},
 				{
 					"author": "TRALIMA",
 					"acronym": "EHU",
 					"name": "Etiquetador 2",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-					"buttons": [
-						{
-							"name": "Acceder",
-							"link": "http://www.google.es"
-						},
-						{
-							"name": "Ficha técnica",
-							"link": ""
-						}
-					]
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 				}
 			],
 			"browser": [
@@ -51,33 +56,13 @@
 					"author": "ACTRES",
 					"acronym": "ULE",
 					"name": "Visor 1",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-					"buttons": [
-						{
-							"name": "Acceder",
-							"link": "http://www.google.es"
-						},
-						{
-							"name": "Ficha técnica",
-							"link": ""
-						}
-					]
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 				},
 				{
 					"author": "TRALIMA",
 					"acronym": "EHU",
 					"name": "Visor 2",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-					"buttons": [
-						{
-							"name": "Acceder",
-							"link": "http://www.google.es"
-						},
-						{
-							"name": "Ficha técnica",
-							"link": ""
-						}
-					]
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 				}
 			],
 			"aligner": [
@@ -85,33 +70,13 @@
 					"author": "ACTRES",
 					"acronym": "ULE",
 					"name": "Alineador 1",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-					"buttons": [
-						{
-							"name": "Acceder",
-							"link": "http://www.google.es"
-						},
-						{
-							"name": "Ficha técnica",
-							"link": ""
-						}
-					]
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 				},
 				{
 					"author": "TRALIMA",
 					"acronym": "EHU",
 					"name": "Alineador 2",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-					"buttons": [
-						{
-							"name": "Acceder",
-							"link": "http://www.google.es"
-						},
-						{
-							"name": "Ficha técnica",
-							"link": ""
-						}
-					]
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 				}
 			]
 		}
@@ -125,10 +90,35 @@
 	"language": "es",
 	"data": {
 		"title": "Herramientas técnicas",
+		"buttons": [
+			"Acceder",
+			"Ficha técnica"
+		],
+		"edit_menu": {
+			"new_btn": "Nueva herramienta",
+			"new_title": "Nueva herramienta",
+			"edit_title": "Editar herramienta",
+			"error_text": "Se ha producido un error guardando la herramienta",
+			"type_title": "Tipo de herramienta",
+			"name_title": "Nombre de la herramienta",
+			"description_title": "Descripción de la herramienta",
+			"email_title": "Link de la herramienta",
+			"cancel_btn": "Cancelar",
+			"save_btn": "Guardar"
+		},
 		"nav": [
-			"Etiquetadores",
-			"Visores",
-			"Alineadores"
+			{
+				"name": "tagger",
+				"title": "Etiquetadores"
+			},
+			{
+				"name": "browser",
+				"title": "Visores"
+			},
+			{
+				"name": "aligner",
+				"title": "Alineadores"
+			}
 		],
 		"tools": {
 			"tagger": [
@@ -136,33 +126,13 @@
 					"author": "ACTRES",
 					"acronym": "ULE",
 					"name": "Etiquetador 1",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-					"buttons": [
-						{
-							"name": "Acceder",
-							"link": "http://www.google.es"
-						},
-						{
-							"name": "Ficha técnica",
-							"link": ""
-						}
-					]
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 				},
 				{
 					"author": "TRALIMA",
 					"acronym": "EHU",
 					"name": "Etiquetador 2",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-					"buttons": [
-						{
-							"name": "Acceder",
-							"link": "http://www.google.es"
-						},
-						{
-							"name": "Ficha técnica",
-							"link": ""
-						}
-					]
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 				}
 			],
 			"browser": [
@@ -170,33 +140,13 @@
 					"author": "ACTRES",
 					"acronym": "ULE",
 					"name": "Visor 1",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-					"buttons": [
-						{
-							"name": "Acceder",
-							"link": "http://www.google.es"
-						},
-						{
-							"name": "Ficha técnica",
-							"link": ""
-						}
-					]
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 				},
 				{
 					"author": "TRALIMA",
 					"acronym": "EHU",
 					"name": "Visor 2",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-					"buttons": [
-						{
-							"name": "Acceder",
-							"link": "http://www.google.es"
-						},
-						{
-							"name": "Ficha técnica",
-							"link": ""
-						}
-					]
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 				}
 			],
 			"aligner": [
@@ -204,36 +154,15 @@
 					"author": "ACTRES",
 					"acronym": "ULE",
 					"name": "Alineador 1",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-					"buttons": [
-						{
-							"name": "Acceder",
-							"link": "http://www.google.es"
-						},
-						{
-							"name": "Ficha técnica",
-							"link": ""
-						}
-					]
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 				},
 				{
 					"author": "TRALIMA",
 					"acronym": "EHU",
 					"name": "Alineador 2",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-					"buttons": [
-						{
-							"name": "Acceder",
-							"link": "http://www.google.es"
-						},
-						{
-							"name": "Ficha técnica",
-							"link": ""
-						}
-					]
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 				}
 			]
 		}
 	}
 }]
-

@@ -6,70 +6,45 @@
 	"language": "es",
 	"data": {
 		"title": "Tagsets",
+		"buttons": [
+			"Acceder",
+			"Ficha técnica"
+		],
+		"edit_menu": {
+			"new_btn": "Nueva herramienta",
+			"new_title": "Nueva herramienta",
+			"edit_title": "Editar herramienta",
+			"error_text": "Se ha producido un error guardando la herramienta",
+			"name_title": "Nombre de la herramienta",
+			"description_title": "Descripción de la herramienta",
+			"email_title": "Link de la herramienta",
+			"cancel_btn": "Cancelar",
+			"save_btn": "Guardar"
+		},
 		"tools": [
 			{
 				"author": "ACTRES",
 				"acronym": "ULE",
 				"name": "Tagset 1",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 			},
 			{
 				"author": "FUNCAP",
 				"acronym": "UCM",
 				"name": "Tagset 2",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 			},
 			{
 				"author": "GLICom",
 				"acronym": "UPF",
 				"name": "Tagset 3",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 			},
 			{
 				"author": "TRACE",
 				"acronym": "ULE",
 				"name": "ACTRES",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 			}
 		]
 	}
@@ -82,72 +57,46 @@
 	"language": "en",
 	"data": {
 		"title": "Tagsets",
+		"buttons": [
+			"Access",
+			"Datasheet"
+		],
+		"edit_menu": {
+			"new_btn": "New tool",
+			"new_title": "New tool",
+			"edit_title": "Edit tool",
+			"error_text": "There was an error saving tool",
+			"name_title": "Name of tool",
+			"description_title": "Description of tool",
+			"email_title": "Link of tool",
+			"cancel_btn": "Cancel",
+			"save_btn": "Save"
+		},
 		"tools": [
 			{
 				"author": "ACTRES",
 				"acronym": "ULE",
 				"name": "Tagset 1",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 			},
 			{
 				"author": "FUNCAP",
 				"acronym": "UCM",
 				"name": "Tagset 2",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 			},
 			{
 				"author": "GLICom",
 				"acronym": "UPF",
 				"name": "Tagset 3",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 			},
 			{
 				"author": "TRACE",
 				"acronym": "ULE",
 				"name": "ACTRES",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"buttons": [
-					{
-						"name": "Acceder",
-						"link": "http://www.google.es"
-					},
-					{
-						"name": "Ficha técnica",
-						"link": ""
-					}
-				]
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 			}
 		]
 	}
 }]
-
