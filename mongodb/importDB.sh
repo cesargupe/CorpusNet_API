@@ -10,6 +10,7 @@ mongoimport --db corpusnet --collection contents --file db/aplicaciones.json --j
 mongoimport --db corpusnet --collection contents --file db/grupos.json --jsonArray
 mongoimport --db corpusnet --collection contents --file db/noticias.json --jsonArray
 mongoimport --db corpusnet --collection contents --file db/acceso.json --jsonArray
+mongoimport --db corpusnet --collection contents --file db/ficha-tecnica.json --jsonArray
 
 mongo corpusnet --eval 'db.datasheets.drop()'
 mongoimport --db corpusnet --collection datasheets --file db/datasheets.json --jsonArray

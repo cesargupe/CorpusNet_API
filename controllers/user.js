@@ -60,9 +60,8 @@ function saveUser(req, res) {
   var user = new User();
   var params = req.body;
 
-  console.log(params);
-
   user.team = params.team;
+  user.acronym = params.acronym;
   user.role = 'ROLE_USER';
 
   if (params.password) {

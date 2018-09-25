@@ -20,6 +20,8 @@ query="{name:'noticias'}";
 mongoexport --db corpusnet --collection contents --jsonArray --pretty --out db/noticias.json --query "$query"
 query="{name:'acceso'}";
 mongoexport --db corpusnet --collection contents --jsonArray --pretty --out db/acceso.json --query "$query"
+query="{name:'ficha-tecnica'}";
+mongoexport --db corpusnet --collection contents --jsonArray --pretty --out db/ficha-tecnica.json --query "$query"
 
 query="{}";
 mongoexport --db corpusnet --collection datasheets --jsonArray --pretty --out db/datasheets.json --query "$query"

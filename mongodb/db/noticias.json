@@ -1,29 +1,5 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c570"
-	},
-	"name": "noticias",
-	"language": "en",
-	"data": {
-		"title": "News",
-		"pagination": {
-			"btn_previous": "Previous",
-			"btn_next": "Next"
-		},
-		"edit_menu": {
-			"new_btn": "New",
-			"new_title": "New notice",
-			"edit_title": "Edit notice",
-			"error_text": "There was an error saving the notice",
-			"text_title": "Text of the notice",
-			"link_title": "Link of the notice",
-			"cancel_btn": "Cancel",
-			"save_btn": "Save"
-		}
-	}
-},
-{
-	"_id": {
 		"$oid": "5ba210feaf3c2e052dd8c56f"
 	},
 	"name": "noticias",
@@ -43,6 +19,30 @@
 			"link_title": "Link de la noticia",
 			"cancel_btn": "Cancelar",
 			"save_btn": "Guardar"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c570"
+	},
+	"name": "noticias",
+	"language": "en",
+	"data": {
+		"title": "News",
+		"pagination": {
+			"btn_previous": "Previous",
+			"btn_next": "Next"
+		},
+		"edit_menu": {
+			"new_btn": "New",
+			"new_title": "New notice",
+			"edit_title": "Edit notice",
+			"error_text": "There was an error saving the notice",
+			"text_title": "Text of the notice",
+			"link_title": "Link of the notice",
+			"cancel_btn": "Cancel",
+			"save_btn": "Save"
 		}
 	}
 }]

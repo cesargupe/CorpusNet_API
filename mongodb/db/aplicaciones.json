@@ -1,50 +1,5 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c563"
-	},
-	"name": "aplicaciones",
-	"language": "en",
-	"data": {
-		"title": "Aplicaciones",
-		"buttons": [
-			"Access",
-			"Datasheet"
-		],
-		"edit_menu": {
-			"new_btn": "New application",
-			"new_title": "New application",
-			"edit_title": "Edit application",
-			"error_text": "There was an error saving application",
-			"name_title": "Name of application",
-			"description_title": "Description of application",
-			"email_title": "Link of application",
-			"cancel_btn": "Cancel",
-			"save_btn": "Save"
-		},
-		"applications": [
-			{
-				"author": "ACTRES",
-				"acronym": "ULE",
-				"name": "Aplicacion 1",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
-			},
-			{
-				"author": "FUNCAP",
-				"acronym": "UCM",
-				"name": "Aplicacion 2",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
-			},
-			{
-				"author": "GLICom",
-				"acronym": "UPF",
-				"name": "Aplicacion 3",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
-			}
-		]
-	}
-},
-{
-	"_id": {
 		"$oid": "5ba210feaf3c2e052dd8c564"
 	},
 	"name": "aplicaciones",
@@ -87,4 +42,50 @@
 			}
 		]
 	}
+},
+{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c563"
+	},
+	"name": "aplicaciones",
+	"language": "en",
+	"data": {
+		"title": "Aplicaciones",
+		"buttons": [
+			"Access",
+			"Datasheet"
+		],
+		"edit_menu": {
+			"new_btn": "New application",
+			"new_title": "New application",
+			"edit_title": "Edit application",
+			"error_text": "There was an error saving application",
+			"name_title": "Name of application",
+			"description_title": "Description of application",
+			"email_title": "Link of application",
+			"cancel_btn": "Cancel",
+			"save_btn": "Save"
+		},
+		"applications": [
+			{
+				"author": "ACTRES",
+				"acronym": "ULE",
+				"name": "Aplicacion 1",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+			},
+			{
+				"author": "FUNCAP",
+				"acronym": "UCM",
+				"name": "Aplicacion 2",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+			},
+			{
+				"author": "GLICom",
+				"acronym": "UPF",
+				"name": "Aplicacion 3",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+			}
+		]
+	}
 }]
+

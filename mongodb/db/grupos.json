@@ -1,5 +1,50 @@
 [{
 	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c56a"
+	},
+	"name": "grupos",
+	"language": "en",
+	"data": {
+		"title": "Grupos",
+		"buttons": [
+			"Access",
+			"Datasheet"
+		],
+		"edit_menu": {
+			"edit_title": "Edit team",
+			"error_text": "There was an error saving content",
+			"description_title": "Description of team",
+			"email_title": "Link of team",
+			"cancel_btn": "Cancel",
+			"save_btn": "Save"
+		},
+		"teams": [
+			{
+				"place": "Universidad de León",
+				"name": "Aplicacion 1",
+				"master": "Rosa Rabadán Álvarez",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://www.google.es"
+			},
+			{
+				"place": "Universidad de León",
+				"name": "Aplicacion 1",
+				"master": "Rosa Rabadán Álvarez",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://www.google.es"
+			},
+			{
+				"place": "Universidad de León",
+				"name": "Aplicacion 1",
+				"master": "Rosa Rabadán Álvarez",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://www.google.es"
+			}
+		]
+	}
+},
+{
+	"_id": {
 		"$oid": "5ba210feaf3c2e052dd8c569"
 	},
 	"name": "grupos",
@@ -56,49 +101,5 @@
 			}
 		]
 	}
-},
-{
-	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c56a"
-	},
-	"name": "grupos",
-	"language": "en",
-	"data": {
-		"title": "Grupos",
-		"buttons": [
-			"Access",
-			"Datasheet"
-		],
-		"edit_menu": {
-			"edit_title": "Edit team",
-			"error_text": "There was an error saving content",
-			"description_title": "Description of team",
-			"email_title": "Link of team",
-			"cancel_btn": "Cancel",
-			"save_btn": "Save"
-		},
-		"teams": [
-			{
-				"place": "Universidad de León",
-				"name": "Aplicacion 1",
-				"master": "Rosa Rabadán Álvarez",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"link": "http://www.google.es"
-			},
-			{
-				"place": "Universidad de León",
-				"name": "Aplicacion 1",
-				"master": "Rosa Rabadán Álvarez",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"link": "http://www.google.es"
-			},
-			{
-				"place": "Universidad de León",
-				"name": "Aplicacion 1",
-				"master": "Rosa Rabadán Álvarez",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"link": "http://www.google.es"
-			}
-		]
-	}
 }]
+

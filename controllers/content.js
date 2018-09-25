@@ -52,6 +52,28 @@ function getContent(req, res) {
 
 }
 
+function getContentDatasheet(req, res) {
+
+  var type_content = req.params.type;
+
+  console.log(req.params);
+
+  Content.findOne({'name': 'ficha-tecnica', 'type': type_content}).sort({'_id': -1}).exec((err, content) => {
+
+    if (err) {
+      res.status(500).send({message: 'Error en la peticion'});
+    }else {
+      if (!content) {
+        res.status(404).send({message: 'El contenido no existe'});
+      }else {
+        res.status(200).send({content});
+      }
+    }
+
+  });
+
+}
+
 function updateContent(req, res) {
 
   var contentId = req.params.id;
@@ -101,6 +123,7 @@ function deleteContent(req, res) {
 module.exports = {
   getAllContent,
   getContent,
+  getContentDatasheet,
   updateContent,
   deleteContent
 };
