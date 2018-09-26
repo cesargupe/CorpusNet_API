@@ -37,8 +37,6 @@ function saveDatasheet(req, res) {
   var datasheet = new Datasheet();
   var params = req.body;
 
-  console.log(params);
-
   datasheet.name = params.name;
   datasheet.type = params.type;
   datasheet.data = params.data;

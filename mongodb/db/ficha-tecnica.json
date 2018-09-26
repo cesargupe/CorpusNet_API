@@ -3,7 +3,7 @@
 		"$oid": "5baa228a0553b13a1af5ca34"
 	},
 	"name": "ficha-tecnica",
-	"type": "corpus-comprables",
+	"type": "corpus-comparables",
 	"data": [
 		"Corpus Name",
 		"Acronym",
@@ -76,4 +76,3 @@
 		"Contact person (Name and Email)"
 	]
 }]
-

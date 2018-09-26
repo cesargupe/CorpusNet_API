@@ -4,6 +4,7 @@
 	},
 	"team": "ACTRES",
 	"acronym": "ULE",
+	"place": "Universidad de León",
 	"role": "ROLE_USER",
 	"password": "$2a$10$D55PYvjCktz27OSMhTDCxe7mIG3g7NDun7nwXm2ySyUA2HZ09I9qm",
 	"__v": 0
@@ -13,8 +14,9 @@
 		"$oid": "5ba35eb0c4330f03cda4a53b"
 	},
 	"team": "ADMIN",
+	"acronym": "ADM",
+	"place": "ADM",
 	"role": "ROLE_ADMIN",
 	"password": "$2a$10$mFIchX7arjqCisgMHSyyT.2ZpBz8MyTKydBD83wFJGvspM.I7fl7C",
 	"__v": 0
 }]
-

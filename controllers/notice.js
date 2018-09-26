@@ -25,8 +25,6 @@ function saveNotice(req, res) {
   var notice = new Notice();
   var params = req.body;
 
-  console.log(params);
-
   notice.team = params.team;
   notice.text = params.text;
 
