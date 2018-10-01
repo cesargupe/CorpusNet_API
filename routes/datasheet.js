@@ -8,5 +8,6 @@ var api = express.Router();
 
 api.get('/datasheet/:name/:type', DatasheetController.getDatasheet);
 api.post('/datasheet', md_auth.ensureAuth, DatasheetController.saveDatasheet);
+api.put('/datasheet/:id', md_auth.ensureAuth, DatasheetController.updateDatasheet);
 
 module.exports = api;

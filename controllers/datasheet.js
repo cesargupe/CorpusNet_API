@@ -57,7 +57,31 @@ function saveDatasheet(req, res) {
 
 }
 
+function updateDatasheet(req, res) {
+
+  var datasheetId = req.params.id;
+  var update = req.body;
+  
+  Datasheet.findByIdAndUpdate(datasheetId, update, (err, datasheetUpdated) => {
+
+    if (err) {
+      res.status(500).send({message: 'Error en el servidor'});
+    }else {
+
+      if (!datasheetUpdated) {
+        res.status(404).send({message: 'No se ha podido actualizar la ficha tecnica'});
+      }else {
+        res.status(200).send({datasheet: datasheetUpdated});
+      }
+
+    }
+
+  });
+
+}
+
 module.exports = {
   getDatasheet,
-  saveDatasheet
+  saveDatasheet,
+  updateDatasheet
 };

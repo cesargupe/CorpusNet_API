@@ -26,7 +26,8 @@
 				"author": "ACTRES",
 				"acronym": "ULE",
 				"name": "Tagset 1",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"image": "/assets/uploads/img/etiquetador_ACTRES.png"
 			},
 			{
 				"author": "FUNCAP",
@@ -77,7 +78,8 @@
 				"author": "ACTRES",
 				"acronym": "ULE",
 				"name": "Tagset 1",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"image": "/assets/uploads/img/etiquetador_ACTRES.png"
 			},
 			{
 				"author": "FUNCAP",
@@ -100,4 +102,3 @@
 		]
 	}
 }]
-
