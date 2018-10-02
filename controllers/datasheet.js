@@ -61,7 +61,7 @@ function updateDatasheet(req, res) {
 
   var datasheetId = req.params.id;
   var update = req.body;
-  
+
   Datasheet.findByIdAndUpdate(datasheetId, update, (err, datasheetUpdated) => {
 
     if (err) {
@@ -80,8 +80,57 @@ function updateDatasheet(req, res) {
 
 }
 
+function updateDatasheetName(req, res) {
+
+  var datasheetName = req.params.name;
+  var datasheetType = req.params.type;
+  var update = req.body;
+
+  Datasheet.findOneAndUpdate({'name': datasheetName, 'type': datasheetType}, {$set: update}, (err, datasheetUpdated) => {
+
+    if (err) {
+      res.status(500).send({message: 'Error en el servidor'});
+    }else {
+
+      if (!datasheetUpdated) {
+        res.status(404).send({message: 'No se ha podido actualizar la ficha tecnica'});
+      }else {
+        res.status(200).send({datasheet: datasheetUpdated});
+      }
+
+    }
+
+  });
+
+}
+
+function deleteDatasheet(req, res) {
+
+  var datasheetName = req.params.name;
+  var datasheetType = req.params.type;
+
+  Datasheet.findOneAndRemove({'name': datasheetName, 'type': datasheetType}, (err, datasheetRemoved) => {
+
+    if (err) {
+      res.status(500).send({message: 'Error en el servidor'});
+    }else {
+
+      if (!datasheetRemoved) {
+        res.status(404).send({message: 'No se ha podido borrar el datasheet'});
+      }else {
+        res.status(200).send({datasheet: datasheetRemoved});
+      }
+
+    }
+
+  });
+
+}
+
 module.exports = {
   getDatasheet,
   saveDatasheet,
-  updateDatasheet
+  updateDatasheet,
+  updateDatasheetName,
+  deleteDatasheet
 };
