@@ -6,6 +6,7 @@
 	"acronym": "ULE",
 	"place": "Universidad de León",
 	"role": "ROLE_USER",
+	"master": "Rosa Rabadán",
 	"password": "$2a$10$D55PYvjCktz27OSMhTDCxe7mIG3g7NDun7nwXm2ySyUA2HZ09I9qm",
 	"__v": 0
 },
@@ -17,6 +18,7 @@
 	"acronym": "ADM",
 	"place": "ADM",
 	"role": "ROLE_ADMIN",
+	"master": "César Gutiérrez",
 	"password": "$2a$10$mFIchX7arjqCisgMHSyyT.2ZpBz8MyTKydBD83wFJGvspM.I7fl7C",
 	"__v": 0
 }]

@@ -26,58 +26,6 @@
 },
 {
 	"_id": {
-		"$oid": "5bb323bb4cef29563c2e400c"
-	},
-	"name": "ficha-tecnica",
-	"type": "herramientas-tecnicas",
-	"data": [
-		"Corpus Name",
-		"Acronym",
-		"Project URL",
-		"Medium",
-		"Contents",
-		"Region",
-		"Language pairs",
-		"Direction",
-		"Words Number",
-		"Linguistic Annotation",
-		"Alignment",
-		"Interface",
-		"Downloadable",
-		"Access Availability",
-		"Research Group",
-		"University",
-		"Contact person (Name and Email)"
-	]
-},
-{
-	"_id": {
-		"$oid": "5bb323bb4cef29563c2e400d"
-	},
-	"name": "ficha-tecnica",
-	"type": "corpus-paralelos",
-	"data": [
-		"Corpus Name",
-		"Acronym",
-		"Project URL",
-		"Medium",
-		"Contents",
-		"Region",
-		"Language pairs",
-		"Direction",
-		"Words Number",
-		"Linguistic Annotation",
-		"Alignment",
-		"Interface",
-		"Downloadable",
-		"Access Availability",
-		"Research Group",
-		"University",
-		"Contact person (Name and Email)"
-	]
-},
-{
-	"_id": {
 		"$oid": "5bb323bb4cef29563c2e400e"
 	},
 	"name": "ficha-tecnica",
@@ -108,6 +56,58 @@
 	},
 	"name": "ficha-tecnica",
 	"type": "aplicaciones",
+	"data": [
+		"Corpus Name",
+		"Acronym",
+		"Project URL",
+		"Medium",
+		"Contents",
+		"Region",
+		"Language pairs",
+		"Direction",
+		"Words Number",
+		"Linguistic Annotation",
+		"Alignment",
+		"Interface",
+		"Downloadable",
+		"Access Availability",
+		"Research Group",
+		"University",
+		"Contact person (Name and Email)"
+	]
+},
+{
+	"_id": {
+		"$oid": "5bb323bb4cef29563c2e400c"
+	},
+	"name": "ficha-tecnica",
+	"type": "herramientas-tecnicas",
+	"data": [
+		"Corpus Name",
+		"Acronym",
+		"Project URL",
+		"Medium",
+		"Contents",
+		"Region",
+		"Language pairs",
+		"Direction",
+		"Words Number",
+		"Linguistic Annotation",
+		"Alignment",
+		"Interface",
+		"Downloadable",
+		"Access Availability",
+		"Research Group",
+		"University",
+		"Contact person (Name and Email)"
+	]
+},
+{
+	"_id": {
+		"$oid": "5bb323bb4cef29563c2e400d"
+	},
+	"name": "ficha-tecnica",
+	"type": "corpus-paralelos",
 	"data": [
 		"Corpus Name",
 		"Acronym",

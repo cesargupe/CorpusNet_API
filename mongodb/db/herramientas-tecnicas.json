@@ -39,44 +39,52 @@
 		"tools": {
 			"tagger": [
 				{
+					"description": "Facilita la clasificación y anotación de movimientos retóricos en los textos a tratar, de modo que puede seleccionarse el fragmento de texto que se desee y asignarle una etiqueta retórica (dentro de una jerarquía de movimientos, pasos y subpasos).",
+					"link": "https://actres.unileon.es/wordpress/?page_id=42\u0026lang=es",
+					"name": "El etiquetador",
 					"author": "ACTRES",
 					"acronym": "ULE",
-					"name": "Etiquetador 1",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+					"image": "/assets/uploads/tools/ACTRES_El_etiquetador.png"
+				},
+				{
+					"author": "ACTRES",
+					"acronym": "ULE",
+					"name": "Lorem ipsum",
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+					"link": "http://a"
 				},
 				{
 					"author": "TRALIMA",
 					"acronym": "EHU",
-					"name": "Etiquetador 2",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+					"name": "Dolor sit amet",
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+					"link": "http://a"
 				}
 			],
 			"browser": [
 				{
+					"name": "El visor",
+					"description": "Posibilita la realización de búsquedas concretas de partes de textos con determinadas etiquetas retóricas y líneas de concordancias de palabras o combinaciones de palabras. Asimismo, ofrece información estadística, como frecuencias de aparición de palabras o combinaciones fraseológicas y porcentajes de cada movimiento retórico con respecto al total de palabras del corpus.",
+					"link": "https://actres.unileon.es/wordpress/?page_id=42\u0026lang=es",
 					"author": "ACTRES",
 					"acronym": "ULE",
-					"name": "Visor 1",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+					"image": "/assets/uploads/tools/ACTRES_El_visor.png"
 				},
 				{
 					"author": "TRALIMA",
 					"acronym": "EHU",
-					"name": "Visor 2",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+					"name": "Lorem ipsum",
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+					"link": "http://a"
 				}
 			],
 			"aligner": [
 				{
-					"author": "ACTRES",
-					"acronym": "ULE",
-					"name": "Alineador 1",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
-				},
-				{
 					"author": "TRALIMA",
 					"acronym": "EHU",
-					"name": "Alineador 2",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+					"name": "Lorem ipsum",
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+					"link": "http://a"
 				}
 			]
 		}
@@ -125,8 +133,10 @@
 				{
 					"author": "ACTRES",
 					"acronym": "ULE",
-					"name": "Etiquetador 1",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+					"name": "The tagger",
+					"description": "Enables the user to annotate the rhetorical structure of their texts..",
+					"link": "https://actres.unileon.es/wordpress/?page_id=44\u0026lang=en",
+					"image": "/assets/uploads/tools/ACTRES_El_etiquetador.png"
 				},
 				{
 					"author": "TRALIMA",
@@ -139,8 +149,10 @@
 				{
 					"author": "ACTRES",
 					"acronym": "ULE",
-					"name": "Visor 1",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+					"name": "The browser",
+					"description": "Allows the user to retrieve information from the tagged texts by searching for particular rhetorical moves, steps or substeps and for key words or combinations of words. In addition, the browser provides statistical information such as frequency rates of words or phrases and percentages of each rhetorical move compared with the total number of words in the corpus.",
+					"link": "https://actres.unileon.es/wordpress/?page_id=44\u0026lang=en",
+					"image": "/assets/uploads/tools/ACTRES_El_visor.png"
 				},
 				{
 					"author": "TRALIMA",
@@ -151,16 +163,11 @@
 			],
 			"aligner": [
 				{
-					"author": "ACTRES",
-					"acronym": "ULE",
-					"name": "Alineador 1",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
-				},
-				{
 					"author": "TRALIMA",
 					"acronym": "EHU",
-					"name": "Alineador 2",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+					"name": "Lorem ipsum",
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+					"link": "http://a"
 				}
 			]
 		}

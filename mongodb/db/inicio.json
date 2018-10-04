@@ -1,29 +1,5 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c546"
-	},
-	"name": "inicio",
-	"language": "en",
-	"data": {
-		"alert": {
-			"bold_text": "Important message",
-			"normal_text": "This is CorpusNet Beta.",
-			"link": ""
-		},
-		"panels": [
-			{
-				"title": "General information and objectives",
-				"text": "Lorem ipsum dolor noemi sit amet consectetur, adipiscing elit hac lectus eleifend, porttitor malesuada class ultricies. Quisque ut varius cursus aliquet eu vivamus mattis, lectus blandit vestibulum facilisi litora dignissim diam tempor, sollicitudin per quis mus primis orci. Curae erat lacus torquent turpis sollicitudin venenatis hendrerit risus porta, magna ad taciti lacinia curabitur aliquam dictumst sagittis vitae, tristique sapien arcu euismod vestibulum vivamus nullam facilisis. Phasellus tortor ut odio aenean neque elementum habitant curae rutrum primis, imperdiet torquent conubia semper lobortis porta quisque sagittis dictumst. Pellentesque eros convallis praesent accumsan natoque ligula sollicitudin morbi, sed suspendisse pulvinar nec auctor fames curabitur, pharetra ridiculus mi laoreet vulputate eleifend erat. Mi hac consequat montes porttitor nam sollicitudin, id donec purus torquent himenaeos odio mattis, dignissim proin curabitur netus aenean."
-			},
-			{
-				"title": "Take part",
-				"text": "Lorem ipsum dolor sit amet consectetur adipiscing elit cursus ligula non parturient, nunc vestibulum fermentum convallis tempus nibh pretium sociis faucibus. Tempor vestibulum vitae gravida senectus condimentum dui fringilla hendrerit, magnis cubilia porta molestie tempus massa dignissim metus, suspendisse mattis tortor sem volutpat ut dictum. Auctor fermentum nisl habitant porta cum velit rutrum penatibus, conubia nullam habitasse dictum vestibulum porttitor aliquet pharetra pulvinar, tortor diam pretium curabitur magnis duis erat. Cubilia habitant pharetra diam dignissim sodales sagittis bibendum, netus commodo himenaeos odio potenti dis ullamcorper, risus quis id litora hac nostra."
-			}
-		]
-	}
-},
-{
-	"_id": {
 		"$oid": "5ba210feaf3c2e052dd8c545"
 	},
 	"name": "inicio",
@@ -31,7 +7,7 @@
 	"data": {
 		"alert": {
 			"bold_text": "Mensage importante",
-			"normal_text": "Esta es una versión Beta de CorpusNet.",
+			"normal_text": "Esta es la versión Beta Final de CorpusNet.",
 			"link": ""
 		},
 		"panels": [
@@ -45,5 +21,28 @@
 			}
 		]
 	}
+},
+{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c546"
+	},
+	"name": "inicio",
+	"language": "en",
+	"data": {
+		"alert": {
+			"bold_text": "Important message",
+			"normal_text": "This is CorpusNet Final Beta.",
+			"link": ""
+		},
+		"panels": [
+			{
+				"title": "General information and objectives",
+				"text": "Lorem ipsum dolor noemi sit amet consectetur, adipiscing elit hac lectus eleifend, porttitor malesuada class ultricies. Quisque ut varius cursus aliquet eu vivamus mattis, lectus blandit vestibulum facilisi litora dignissim diam tempor, sollicitudin per quis mus primis orci. Curae erat lacus torquent turpis sollicitudin venenatis hendrerit risus porta, magna ad taciti lacinia curabitur aliquam dictumst sagittis vitae, tristique sapien arcu euismod vestibulum vivamus nullam facilisis. Phasellus tortor ut odio aenean neque elementum habitant curae rutrum primis, imperdiet torquent conubia semper lobortis porta quisque sagittis dictumst. Pellentesque eros convallis praesent accumsan natoque ligula sollicitudin morbi, sed suspendisse pulvinar nec auctor fames curabitur, pharetra ridiculus mi laoreet vulputate eleifend erat. Mi hac consequat montes porttitor nam sollicitudin, id donec purus torquent himenaeos odio mattis, dignissim proin curabitur netus aenean."
+			},
+			{
+				"title": "Take part",
+				"text": "Lorem ipsum dolor sit amet consectetur adipiscing elit cursus ligula non parturient, nunc vestibulum fermentum convallis tempus nibh pretium sociis faucibus. Tempor vestibulum vitae gravida senectus condimentum dui fringilla hendrerit, magnis cubilia porta molestie tempus massa dignissim metus, suspendisse mattis tortor sem volutpat ut dictum. Auctor fermentum nisl habitant porta cum velit rutrum penatibus, conubia nullam habitasse dictum vestibulum porttitor aliquet pharetra pulvinar, tortor diam pretium curabitur magnis duis erat. Cubilia habitant pharetra diam dignissim sodales sagittis bibendum, netus commodo himenaeos odio potenti dis ullamcorper, risus quis id litora hac nostra."
+			}
+		]
+	}
 }]
-

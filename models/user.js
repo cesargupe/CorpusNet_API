@@ -7,6 +7,7 @@ var UserSchema = Schema({
   team: String,
   acronym: String,
   place: String,
+  master: String,
   password: String,
   role: String
 });

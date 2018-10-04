@@ -39,7 +39,7 @@ function loginUser(req, res) {
 
           if (check) {
             res.status(200).send({
-              user: {'_id': user._id, 'team': user.team, 'acronym': user.acronym, 'place': user.place, 'role': user.role},
+              user: {'_id': user._id, 'team': user.team, 'acronym': user.acronym, 'place': user.place, 'master': user.master, 'role': user.role},
               token: jwt.createToken(user)
             });
           }else {
@@ -63,6 +63,7 @@ function saveUser(req, res) {
   user.team = params.team;
   user.acronym = params.acronym;
   user.place = params.place;
+  user.master = params.master;
   user.role = 'ROLE_USER';
 
   if (params.password) {

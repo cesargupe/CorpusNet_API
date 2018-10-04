@@ -12,6 +12,7 @@ exports.createToken = function(user){
     team: user.team,
     acronym: user.acronym,
     place: user.place,
+    master: user.master,
     role: user.role,
     iat: moment().valueOf(),
     exp: moment().add(10, 'days').valueOf()

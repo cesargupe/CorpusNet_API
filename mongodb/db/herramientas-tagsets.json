@@ -1,57 +1,5 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c558"
-	},
-	"name": "herramientas-tagsets",
-	"language": "en",
-	"data": {
-		"title": "Tagsets",
-		"buttons": [
-			"Access",
-			"Datasheet"
-		],
-		"edit_menu": {
-			"new_btn": "New tool",
-			"new_title": "New tool",
-			"edit_title": "Edit tool",
-			"error_text": "There was an error saving tool",
-			"name_title": "Name of tool",
-			"description_title": "Description of tool",
-			"email_title": "Link of tool",
-			"cancel_btn": "Cancel",
-			"save_btn": "Save"
-		},
-		"tools": [
-			{
-				"author": "ACTRES",
-				"acronym": "ULE",
-				"name": "Tagset 1",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"image": "/assets/uploads/img/etiquetador_ACTRES.png"
-			},
-			{
-				"author": "FUNCAP",
-				"acronym": "UCM",
-				"name": "Tagset 2",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
-			},
-			{
-				"author": "GLICom",
-				"acronym": "UPF",
-				"name": "Tagset 3",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
-			},
-			{
-				"author": "TRACE",
-				"acronym": "ULE",
-				"name": "ACTRES",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
-			}
-		]
-	}
-},
-{
-	"_id": {
 		"$oid": "5ba210feaf3c2e052dd8c557"
 	},
 	"name": "herramientas-tagsets",
@@ -75,31 +23,60 @@
 		},
 		"tools": [
 			{
-				"author": "ACTRES",
-				"acronym": "ULE",
-				"name": "Tagset 1",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"image": "/assets/uploads/img/etiquetador_ACTRES.png"
-			},
-			{
 				"author": "FUNCAP",
 				"acronym": "UCM",
-				"name": "Tagset 2",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+				"name": "Lorem ipsum",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://a"
 			},
 			{
 				"author": "GLICom",
 				"acronym": "UPF",
-				"name": "Tagset 3",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+				"name": "Dolor sit amet",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://a"
+			}
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c558"
+	},
+	"name": "herramientas-tagsets",
+	"language": "en",
+	"data": {
+		"title": "Tagsets",
+		"buttons": [
+			"Access",
+			"Datasheet"
+		],
+		"edit_menu": {
+			"new_btn": "New tool",
+			"new_title": "New tool",
+			"edit_title": "Edit tool",
+			"error_text": "There was an error saving tool",
+			"name_title": "Name of tool",
+			"description_title": "Description of tool",
+			"email_title": "Link of tool",
+			"cancel_btn": "Cancel",
+			"save_btn": "Save"
+		},
+		"tools": [
+			{
+				"author": "FUNCAP",
+				"acronym": "UCM",
+				"name": "Lorem ipsum",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://a"
 			},
 			{
-				"author": "TRACE",
-				"acronym": "ULE",
-				"name": "ACTRES",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+				"author": "GLICom",
+				"acronym": "UPF",
+				"name": "Dolor sit amet",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://a"
 			}
 		]
 	}
 }]
-

@@ -23,22 +23,47 @@
 		},
 		"applications": [
 			{
+				"description": "ACTRES presenta una serie de generadores con el fin de ayudar a los investigadores y profesionales en la elaboración de textos cientifico-técnicos en idioma Inglés. Estos generadores se caracterizan por asistir al profesional en cada momento de la redacción con las sugerencias más adecuadas en cada momento desde el punto de vista gramatical. Todo ello, a través de una interfaz de usuario amigable y enfocada a la productividad.",
+				"name": "Generadores para escritura 2.0",
+				"link": "https://actres.unileon.es/generadores2",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"name": "Generadores para escritura 1.0",
+				"description": "ACTRES presenta una serie de generadores con el fin de ayudar a los investigadores y profesionales en la elaboración de textos cientifico-técnicos en idioma Inglés. Estos generadores se caracterizan por asistir al profesional en cada momento de la redacción con las sugerencias más adecuadas en cada momento desde el punto de vista gramatical. Todo ello, a través de una interfaz de usuario amigable y enfocada a la productividad.",
+				"link": "http://contraste2.unileon.es/web/es/applications.html",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"name": "Diccionarios",
+				"description": "Diccionario terminológico y fraseológico español/inglés de fichas de cata.",
+				"link": "https://actres.unileon.es/wordpress/?page_id=52\u0026lang=es",
 				"author": "ACTRES",
 				"acronym": "ULE",
-				"name": "Aplicacion 1",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+				"image": "/assets/uploads/applications/ACTRES_gen_fivi.png"
+			},
+			{
+				"name": "PETRA 1.0: Evaluación de la calidad de las traducciones",
+				"description": "Se trata de una aplicación diseñada para evaluar la calidad gramatical de las traducciones del inglés al español de textos “de lengua general”: artículos de revistas y periódicos, ensayo, narrativa, etc.\n\nSe presenta como un interfaz altamente intuitivo y totalmente centrado en el usuario que funciona gracias a información lingüística experta basada en anchors: unidades morfológicas o combinaciones sintácticas que bien:",
+				"link": "https://actres.unileon.es/wordpress/?page_id=48\u0026lang=es",
+				"author": "ACTRES",
+				"acronym": "ULE"
 			},
 			{
 				"author": "FUNCAP",
 				"acronym": "UCM",
-				"name": "Aplicacion 2",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+				"name": "Lorem ipsum",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://a"
 			},
 			{
 				"author": "GLICom",
 				"acronym": "UPF",
-				"name": "Aplicacion 3",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+				"name": "Dolor sit amet",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://a"
 			}
 		]
 	}
@@ -68,22 +93,47 @@
 		},
 		"applications": [
 			{
+				"description": "ACTRES presents a series of generators designed to assist researchers and professionals in the composition of scientific and technical texts in English. These generators support the user throughout the composition process by offering the most appropriate suggestions where grammar is concerned.This is achieved by means of a user-friendly, productivity-driven interface.",
+				"name": "Technical and Professional Writing 2.0",
+				"link": "https://actres.unileon.es/generadores2",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"name": "Technical and Professional Writing 1.0",
+				"description": "ACTRES presents a series of generators designed to assist researchers and professionals in the composition of scientific and technical texts in English. These generators support the user throughout the composition process by offering the most appropriate suggestions where grammar is concerned.This is achieved by means of a user-friendly, productivity-driven interface.",
+				"link": "http://contraste2.unileon.es/web/es/applications.html",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"name": "Dictionary aids",
+				"description": "Diccionario terminológico y fraseológico español/inglés de fichas de cata.",
+				"link": "https://actres.unileon.es/wordpress/?page_id=52\u0026lang=es",
 				"author": "ACTRES",
 				"acronym": "ULE",
-				"name": "Aplicacion 1",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+				"image": "/assets/uploads/applications/ACTRES_gen_fivi.png"
+			},
+			{
+				"name": "PETRA 1.0: Translation Quality assessment",
+				"description": "Petra 1.0 is a semiautomatic application designed to assess the grammatical quality of general English translations into Spanish, both fiction and non-fiction.\n\nIt is a user-friendly application with a highly intuitive interface. The grammatical assessment that it provides is based on the analysis of a number of grammatical units called ‘anchors’ (Rabadán 2008, 2010, 2011)",
+				"link": "https://actres.unileon.es/wordpress/?page_id=48\u0026lang=es",
+				"author": "ACTRES",
+				"acronym": "ULE"
 			},
 			{
 				"author": "FUNCAP",
 				"acronym": "UCM",
-				"name": "Aplicacion 2",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+				"name": "Lorem ipsum",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://a"
 			},
 			{
 				"author": "GLICom",
 				"acronym": "UPF",
-				"name": "Aplicacion 3",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+				"name": "Dolor sit amet",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://a"
 			}
 		]
 	}

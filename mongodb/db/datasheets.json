@@ -28,7 +28,7 @@
 	"_id": {
 		"$oid": "5ba210feaf3c2e052dd8c581"
 	},
-	"name": "C-GEFEM",
+	"name": "C-FITECVI",
 	"type": "corpus-comparables",
 	"data": [
 		"Name of Corpus",

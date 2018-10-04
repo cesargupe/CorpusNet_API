@@ -27,8 +27,36 @@
 				"link": "http://www.google.es"
 			},
 			{
-				"place": "Universidad de León",
-				"name": "TRACE",
+				"place": "Universidad Jaume I",
+				"name": "COVALT",
+				"master": "Josep Manuel Marco Borillo",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://www.google.es"
+			},
+			{
+				"place": "Universidad de Alicante",
+				"name": "FRASYTRAM",
+				"master": "Pedro Mogorrón Huerta",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://www.google.es"
+			},
+			{
+				"place": "Universidad Complutense de Madrid",
+				"name": "FUNCAP",
+				"master": "Julia Lavid López",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://www.google.es"
+			},
+			{
+				"place": "Universidad Complutense de Madrid",
+				"name": "GDISCOM-COGFUNC",
+				"master": "Juana Isabel Marín Arrese",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://www.google.es"
+			},
+			{
+				"place": "Universitat Pompeu i Fabra",
+				"name": "GLICom",
 				"master": "Nombre Apellido1 Apellido2",
 				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
 				"link": "http://www.google.es"
@@ -41,16 +69,23 @@
 				"link": "http://www.google.es"
 			},
 			{
-				"place": "Universitat Pompeu i Fabra",
-				"name": "GLICom",
-				"master": "Nombre Apellido1 Apellido2",
+				"place": "Universidad de Santiago de Compostela",
+				"name": "SpatiAlEs",
+				"master": "Irene Doval Reixa",
 				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
 				"link": "http://www.google.es"
 			},
 			{
-				"place": "Universidad Complutense de Madrid",
-				"name": "FUNCAP",
-				"master": "Nombre Apellido1 Apellido2",
+				"place": "Universidad de León",
+				"name": "TRACE",
+				"master": "Mº del Camino Gutiérrez Lanza",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://www.google.es"
+			},
+			{
+				"place": "Universidad del País Vasco, UPV/EHU",
+				"name": "TRALIMA",
+				"master": "Raquel Merino ÁLvarez",
 				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
 				"link": "http://www.google.es"
 			}
@@ -80,26 +115,74 @@
 		"teams": [
 			{
 				"place": "Universidad de León",
-				"name": "Aplicacion 1",
-				"master": "Rosa Rabadán Álvarez",
+				"name": "ACTRES",
+				"master": "Rosa Rabadán",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://www.google.es"
+			},
+			{
+				"place": "Universidad Jaume I",
+				"name": "COVALT",
+				"master": "Josep Manuel Marco Borillo",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://www.google.es"
+			},
+			{
+				"place": "Universidad de Alicante",
+				"name": "FRASYTRAM",
+				"master": "Pedro Mogorrón Huerta",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://www.google.es"
+			},
+			{
+				"place": "Universidad Complutense de Madrid",
+				"name": "FUNCAP",
+				"master": "Julia Lavid López",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://www.google.es"
+			},
+			{
+				"place": "Universidad Complutense de Madrid",
+				"name": "GDISCOM-COGFUNC",
+				"master": "Juana Isabel Marín Arrese",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://www.google.es"
+			},
+			{
+				"place": "Universitat Pompeu i Fabra",
+				"name": "GLICom",
+				"master": "Nombre Apellido1 Apellido2",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://www.google.es"
+			},
+			{
+				"place": "Universidad de Málaga",
+				"name": "LEXYTRAD",
+				"master": "Nombre Apellido1 Apellido2",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://www.google.es"
+			},
+			{
+				"place": "Universidad de Santiago de Compostela",
+				"name": "SpatiAlEs",
+				"master": "Irene Doval Reixa",
 				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
 				"link": "http://www.google.es"
 			},
 			{
 				"place": "Universidad de León",
-				"name": "Aplicacion 1",
-				"master": "Rosa Rabadán Álvarez",
+				"name": "TRACE",
+				"master": "Mº del Camino Gutiérrez Lanza",
 				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
 				"link": "http://www.google.es"
 			},
 			{
-				"place": "Universidad de León",
-				"name": "Aplicacion 1",
-				"master": "Rosa Rabadán Álvarez",
+				"place": "Universidad del País Vasco, UPV/EHU",
+				"name": "TRALIMA",
+				"master": "Raquel Merino ÁLvarez",
 				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
 				"link": "http://www.google.es"
 			}
 		]
 	}
 }]
-
