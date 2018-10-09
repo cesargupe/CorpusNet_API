@@ -36,6 +36,7 @@
 		"www.webproject.com",
 		"",
 		"fiction, popular-scientific texts, political speeches , tourism leaflets , corporate websites, academic writtings, minutes of European Parlament.",
+		"Something",
 		"Spain, South America, Germany",
 		"de es, es-de",
 		"Unidirectional, bidirectional",
@@ -49,86 +50,4 @@
 		"Universidad de León",
 		"persona@gmail.com"
 	]
-},
-{
-	"_id": {
-		"$oid": "5baa22a43f0f240b78c18fee"
-	},
-	"name": "r3dew",
-	"type": "corpus-comprables",
-	"data": [
-		"",
-		"aaa",
-		"b",
-		"",
-		"c",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		""
-	],
-	"__v": 0
-},
-{
-	"_id": {
-		"$oid": "5baa22c33f0f240b78c18fef"
-	},
-	"name": "r3dew",
-	"type": "corpus-comprables",
-	"data": [
-		"",
-		"aa",
-		"",
-		"aa",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		""
-	],
-	"__v": 0
-},
-{
-	"_id": {
-		"$oid": "5bb323c8911e02022414a37b"
-	},
-	"name": "C-EADEG",
-	"type": "corpus-comparables",
-	"data": [
-		"a",
-		"",
-		"b",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		""
-	],
-	"__v": 0
 }]
-

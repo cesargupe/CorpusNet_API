@@ -20,6 +20,24 @@ function getNotices(req, res) {
 
 }
 
+function getLastNotice(req, res) {
+
+  Notice.findOne({}).sort({'created': -1}).exec((err, notice) => {
+
+    if (err) {
+      res.status(500).send({message: 'Error en la peticion'});
+    }else {
+      if (!notice) {
+        res.status(404).send({message: 'No hay noticias'});
+      }else {
+        res.status(200).send({notice});
+      }
+    }
+
+  });
+
+}
+
 function saveNotice(req, res) {
 
   var notice = new Notice();
@@ -28,7 +46,7 @@ function saveNotice(req, res) {
   notice.team = params.team;
   notice.text = params.text;
 
-  if (params.link.split('://').length < 2) params.link = 'http://' + params.link;
+  if (params.link && params.link.split('://').length < 2) params.link = 'http://' + params.link;
   notice.link = params.link;
 
   notice.save((err, noticeStored) => {
@@ -94,6 +112,7 @@ function deleteNotice(req, res) {
 
 module.exports = {
   getNotices,
+  getLastNotice,
   saveNotice,
   updateNotice,
   deleteNotice

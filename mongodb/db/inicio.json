@@ -6,8 +6,8 @@
 	"language": "es",
 	"data": {
 		"alert": {
-			"bold_text": "Mensage importante",
-			"normal_text": "Esta es la versión Beta Final de CorpusNet.",
+			"bold_text": "Última noticia",
+			"normal_text": "",
 			"link": ""
 		},
 		"panels": [
@@ -30,8 +30,8 @@
 	"language": "en",
 	"data": {
 		"alert": {
-			"bold_text": "Important message",
-			"normal_text": "This is CorpusNet Final Beta.",
+			"bold_text": "Last notice",
+			"normal_text": "",
 			"link": ""
 		},
 		"panels": [
