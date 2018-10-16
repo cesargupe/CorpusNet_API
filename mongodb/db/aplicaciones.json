@@ -1,75 +1,5 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c564"
-	},
-	"name": "aplicaciones",
-	"language": "es",
-	"data": {
-		"title": "Aplicaciones",
-		"buttons": [
-			"Acceder",
-			"Ficha técnica"
-		],
-		"edit_menu": {
-			"new_btn": "Nueva aplicación",
-			"new_title": "Nueva aplicación",
-			"edit_title": "Editar aplicación",
-			"error_text": "Se ha producido un error guardando la aplicación",
-			"name_title": "Nombre de la aplicación",
-			"description_title": "Descripción de la aplicación",
-			"email_title": "Link de la aplicación",
-			"cancel_btn": "Cancelar",
-			"save_btn": "Guardar"
-		},
-		"applications": [
-			{
-				"description": "ACTRES presenta una serie de generadores con el fin de ayudar a los investigadores y profesionales en la elaboración de textos cientifico-técnicos en idioma Inglés. Estos generadores se caracterizan por asistir al profesional en cada momento de la redacción con las sugerencias más adecuadas en cada momento desde el punto de vista gramatical. Todo ello, a través de una interfaz de usuario amigable y enfocada a la productividad.",
-				"name": "Generadores para escritura 2.0",
-				"link": "https://actres.unileon.es/generadores2",
-				"author": "ACTRES",
-				"acronym": "ULE"
-			},
-			{
-				"name": "Generadores para escritura 1.0",
-				"description": "ACTRES presenta una serie de generadores con el fin de ayudar a los investigadores y profesionales en la elaboración de textos cientifico-técnicos en idioma Inglés. Estos generadores se caracterizan por asistir al profesional en cada momento de la redacción con las sugerencias más adecuadas en cada momento desde el punto de vista gramatical. Todo ello, a través de una interfaz de usuario amigable y enfocada a la productividad.",
-				"link": "http://contraste2.unileon.es/web/es/applications.html",
-				"author": "ACTRES",
-				"acronym": "ULE"
-			},
-			{
-				"name": "Diccionarios",
-				"description": "Diccionario terminológico y fraseológico español/inglés de fichas de cata.",
-				"link": "https://actres.unileon.es/wordpress/?page_id=52\u0026lang=es",
-				"author": "ACTRES",
-				"acronym": "ULE",
-				"image": "/assets/uploads/applications/ACTRES_gen_fivi.png"
-			},
-			{
-				"name": "PETRA 1.0: Evaluación de la calidad de las traducciones",
-				"description": "Se trata de una aplicación diseñada para evaluar la calidad gramatical de las traducciones del inglés al español de textos “de lengua general”: artículos de revistas y periódicos, ensayo, narrativa, etc.\n\nSe presenta como un interfaz altamente intuitivo y totalmente centrado en el usuario que funciona gracias a información lingüística experta basada en anchors: unidades morfológicas o combinaciones sintácticas que bien:",
-				"link": "https://actres.unileon.es/wordpress/?page_id=48\u0026lang=es",
-				"author": "ACTRES",
-				"acronym": "ULE"
-			},
-			{
-				"author": "FUNCAP",
-				"acronym": "UCM",
-				"name": "Lorem ipsum",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"link": "http://a"
-			},
-			{
-				"author": "GLICom",
-				"acronym": "UPF",
-				"name": "Dolor sit amet",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"link": "http://a"
-			}
-		]
-	}
-},
-{
-	"_id": {
 		"$oid": "5ba210feaf3c2e052dd8c563"
 	},
 	"name": "aplicaciones",
@@ -117,6 +47,76 @@
 			{
 				"name": "PETRA 1.0: Translation Quality assessment",
 				"description": "Petra 1.0 is a semiautomatic application designed to assess the grammatical quality of general English translations into Spanish, both fiction and non-fiction.\n\nIt is a user-friendly application with a highly intuitive interface. The grammatical assessment that it provides is based on the analysis of a number of grammatical units called ‘anchors’ (Rabadán 2008, 2010, 2011)",
+				"link": "https://actres.unileon.es/wordpress/?page_id=48\u0026lang=es",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"author": "FUNCAP",
+				"acronym": "UCM",
+				"name": "Lorem ipsum",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://a"
+			},
+			{
+				"author": "GLICom",
+				"acronym": "UPF",
+				"name": "Dolor sit amet",
+				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+				"link": "http://a"
+			}
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c564"
+	},
+	"name": "aplicaciones",
+	"language": "es",
+	"data": {
+		"title": "Aplicaciones",
+		"buttons": [
+			"Acceder",
+			"Ficha técnica"
+		],
+		"edit_menu": {
+			"new_btn": "Nueva aplicación",
+			"new_title": "Nueva aplicación",
+			"edit_title": "Editar aplicación",
+			"error_text": "Se ha producido un error guardando la aplicación",
+			"name_title": "Nombre de la aplicación",
+			"description_title": "Descripción de la aplicación",
+			"email_title": "Link de la aplicación",
+			"cancel_btn": "Cancelar",
+			"save_btn": "Guardar"
+		},
+		"applications": [
+			{
+				"description": "ACTRES presenta una serie de generadores con el fin de ayudar a los investigadores y profesionales en la elaboración de textos cientifico-técnicos en idioma Inglés. Estos generadores se caracterizan por asistir al profesional en cada momento de la redacción con las sugerencias más adecuadas en cada momento desde el punto de vista gramatical. Todo ello, a través de una interfaz de usuario amigable y enfocada a la productividad.",
+				"name": "Generadores para escritura 2.0",
+				"link": "https://actres.unileon.es/generadores2",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"name": "Generadores para escritura 1.0",
+				"description": "ACTRES presenta una serie de generadores con el fin de ayudar a los investigadores y profesionales en la elaboración de textos cientifico-técnicos en idioma Inglés. Estos generadores se caracterizan por asistir al profesional en cada momento de la redacción con las sugerencias más adecuadas en cada momento desde el punto de vista gramatical. Todo ello, a través de una interfaz de usuario amigable y enfocada a la productividad.",
+				"link": "http://contraste2.unileon.es/web/es/applications.html",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"name": "Diccionarios",
+				"description": "Diccionario terminológico y fraseológico español/inglés de fichas de cata.",
+				"link": "https://actres.unileon.es/wordpress/?page_id=52\u0026lang=es",
+				"author": "ACTRES",
+				"acronym": "ULE",
+				"image": "/assets/uploads/applications/ACTRES_gen_fivi.png"
+			},
+			{
+				"name": "PETRA 1.0: Evaluación de la calidad de las traducciones",
+				"description": "Se trata de una aplicación diseñada para evaluar la calidad gramatical de las traducciones del inglés al español de textos “de lengua general”: artículos de revistas y periódicos, ensayo, narrativa, etc.\n\nSe presenta como un interfaz altamente intuitivo y totalmente centrado en el usuario que funciona gracias a información lingüística experta basada en anchors: unidades morfológicas o combinaciones sintácticas que bien:",
 				"link": "https://actres.unileon.es/wordpress/?page_id=48\u0026lang=es",
 				"author": "ACTRES",
 				"acronym": "ULE"

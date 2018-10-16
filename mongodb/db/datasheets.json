@@ -1,410 +1,460 @@
-[
-  {
-    "name": "Ecoturismo",
-    "type": "corpus-comparables",
-    "data": [
-      "Ecoturismo",
-      "-",
-      "-",
-      "Written",
-      "tourism",
-      "2008-2011",
-      "Spain",
-      "es en",
-      "unidirectional",
-      "274594",
-      "None",
-      "None",
-      "Yes",
-      "No",
-      "Free online",
-      "LEXYTRAD",
-      "UMA",
-      "Alejandro: jafdez@uma.es"
-    ]
-  },
-  {
-    "name": "Intelligent Terminology Management System for Translators",
-    "type": "corpus-comparables",
-    "data": [
-      "Intelligent Terminology Management System for Translators",
-      "INTELITERM",
-      "http://www.lexytrad.es/inteliterm/",
-      "Written",
-      "Health and beauty tourism",
-      "2012-2016",
-      "Spain",
-      "es en de it",
-      "unidirectional",
-      "1245375",
-      "Lemmatized, pos tagged",
-      "None",
-      "Yes",
-      "No",
-      "Free online",
-      "LEXYTRAD",
-      "UMA",
-      "Alejandro: jafdez@uma.es"
-    ]
-  },
-  {
-    "name": "Towards European Language Learning for MEdical professionals",
-    "type": "corpus-comparables",
-    "data": [
-      "Towards European Language Learning for MEdical professionals",
-      "Tell-Me",
-      "http://www.tellme-project.eu/",
-      "Written",
-      "Medical",
-      "2011-2013",
-      "Spain, United Kingdom",
-      "es en de",
-      "unidirectional",
-      "127835",
-      "Lemmatized, pos tagged",
-      "None",
-      "Yes",
-      "No",
-      "Free online",
-      "LEXYTRAD",
-      "UMA",
-      "Alejandro: jafdez@uma.es"
-    ]
-  },
-  {
-    "name": "Intelligent terminological dictionary for the tourism sector",
-    "type": "corpus-comparables",
-    "data": [
-      "Intelligent terminological dictionary for the tourism sector",
-      "TERMITUR",
-      "http://www.lexytrad.es/termitur/",
-      "Written",
-      "tourism",
-      "2014-2018",
-      "Spain",
-      "es en de",
-      "unidirectional",
-      "2268013",
-      "Lemmatized, pos tagged",
-      "None",
-      "Yes",
-      "No",
-      "Free online",
-      "LEXYTRAD",
-      "UMA",
-      "Alejandro: jafdez@uma.es"
-    ]
-  },
-  {
-    "name": "Intelligent Terminology Management System for Translators",
-    "type": "corpus-paralelos",
-    "data": [
-      "Intelligent Terminology Management System for Translators",
-      "INTELITERM",
-      "http://www.lexytrad.es/inteliterm/",
-      "Written",
-      "Health and beauty tourism",
-      "2012-2016",
-      "Spain",
-      "es>en, es>de, es>it",
-      "unidirectional",
-      "70959",
-      "Lemmatized, pos tagged",
-      "Sentence",
-      "Yes",
-      "No",
-      "Free online",
-      "LEXYTRAD",
-      "UMA",
-      "Alejandro: jafdez@uma.es"
-    ]
-  },
-  {
-    "name": "Intelligent terminological dictionary for the tourism sector",
-    "type": "corpus-paralelos",
-    "data": [
-      "Intelligent terminological dictionary for the tourism sector",
-      "TERMITUR",
-      "http://www.lexytrad.es/termitur/",
-      "Written",
-      "tourism",
-      "2014-2018",
-      "Spain",
-      "es>en, es>de",
-      "unidirectional",
-      "984525",
-      "Lemmatized, pos tagged",
-      "Sentence",
-      "Yes",
-      "No",
-      "Free online",
-      "LEXYTRAD",
-      "UMA",
-      "Alejandro: jafdez@uma.es"
-    ]
-  },
-  {
-    "name": "MULTINOT",
-    "type": "corpus-paralelos",
-    "data": [
-      "MULTINOT",
-      "MULTINOT",
-      "https://www.ucm.es/funcap/multinot",
-      "Written",
-      "Bidirectional parallel and comparable English-Spanish corpus, balanced–in terms of register diversity and translation directions– and enriched with with multidimensional annotations.",
-      "2010-2015",
-      "UK, USA, Spain, Cuba",
-      "eng-es",
-      "ENG-ES and ES-ENG",
-      "One million words",
-      "Multidimensional annotation: modality, stance & engagement, thematisation, metadiscourse markers",
-      "Yes",
-      "No",
-      "No",
-      "Upon request",
-      "Lingüística Funcional inglés-español y sus aplicaciones (FUNCAP) (Ref. 930175)",
-      "Universidad Complutense de Madrid",
-      "Julia Lavid López\nlavid@filol.ucm.es"
-    ]
-  },
-  {
-    "name": "MULTINOT",
-    "type": "corpus-comparables",
-    "data": [
-      "MULTINOT",
-      "MULTINOT",
-      "https://www.ucm.es/funcap/multinot",
-      "Written",
-      "Bidirectional parallel and comparable English-Spanish corpus, balanced–in terms of register diversity and translation directions– and enriched with with multidimensional annotations.",
-      "2010-2015",
-      "UK, USA, Spain, Cuba",
-      "eng-es",
-      "ENG-ES and ES-ENG",
-      "One million words",
-      "Multidimensional annotation: modality, stance & engagement, thematisation, metadiscourse markers",
-      "Yes",
-      "No",
-      "No",
-      "Upon request",
-      "Lingüística Funcional inglés-español y sus aplicaciones (FUNCAP) (Ref. 930175)",
-      "Universidad Complutense de Madrid",
-      "Julia Lavid López\nlavid@filol.ucm.es"
-    ]
-  },
-  {
-    "name": "Aleuska",
-    "type": "corpus-paralelos",
-    "data": [
-      "Aleuska",
-      "",
-      "http://www.ehu.eus/tralima/index.html",
-      "Written",
-      "Fiction (children’s literature, adult literature)",
-      "1774-2010",
-      "Germany, Austria, Switzerland",
-      "de>eu; es>eu",
-      "unidirectional",
-      "4 259 163",
-      "No",
-      "Sentence",
-      "No",
-      "Yes",
-      "On request",
-      "Tralima-Itzulik",
-      "UPV/EHU",
-      "tralima@ehu.eus"
-    ]
-  },
-  {
-    "name": "EUSAL",
-    "type": "corpus-paralelos",
-    "data": [
-      "EUSAL",
-      "",
-      "http://www.ehu.eus/tralima/index.html",
-      "Written",
-      "Fiction (adult literature)",
-      "1996-2013",
-      "Basque Country",
-      "eu>es; eu>fr",
-      "unidirectional",
-      "627 363",
-      "No",
-      "Sentence",
-      "No",
-      "Yes",
-      "On request",
-      "Tralima-Itzulik",
-      "UPV/EHU",
-      "tralima@ehu.eus"
-    ]
-  },
-  {
-    "name": "TRACEti",
-    "type": "corpus-paralelos",
-    "data": [
-      "TRACEti",
-      "",
-      "http://www.ehu.eus/tralima/index.html",
-      "Written",
-      "Theatrical texts",
-      "1958-1984",
-      "United Kingdom, Ireland and United States",
-      "en>es",
-      "unidirectional",
-      "429 693",
-      "No",
-      "Sentence",
-      "No",
-      "Yes",
-      "On request",
-      "Tralima-Itzulik",
-      "UPV/EHU",
-      "tralima@ehu.eus"
-    ]
-  },
-  {
-    "name": "TEATRAD",
-    "type": "corpus-paralelos",
-    "data": [
-      "TEATRAD",
-      "",
-      "http://www.ehu.eus/tralima/index.html",
-      "Written",
-      "Theatrical texts",
-      "1937-1963",
-      "United Kingdom, Ireland and United States",
-      "en>es",
-      "unidirectional",
-      "374 062",
-      "No",
-      "Sentence",
-      "No",
-      "Yes",
-      "On request",
-      "Tralima-Itzulik",
-      "UPV/EHU",
-      "tralima@ehu.eus"
-    ]
-  },
-  {
-    "name": "Corpus of English and Spanish Journalistic Discourse",
-    "type": "corpus-comparables",
-    "data": [
-      "Corpus of English and Spanish Journalistic Discourse",
-      "CESJD_JMA",
-      "https://www.ucm.es/discom-cogfunc/el-grupo",
-      "Written",
-      "Comparable corpus of journalistic texts (opinion columns, leading articles, and news-reports): English (The Guardian, The Times); Spanish (El País, ABC)",
-      "1999-2012",
-      "UK & Spain",
-      "eng-es",
-      "",
-      "English: 426,574 words\nSpanish: 368,883 words",
-      "semantic annotation",
-      "No",
-      "No",
-      "No",
-      "None",
-      "Discurso y comunicación en lengua inglesa: Estudios de Lingüística Cognitiva y Funcional (DISCOM-COGFUNC) (Ref. 930160)",
-      "Universidad Complutense de Madrid",
-      "Juana I. Marín Arrese\njuana@filol.ucm.es"
-    ]
-  },
-  {
-    "type": "corpus-paralelos",
-    "data": [
-      "Corpus paralelo multilingüe UPF",
-      "BancTrad",
-      "https://iac.upf.edu/",
-      "Written",
-      "popular-scientific texts, political speech , tourism leaflets , corporate websites, academic writtings, fragments of literary works…",
-      "1900-2017",
-      "Spain, Germany, Switzerland, Austria, England, France",
-      "de <=> es de <=> ca en <=> es en <=> ca fr <=> es fr <=> ca",
-      "unidirectional, bidirectional",
-      "Aprox. 5 Mill",
-      "Lemmatized, pos tagged",
-      "Sentence",
-      "Yes",
-      "Only search output",
-      "Free online",
-      "https://www.upf.edu/web/glicom",
-      "Universitat Pompeu Fabra",
-      "carme.colominas@upf.edu"
-    ],
-    "name": "Corpus paralelo multilingüe UPF"
-  },
-  {
-    "type": "corpus-paralelos",
-    "data": [
-      "Corpus Valencià de Literatura Traduïda (Valencian Corpus of Translated Literature)",
-      "COVALT",
-      "www.covalt.uji.es",
-      "Written",
-      "Fiction (novels and short stories)",
-      "1990-2000",
-      "English-speaking countries, French-speaking countries, German-speaking countries, Catalan-speaking domain, Spanish-speaking countries",
-      "de>cat (1,151,164 words)\n de>es (834,161 words)\n fr>es (1,106,222 words)\n en>cat (2,545,388 words)\n en>es (2,417,463 words)\n cat (1,551,521)\n es (4,170,178)",
-      "unidirectional",
-      "13,776,097",
-      "Lemmatised and pos-tagged",
-      "Sentence",
-      "CQPweb",
-      "No",
-      "Currently upon request, shortly free online",
-      "COVALT",
-      "Universitat Jaume I",
-      "Josep Marco (jmarco@uji.es)\n Josep Guzman (guzman@uji.es)"
-    ],
-    "name": "Corpus Valencià de Literatura Traduïda (Valencian Corpus of Translated Literature)"
-  },
-  {
-    "type": "corpus-paralelos",
-    "data": [
-      "Parallel ACTRES 2.0",
-      "P-ACTRES 2.0",
-      "http://actres.unileon.es",
-      "Written",
-      "fiction, non-fiction, newspaper and magazine articles, miscellaneous",
-      "2000-2018",
-      "Spain, Spanish-speaking America, UK, Ireland, USA, Canada, Australia",
-      "en↔ es",
-      "bidirectional",
-      "5.720.319 words",
-      "Lemmatized, POS tagged, aligned",
-      "Sentence",
-      "Yes",
-      "No",
-      "Free online demo, registered users for research and educational purposes",
-      "ACTRES",
-      "University of León, Spain",
-      "actres@unileon.es Belén Labrador de la Cruz"
-    ],
-    "name": "Parallel ACTRES 2.0"
-  },
-  {
-    "type": "corpus-paralelos",
-    "data": [
-      "Parallel Corpus German Spanish",
-      "PaGeS",
-      "www.corpuspages.eu",
-      "Written, spoken",
-      "fiction, popular-scientific texts, political speech , tourism leaflets , corporate websites, academic writtings, minutes of European Parlament......",
-      "1960-2017",
-      "Spain, South America, Germany, Switzerland, Austria",
-      "de <=> es",
-      "unidirectional, bidirectional",
-      "26,409,991",
-      "Lemmatized, pos tagged, parsed, semantic, pragmatic, rhetorical",
-      "Sentence",
-      "Yes",
-      "Yes for registered users",
-      "free online for research",
-      "SpatiAlEs",
-      "Santiago de Compostela",
-      "Irene Doval (i.doval@usc.es)"
-    ],
-    "name": "Parallel Corpus German Spanish"
-  }
-]
+[{
+	"_id": {
+		"$oid": "5bc636189a09729ab0d03289"
+	},
+	"name": "Intelligent terminological dictionary for the tourism sector",
+	"type": "corpus-comparables",
+	"data": [
+		"Intelligent terminological dictionary for the tourism sector",
+		"TERMITUR",
+		"http://www.lexytrad.es/termitur/",
+		"Written",
+		"tourism",
+		"2014-2018",
+		"Spain",
+		"es en de",
+		"unidirectional",
+		"2268013",
+		"Lemmatized, pos tagged",
+		"None",
+		"Yes",
+		"No",
+		"Free online",
+		"LEXYTRAD",
+		"UMA",
+		"Alejandro: jafdez@uma.es"
+	]
+},
+{
+	"_id": {
+		"$oid": "5bc636189a09729ab0d0328a"
+	},
+	"name": "Intelligent Terminology Management System for Translators",
+	"type": "corpus-paralelos",
+	"data": [
+		"Intelligent Terminology Management System for Translators",
+		"INTELITERM",
+		"http://www.lexytrad.es/inteliterm/",
+		"Written",
+		"Health and beauty tourism",
+		"2012-2016",
+		"Spain",
+		"es\u003een, es\u003ede, es\u003eit",
+		"unidirectional",
+		"70959",
+		"Lemmatized, pos tagged",
+		"Sentence",
+		"Yes",
+		"No",
+		"Free online",
+		"LEXYTRAD",
+		"UMA",
+		"Alejandro: jafdez@uma.es"
+	]
+},
+{
+	"_id": {
+		"$oid": "5bc636189a09729ab0d0328b"
+	},
+	"name": "Intelligent terminological dictionary for the tourism sector",
+	"type": "corpus-paralelos",
+	"data": [
+		"Intelligent terminological dictionary for the tourism sector",
+		"TERMITUR",
+		"http://www.lexytrad.es/termitur/",
+		"Written",
+		"tourism",
+		"2014-2018",
+		"Spain",
+		"es\u003een, es\u003ede",
+		"unidirectional",
+		"984525",
+		"Lemmatized, pos tagged",
+		"Sentence",
+		"Yes",
+		"No",
+		"Free online",
+		"LEXYTRAD",
+		"UMA",
+		"Alejandro: jafdez@uma.es"
+	]
+},
+{
+	"_id": {
+		"$oid": "5bc636189a09729ab0d0328c"
+	},
+	"name": "Intelligent Terminology Management System for Translators",
+	"type": "corpus-comparables",
+	"data": [
+		"Intelligent Terminology Management System for Translators",
+		"INTELITERM",
+		"http://www.lexytrad.es/inteliterm/",
+		"Written",
+		"Health and beauty tourism",
+		"2012-2016",
+		"Spain",
+		"es en de it",
+		"unidirectional",
+		"1245375",
+		"Lemmatized, pos tagged",
+		"None",
+		"Yes",
+		"No",
+		"Free online",
+		"LEXYTRAD",
+		"UMA",
+		"Alejandro: jafdez@uma.es"
+	]
+},
+{
+	"_id": {
+		"$oid": "5bc636189a09729ab0d0328d"
+	},
+	"name": "Towards European Language Learning for MEdical professionals",
+	"type": "corpus-comparables",
+	"data": [
+		"Towards European Language Learning for MEdical professionals",
+		"Tell-Me",
+		"http://www.tellme-project.eu/",
+		"Written",
+		"Medical",
+		"2011-2013",
+		"Spain, United Kingdom",
+		"es en de",
+		"unidirectional",
+		"127835",
+		"Lemmatized, pos tagged",
+		"None",
+		"Yes",
+		"No",
+		"Free online",
+		"LEXYTRAD",
+		"UMA",
+		"Alejandro: jafdez@uma.es"
+	]
+},
+{
+	"_id": {
+		"$oid": "5bc636189a09729ab0d0328e"
+	},
+	"name": "MULTINOT",
+	"type": "corpus-paralelos",
+	"data": [
+		"MULTINOT",
+		"MULTINOT",
+		"https://www.ucm.es/funcap/multinot",
+		"Written",
+		"Bidirectional parallel and comparable English-Spanish corpus, balanced–in terms of register diversity and translation directions– and enriched with with multidimensional annotations.",
+		"2010-2015",
+		"UK, USA, Spain, Cuba",
+		"eng-es",
+		"ENG-ES and ES-ENG",
+		"One million words",
+		"Multidimensional annotation: modality, stance \u0026 engagement, thematisation, metadiscourse markers",
+		"Yes",
+		"No",
+		"No",
+		"Upon request",
+		"Lingüística Funcional inglés-español y sus aplicaciones (FUNCAP) (Ref. 930175)",
+		"Universidad Complutense de Madrid",
+		"Julia Lavid López\nlavid@filol.ucm.es"
+	]
+},
+{
+	"_id": {
+		"$oid": "5bc636189a09729ab0d0328f"
+	},
+	"name": "MULTINOT",
+	"type": "corpus-comparables",
+	"data": [
+		"MULTINOT",
+		"MULTINOT",
+		"https://www.ucm.es/funcap/multinot",
+		"Written",
+		"Bidirectional parallel and comparable English-Spanish corpus, balanced–in terms of register diversity and translation directions– and enriched with with multidimensional annotations.",
+		"2010-2015",
+		"UK, USA, Spain, Cuba",
+		"eng-es",
+		"ENG-ES and ES-ENG",
+		"One million words",
+		"Multidimensional annotation: modality, stance \u0026 engagement, thematisation, metadiscourse markers",
+		"Yes",
+		"No",
+		"No",
+		"Upon request",
+		"Lingüística Funcional inglés-español y sus aplicaciones (FUNCAP) (Ref. 930175)",
+		"Universidad Complutense de Madrid",
+		"Julia Lavid López\nlavid@filol.ucm.es"
+	]
+},
+{
+	"_id": {
+		"$oid": "5bc636189a09729ab0d03290"
+	},
+	"name": "TRACEti",
+	"type": "corpus-paralelos",
+	"data": [
+		"TRACEti",
+		"",
+		"http://www.ehu.eus/tralima/index.html",
+		"Written",
+		"Theatrical texts",
+		"1958-1984",
+		"United Kingdom, Ireland and United States",
+		"en\u003ees",
+		"unidirectional",
+		"429 693",
+		"No",
+		"Sentence",
+		"No",
+		"Yes",
+		"On request",
+		"Tralima-Itzulik",
+		"UPV/EHU",
+		"tralima@ehu.eus"
+	]
+},
+{
+	"_id": {
+		"$oid": "5bc636189a09729ab0d03291"
+	},
+	"name": "TEATRAD",
+	"type": "corpus-paralelos",
+	"data": [
+		"TEATRAD",
+		"",
+		"http://www.ehu.eus/tralima/index.html",
+		"Written",
+		"Theatrical texts",
+		"1937-1963",
+		"United Kingdom, Ireland and United States",
+		"en\u003ees",
+		"unidirectional",
+		"374 062",
+		"No",
+		"Sentence",
+		"No",
+		"Yes",
+		"On request",
+		"Tralima-Itzulik",
+		"UPV/EHU",
+		"tralima@ehu.eus"
+	]
+},
+{
+	"_id": {
+		"$oid": "5bc636189a09729ab0d03292"
+	},
+	"name": "Aleuska",
+	"type": "corpus-paralelos",
+	"data": [
+		"Aleuska",
+		"",
+		"http://www.ehu.eus/tralima/index.html",
+		"Written",
+		"Fiction (children’s literature, adult literature)",
+		"1774-2010",
+		"Germany, Austria, Switzerland",
+		"de\u003eeu; es\u003eeu",
+		"unidirectional",
+		"4 259 163",
+		"No",
+		"Sentence",
+		"No",
+		"Yes",
+		"On request",
+		"Tralima-Itzulik",
+		"UPV/EHU",
+		"tralima@ehu.eus"
+	]
+},
+{
+	"_id": {
+		"$oid": "5bc636189a09729ab0d03293"
+	},
+	"name": "Ecoturismo",
+	"type": "corpus-comparables",
+	"data": [
+		"Ecoturismo",
+		"-",
+		"-",
+		"Written",
+		"tourism",
+		"2008-2011",
+		"Spain",
+		"es en",
+		"unidirectional",
+		"274594",
+		"None",
+		"None",
+		"Yes",
+		"No",
+		"Free online",
+		"LEXYTRAD",
+		"UMA",
+		"Alejandro: jafdez@uma.es"
+	]
+},
+{
+	"_id": {
+		"$oid": "5bc636189a09729ab0d03294"
+	},
+	"name": "Corpus of English and Spanish Journalistic Discourse",
+	"type": "corpus-comparables",
+	"data": [
+		"Corpus of English and Spanish Journalistic Discourse",
+		"CESJD_JMA",
+		"https://www.ucm.es/discom-cogfunc/el-grupo",
+		"Written",
+		"Comparable corpus of journalistic texts (opinion columns, leading articles, and news-reports): English (The Guardian, The Times); Spanish (El País, ABC)",
+		"1999-2012",
+		"UK \u0026 Spain",
+		"eng-es",
+		"",
+		"English: 426,574 words\nSpanish: 368,883 words",
+		"semantic annotation",
+		"No",
+		"No",
+		"No",
+		"None",
+		"Discurso y comunicación en lengua inglesa: Estudios de Lingüística Cognitiva y Funcional (DISCOM-COGFUNC) (Ref. 930160)",
+		"Universidad Complutense de Madrid",
+		"Juana I. Marín Arrese\njuana@filol.ucm.es"
+	]
+},
+{
+	"_id": {
+		"$oid": "5bc636189a09729ab0d03295"
+	},
+	"name": "EUSAL",
+	"type": "corpus-paralelos",
+	"data": [
+		"EUSAL",
+		"",
+		"http://www.ehu.eus/tralima/index.html",
+		"Written",
+		"Fiction (adult literature)",
+		"1996-2013",
+		"Basque Country",
+		"eu\u003ees; eu\u003efr",
+		"unidirectional",
+		"627 363",
+		"No",
+		"Sentence",
+		"No",
+		"Yes",
+		"On request",
+		"Tralima-Itzulik",
+		"UPV/EHU",
+		"tralima@ehu.eus"
+	]
+},
+{
+	"_id": {
+		"$oid": "5bc636189a09729ab0d03296"
+	},
+	"type": "corpus-paralelos",
+	"data": [
+		"Parallel Corpus German Spanish",
+		"PaGeS",
+		"www.corpuspages.eu",
+		"Written, spoken",
+		"fiction, popular-scientific texts, political speech , tourism leaflets , corporate websites, academic writtings, minutes of European Parlament......",
+		"1960-2017",
+		"Spain, South America, Germany, Switzerland, Austria",
+		"de \u003c=\u003e es",
+		"unidirectional, bidirectional",
+		"26,409,991",
+		"Lemmatized, pos tagged, parsed, semantic, pragmatic, rhetorical",
+		"Sentence",
+		"Yes",
+		"Yes for registered users",
+		"free online for research",
+		"SpatiAlEs",
+		"Santiago de Compostela",
+		"Irene Doval (i.doval@usc.es)"
+	],
+	"name": "Parallel Corpus German Spanish"
+},
+{
+	"_id": {
+		"$oid": "5bc636189a09729ab0d03297"
+	},
+	"type": "corpus-paralelos",
+	"data": [
+		"Parallel ACTRES 2.0",
+		"P-ACTRES 2.0",
+		"http://actres.unileon.es",
+		"Written",
+		"fiction, non-fiction, newspaper and magazine articles, miscellaneous",
+		"2000-2018",
+		"Spain, Spanish-speaking America, UK, Ireland, USA, Canada, Australia",
+		"en↔ es",
+		"bidirectional",
+		"5.720.319 words",
+		"Lemmatized, POS tagged, aligned",
+		"Sentence",
+		"Yes",
+		"No",
+		"Free online demo, registered users for research and educational purposes",
+		"ACTRES",
+		"University of León, Spain",
+		"actres@unileon.es Belén Labrador de la Cruz"
+	],
+	"name": "Parallel ACTRES 2.0"
+},
+{
+	"_id": {
+		"$oid": "5bc636189a09729ab0d03298"
+	},
+	"type": "corpus-paralelos",
+	"data": [
+		"Corpus Valencià de Literatura Traduïda (Valencian Corpus of Translated Literature)",
+		"COVALT",
+		"www.covalt.uji.es",
+		"Written",
+		"Fiction (novels and short stories)",
+		"1990-2000",
+		"English-speaking countries, French-speaking countries, German-speaking countries, Catalan-speaking domain, Spanish-speaking countries",
+		"de\u003ecat (1,151,164 words)\n de\u003ees (834,161 words)\n fr\u003ees (1,106,222 words)\n en\u003ecat (2,545,388 words)\n en\u003ees (2,417,463 words)\n cat (1,551,521)\n es (4,170,178)",
+		"unidirectional",
+		"13,776,097",
+		"Lemmatised and pos-tagged",
+		"Sentence",
+		"CQPweb",
+		"No",
+		"Currently upon request, shortly free online",
+		"COVALT",
+		"Universitat Jaume I",
+		"Josep Marco (jmarco@uji.es)\n Josep Guzman (guzman@uji.es)"
+	],
+	"name": "Corpus Valencià de Literatura Traduïda (Valencian Corpus of Translated Literature)"
+},
+{
+	"_id": {
+		"$oid": "5bc636189a09729ab0d03299"
+	},
+	"type": "corpus-paralelos",
+	"data": [
+		"Corpus paralelo multilingüe UPF",
+		"BancTrad",
+		"https://iac.upf.edu/",
+		"Written",
+		"popular-scientific texts, political speech , tourism leaflets , corporate websites, academic writtings, fragments of literary works…",
+		"1900-2017",
+		"Spain, Germany, Switzerland, Austria, England, France",
+		"de \u003c=\u003e es de \u003c=\u003e ca en \u003c=\u003e es en \u003c=\u003e ca fr \u003c=\u003e es fr \u003c=\u003e ca",
+		"unidirectional, bidirectional",
+		"Aprox. 5 Mill",
+		"Lemmatized, pos tagged",
+		"Sentence",
+		"Yes",
+		"Only search output",
+		"Free online",
+		"https://www.upf.edu/web/glicom",
+		"Universitat Pompeu Fabra",
+		"carme.colominas@upf.edu"
+	],
+	"name": "Corpus paralelo multilingüe UPF"
+}]
+

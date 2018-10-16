@@ -1,116 +1,5 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c54b"
-	},
-	"name": "corpus-comparables",
-	"language": "es",
-	"data": {
-		"title": "Corpus comparables",
-		"buttons": [
-			"Acceder",
-			"Ficha técnica"
-		],
-		"edit_menu": {
-			"new_btn": "Nuevo Corpus",
-			"new_title": "Nuevo Corpus",
-			"edit_title": "Editar Corpus",
-			"error_text": "Se ha producido un error guardando el corpus",
-			"name_title": "Nombre del Corpus",
-			"description_title": "Descripción del Corpus",
-			"email_title": "Link del Corpus",
-			"cancel_btn": "Cancelar",
-			"save_btn": "Guardar"
-		},
-		"corpus": [
-			{
-				"name": "C-FITECVI",
-				"description": "Este corpus está compuesto de fichas técnicas de vino: con un total de 118.846 palabras en español y 107.847 palabras en ingles. Su finalidad es analizar y contrastar la estructura retórica y léxico-gramatical de este tipo de textos.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_C-FITECVI.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-OPRES",
-				"description": "Se trata de un corpus comparable integrado por textos periodísticos de opinión en inglés y en español. C-OPRES se compone de editoriales, columnas y tribunas de opinión que suman aproximadamente un millón de palabras en cada lengua (inglés: 1.007.384; español: 1.000.414). La finalidad de C-OPRES es el análisis y contraste interlingüístico de la expresión de la evaluación.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_OPRES.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-GITEC",
-				"description": "Este corpus está compuesto por informes técnicos, de carácter informativo y promocional: 40 en inglés y 40 en español, con un total de 54.940 y 28.844 palabras respectivamente. Su finalidad es analizar y contrastar la estructura retórica y léxico-gramatical de este tipo de textos.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_GITEC.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-GIT",
-				"description": "Este corpus está compuesto por 40 manuales de instrucciones de electrodomésticos en inglés (con 200.000 palabras) y 40 en español, (170.000 palabras). Su finalidad es el análisis contrastivo retórico y léxico-gramatical de este tipo de textos en ambas lenguas.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_GIT.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-GDPE",
-				"description": "Se trata de un corpus compuesto por 100 textos descriptivos de productos electrónicos en inglés y otros 100 en español (con 45.491 y 33.628 palabras respectivamente), extraidos de anuncios publicitarios en Internet. Se ha compilado con el fin de analizar y contrastar la estructura retórica y léxico-gramatical de este género.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_ElectronicProducts.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-GARE",
-				"description": "Corpus comparable compuesto por actas de reunión en inglés y en español. Contiene 100 textos en cada lengua con un total de 139.919 palabras en español y 174.347 en inglés. Su finalidad es el análisis contrastivo retórico y léxico-gramatical del género Acta de reunión.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_GARE.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-GAC",
-				"description": "Corpus especializado compuesto por resúmenes de artículos médicos contiene dos subcorpus: uno comparable y anotado con 50 resúmenes en inglés (14.484 palabras) y 50 en español (15.113 palabras), el otro de traducciones, de 50 resúmenes al español y 50 al inglés.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_BioABSTRACTS_C-ACTRES.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-FMR",
-				"description": "Especializado en los comentarios futbolísticos, formado por 40 textos en español ((30.986 palabras) y 40 en inglés (30.153 palabras), recogidos de los diarios impresos con mayor audiencia, se ha compilado con el fin de analizar y contrastar la estructura retórica y léxico-gramatical de este género.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_FMR.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-FIVI",
-				"description": "Este corpus comparable especializado en las fichas de cata de vino de bodegas españolas, canadienses, estadounidenses, sudafricanas, australianas y neozelandesas está formado por 715 fichas en inglés (54.408 palabras) y 750 en español (52.413 palabras) y se ha compilado con el fin de analizar y contrastar la estructura retórica y léxico-gramatical de este género.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_FIVI.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-CT",
-				"description": "Es un corpus especializado compuesto por informes clínicos. Está compuesto por dos subcorpus comparables y anotados de 25 informes clínicos escritos originalmente en lengua inglesa y 25 en lengua española (74.488 y 92.604 palabras respectivamente) y su finalidad es analizar y contrastar la estructura retórica y léxico-gramatical de este género.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_CT.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-GDQ",
-				"description": "Se trata de un corpus compuesto por 150 descripciones de quesos en inglés y otros 150 en español (con 22,834 y 24,736 palabras respectivamente), extraídos de páginas promocionales de queserías en Internet. Se ha compilado con el fin de analizar y contrastar la estructura retórica y la fraseología típica de este género.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_C-GDQ.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "TeaSpromo",
-				"description": "Corpus comparable de textos promocionales de infusiones compuesto por 150 textos en inglés (17.673 palabras) y otros 150 en español (18.593 palabras), extraídos de páginas de marcas de tisanas y tiendas especializadas en tés e infusiones en internet. Se ha compilado con el fin de analizar y contrastar la estructura retórica y léxico-gramatical de este tipo de textos.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_ACTRES_TeaSpromo.html",
-				"author": "ACTRES"
-			},
-			{
-				"author": "ACTRES",
-				"name": "C-GEFEM",
-				"description": "Corpus comparable de fichas descriptivas de embutidos en las lenguas inglesa y española. Compuesto por 100 textos en cada lengua, con un total de 25.425 palabras en inglés y 14.196 en español. Compilado con el fin de analizar y contrastar la estructura retórica y el comportamiento fraseológico del léxico en este género.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_C-GEFEM.html"
-			},
-			{
-				"author": "ACTRES",
-				"name": "C-GEDEGA",
-				"description": "Corpus comparable de descripciones promocionales de galletas y pastas. Está compuesto por 100 textos en cada lengua con un total de 13.381 palabras en inglés y 15.034 en español. Su finalidad es el análisis contrastivo retórico y léxico-gramatical del género.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_C-GEDEGA.html"
-			}
-		]
-	}
-},
-{
-	"_id": {
 		"$oid": "5ba210feaf3c2e052dd8c54c"
 	},
 	"name": "corpus-comparables",
@@ -134,88 +23,55 @@
 		},
 		"corpus": [
 			{
-				"name": "C-FITECVI",
-				"description": "This comparable corpus of wine tasting notes from wineries: comprising 118.846 words in English and 107.847 words in Spanish.was compiled to analyse and contrast the rhetorical and lexico-grammatical structure of the genre.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_C-FITECVI.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-OPRES",
-				"description": "This is a comparable corpus of English and Spanish newspaper opinion discourse. It consists of approximately one million words in each language (English: 1,007,384 words; Spanish 1,007,414 words) and it includes editorials (non-bylined), by-lined opinion columns and comment articles. C-OPRES was compiled to analyse and contrast the language of evaluation.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_OPRES.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-GITEC",
-				"description": "This is a corpus of English and Spanish informative and promotional technical reports, consisting of 40 texts written in English (54,940 words) and 40 texts written in Spanish (28,844 words). It was compiled to analyse and contrast the rhetorical and lexico-grammatical structure of the genre.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_GITEC.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-GIT",
-				"description": "This corpus, which consists of 80 home appliance instruction manuals, 40 in English (200,000 words) and 40 in Spanish (170,000 words), was compiled to analyze and contrast the rhetorical and lexico-grammatical structure of the genre.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_GIT.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-GDPE",
-				"description": "This small comparable corpus of football match reports, consisting of 40 texts in European Spanish (30,986 words) and 40 in British English (30,153 words) drawn from the most widely read dailies, was compiled to analyse and contrast the rhetorical and lexico-grammatical structure of the genre.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_ElectronicProducts.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-GARE",
-				"description": "This is a comparable corpus made up of English and Spanish minutes of meetings. It contains 100 texts in each language, comprising 174,347 words in English and 139,919 words in Spanish. It was compiled to analysed and contrast the rhetorical and lexico-grammatical structure of the genre Minutes of meetings.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_GARE.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-GAC",
-				"description": "This corpus of medical abstracts comprises two sub-corpora: one, comparable and tagged, of 50 English abstracts (14,484 words) and 50 Spanish (15,113 words); the other is a parallel translation sub-corpus of 50 other abstracts translated into Spanish and another 50 into English. It was compiled to analyse and contrast the rhetorical and lexico-grammatical structure of the genre.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_BioABSTRACTS_C-ACTRES.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-FMR",
-				"description": "This small comparable corpus of football match reports, consisting of 40 texts in European Spanish (30,986 words) and 40 in British English (30,153 words) drawn from the most widely read dailies, was compiled to analyse and contrast the rhetorical and lexico-grammatical structure of the genre.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_FMR.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-FIVI",
-				"description": "This comparable corpus of wine tasting notes from wineries in Spain, Canada, the USA, South Africa, Australia and New Zealand, comprises 715 notes in English (54,408 words) and 750 in Spanish (52,413 words) and was compiled to analyse and contrast the rhetorical and lexico-grammatical structure of the genre.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_FIVI.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-CT",
-				"description": "This is a corpus of English and Spanish clinical trials. It consists of twenty-five clinical trials written in English (74,488 words) and another twenty-five written in Spanish (92,604 words). It was compiled to analyse and contrast the rhetorical and lexico-grammatical structure of the genre.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_CT.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "C-GDQ",
-				"description": "This is a corpus of English and Spanish cheese descriptions, consisting of 150 texts written in English (22,834 words) and 150 texts written in Spanish (24,736 words). It was compiled to analyse and contrast the rhetorical structure and the phraseology of the genre.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_C-GDQ.html",
-				"author": "ACTRES"
-			},
-			{
-				"name": "TeaSpromo",
-				"description": "This is a comparable corpus of herbal tea promotional texts comprising 150 texts in English (17,673 words) and 150 texts in Spanish (18,593), downloaded from websites of both well-known infusion brands and specialized online shops. It was compiled to analyse and contrast the rhetorical and lexico-grammatical structure of the genre.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_ACTRES_TeaSpromo.html",
-				"author": "ACTRES"
-			},
-			{
+				"name": "Lorem ipsum",
+				"acronym": "ULE",
 				"author": "ACTRES",
-				"name": "C-GEFEM",
-				"description": "An EN/ES comparable corpus of dried meats descriptive texts. It contains 100 texts in each language, comprising 25,425 words in English and 14,196 words in Spanish. It has been compiled in order to analyse and to contrast the rhetorical structure as well as the lexicon phraseology of the genre in the mentioned languages.",
 				"link": "http://contraste2.unileon.es/web/es/corpus0_C-GEFEM.html"
 			},
 			{
+				"name": "Dolor sit amet",
+				"acronym": "ULE",
 				"author": "ACTRES",
-				"name": "C-GEDEGA",
-				"description": "This is a comparable corpus of English and Spanish promotional descriptions of biscuits. It contains 100 texts in each language comprising 13,381words in English and 15,034 in Spanish. It was compiled to analyse and contrast the rhetorical and lexico-grammatical structure of the genre.",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_C-GEDEGA.html"
+				"link": "http://contraste2.unileon.es/web/es/corpus0_C-GEFEM.html"
+			}
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c54b"
+	},
+	"name": "corpus-comparables",
+	"language": "es",
+	"data": {
+		"title": "Corpus comparables",
+		"buttons": [
+			"Acceder",
+			"Ficha técnica"
+		],
+		"edit_menu": {
+			"new_btn": "Nuevo Corpus",
+			"new_title": "Nuevo Corpus",
+			"edit_title": "Editar Corpus",
+			"error_text": "Se ha producido un error guardando el corpus",
+			"name_title": "Nombre del Corpus",
+			"description_title": "Descripción del Corpus",
+			"email_title": "Link del Corpus",
+			"cancel_btn": "Cancelar",
+			"save_btn": "Guardar"
+		},
+		"corpus": [
+			{
+				"name": "Lorem ipsum",
+				"acronym": "ULE",
+				"author": "ACTRES",
+				"link": "http://contraste2.unileon.es/web/es/corpus0_C-GEFEM.html"
+			},
+			{
+				"name": "Dolor sit amet",
+				"acronym": "ULE",
+				"author": "ACTRES",
+				"link": "http://contraste2.unileon.es/web/es/corpus0_C-GEFEM.html"
 			}
 		]
 	}
