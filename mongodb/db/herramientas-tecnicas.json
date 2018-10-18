@@ -1,5 +1,88 @@
 [{
 	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c55e"
+	},
+	"name": "herramientas-tecnicas",
+	"language": "en",
+	"data": {
+		"title": "Herramientas técnicas",
+		"buttons": [
+			"Access",
+			"Datasheet"
+		],
+		"edit_menu": {
+			"new_btn": "New tool",
+			"new_title": "New tool",
+			"edit_title": "Edit tool",
+			"error_text": "There was an error saving tool",
+			"type_title": "Type of tool",
+			"name_title": "Name of tool",
+			"description_title": "Description of tool",
+			"email_title": "Link of tool",
+			"cancel_btn": "Cancel",
+			"save_btn": "Save"
+		},
+		"nav": [
+			{
+				"name": "tagger",
+				"title": "Taggers"
+			},
+			{
+				"name": "browser",
+				"title": "Browsers"
+			},
+			{
+				"name": "aligner",
+				"title": "Aligners"
+			}
+		],
+		"tools": {
+			"tagger": [
+				{
+					"author": "ACTRES",
+					"acronym": "ULE",
+					"name": "The tagger",
+					"description": "Enables the user to annotate the rhetorical structure of their texts..",
+					"link": "https://actres.unileon.es/wordpress/?page_id=44\u0026lang=en",
+					"image": "/assets/uploads/tools/ACTRES_El_etiquetador.png"
+				},
+				{
+					"author": "TRALIMA",
+					"acronym": "EHU",
+					"name": "Etiquetador 2",
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+				}
+			],
+			"browser": [
+				{
+					"author": "ACTRES",
+					"acronym": "ULE",
+					"name": "The browser",
+					"description": "Allows the user to retrieve information from the tagged texts by searching for particular rhetorical moves, steps or substeps and for key words or combinations of words. In addition, the browser provides statistical information such as frequency rates of words or phrases and percentages of each rhetorical move compared with the total number of words in the corpus.",
+					"link": "https://actres.unileon.es/wordpress/?page_id=44\u0026lang=en",
+					"image": "/assets/uploads/tools/ACTRES_El_visor.png"
+				},
+				{
+					"author": "TRALIMA",
+					"acronym": "EHU",
+					"name": "Visor 2",
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
+				}
+			],
+			"aligner": [
+				{
+					"author": "TRALIMA",
+					"acronym": "EHU",
+					"name": "Lorem ipsum",
+					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
+					"link": "http://a"
+				}
+			]
+		}
+	}
+},
+{
+	"_id": {
 		"$oid": "5ba210feaf3c2e052dd8c55d"
 	},
 	"name": "herramientas-tecnicas",
@@ -76,89 +159,6 @@
 					"name": "Lorem ipsum",
 					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
 					"link": "http://a"
-				}
-			],
-			"aligner": [
-				{
-					"author": "TRALIMA",
-					"acronym": "EHU",
-					"name": "Lorem ipsum",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-					"link": "http://a"
-				}
-			]
-		}
-	}
-},
-{
-	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c55e"
-	},
-	"name": "herramientas-tecnicas",
-	"language": "en",
-	"data": {
-		"title": "Herramientas técnicas",
-		"buttons": [
-			"Access",
-			"Datasheet"
-		],
-		"edit_menu": {
-			"new_btn": "New tool",
-			"new_title": "New tool",
-			"edit_title": "Edit tool",
-			"error_text": "There was an error saving tool",
-			"type_title": "Type of tool",
-			"name_title": "Name of tool",
-			"description_title": "Description of tool",
-			"email_title": "Link of tool",
-			"cancel_btn": "Cancel",
-			"save_btn": "Save"
-		},
-		"nav": [
-			{
-				"name": "tagger",
-				"title": "Taggers"
-			},
-			{
-				"name": "browser",
-				"title": "Browsers"
-			},
-			{
-				"name": "aligner",
-				"title": "Aligners"
-			}
-		],
-		"tools": {
-			"tagger": [
-				{
-					"author": "ACTRES",
-					"acronym": "ULE",
-					"name": "The tagger",
-					"description": "Enables the user to annotate the rhetorical structure of their texts..",
-					"link": "https://actres.unileon.es/wordpress/?page_id=44\u0026lang=en",
-					"image": "/assets/uploads/tools/ACTRES_El_etiquetador.png"
-				},
-				{
-					"author": "TRALIMA",
-					"acronym": "EHU",
-					"name": "Etiquetador 2",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
-				}
-			],
-			"browser": [
-				{
-					"author": "ACTRES",
-					"acronym": "ULE",
-					"name": "The browser",
-					"description": "Allows the user to retrieve information from the tagged texts by searching for particular rhetorical moves, steps or substeps and for key words or combinations of words. In addition, the browser provides statistical information such as frequency rates of words or phrases and percentages of each rhetorical move compared with the total number of words in the corpus.",
-					"link": "https://actres.unileon.es/wordpress/?page_id=44\u0026lang=en",
-					"image": "/assets/uploads/tools/ACTRES_El_visor.png"
-				},
-				{
-					"author": "TRALIMA",
-					"acronym": "EHU",
-					"name": "Visor 2",
-					"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor."
 				}
 			],
 			"aligner": [

@@ -23,6 +23,41 @@
 		},
 		"applications": [
 			{
+				"name": "Fraseología y Traducción multilingüe",
+				"description": "Tutorial: https://dti.ua.es/es/frasytram/documentos/presentacion-aplicacion.pdf",
+				"link": "http://84.127.230.137:6263/phraseology/",
+				"author": "FRASYTRAM",
+				"acronym": "UA"
+			},
+			{
+				"name": "ReCor [Aplicación de escritorio]",
+				"description": "Se utiliza para determinar la representatividad de un corpus (se proporcionará video/capturas y la información necesaria para ponerse en contacto con la UMA en caso de que el usuario este interesado en descargarlo).",
+				"link": "http://www.lexytrad.es/es/es/recursos/recor-2",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			},
+			{
+				"name": "PoSTagger [Aplicación Web]",
+				"description": "Aplicación para etiquetar texto morfológicamente.",
+				"link": "http://www.lexytrad.es/es/apps/txt2vrt",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			},
+			{
+				"name": "Scleaner [Aplicación web]",
+				"description": "Aplicación para limpiar el texto pegado.",
+				"link": "http://www.lexytrad.es/es/es/recursos/scleaner",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			},
+			{
+				"name": "Inteliterm [Applet Java]",
+				"description": "Diccionario inteligente (se proporcionará una demo en video para la plataforma web).",
+				"link": "http://www.lexytrad.es/es/es/recursos/inteliterm",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			},
+			{
 				"description": "ACTRES presents a series of generators designed to assist researchers and professionals in the composition of scientific and technical texts in English. These generators support the user throughout the composition process by offering the most appropriate suggestions where grammar is concerned.This is achieved by means of a user-friendly, productivity-driven interface.",
 				"name": "Technical and Professional Writing 2.0",
 				"link": "https://actres.unileon.es/generadores2",
@@ -50,20 +85,6 @@
 				"link": "https://actres.unileon.es/wordpress/?page_id=48\u0026lang=es",
 				"author": "ACTRES",
 				"acronym": "ULE"
-			},
-			{
-				"author": "FUNCAP",
-				"acronym": "UCM",
-				"name": "Lorem ipsum",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"link": "http://a"
-			},
-			{
-				"author": "GLICom",
-				"acronym": "UPF",
-				"name": "Dolor sit amet",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"link": "http://a"
 			}
 		]
 	}
@@ -93,6 +114,41 @@
 		},
 		"applications": [
 			{
+				"name": "Fraseología y Traducción multilingüe",
+				"description": "Tutorial: https://dti.ua.es/es/frasytram/documentos/presentacion-aplicacion.pdf",
+				"link": "http://84.127.230.137:6263/phraseology/",
+				"author": "FRASYTRAM",
+				"acronym": "UA"
+			},
+			{
+				"name": "ReCor [Aplicación de escritorio]",
+				"description": "Se utiliza para determinar la representatividad de un corpus (se proporcionará video/capturas y la información necesaria para ponerse en contacto con la UMA en caso de que el usuario este interesado en descargarlo).",
+				"link": "http://www.lexytrad.es/es/es/recursos/recor-2",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			},
+			{
+				"name": "PoSTagger [Aplicación Web]",
+				"description": "Aplicación para etiquetar texto morfológicamente.",
+				"link": "http://www.lexytrad.es/es/apps/txt2vrt",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			},
+			{
+				"name": "Scleaner [Aplicación web]",
+				"description": "Aplicación para limpiar el texto pegado.",
+				"link": "http://www.lexytrad.es/es/es/recursos/scleaner",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			},
+			{
+				"name": "Inteliterm [Applet Java]",
+				"description": "Diccionario inteligente (se proporcionará una demo en video para la plataforma web).",
+				"link": "http://www.lexytrad.es/es/es/recursos/inteliterm",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			},
+			{
 				"description": "ACTRES presenta una serie de generadores con el fin de ayudar a los investigadores y profesionales en la elaboración de textos cientifico-técnicos en idioma Inglés. Estos generadores se caracterizan por asistir al profesional en cada momento de la redacción con las sugerencias más adecuadas en cada momento desde el punto de vista gramatical. Todo ello, a través de una interfaz de usuario amigable y enfocada a la productividad.",
 				"name": "Generadores para escritura 2.0",
 				"link": "https://actres.unileon.es/generadores2",
@@ -120,20 +176,6 @@
 				"link": "https://actres.unileon.es/wordpress/?page_id=48\u0026lang=es",
 				"author": "ACTRES",
 				"acronym": "ULE"
-			},
-			{
-				"author": "FUNCAP",
-				"acronym": "UCM",
-				"name": "Lorem ipsum",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"link": "http://a"
-			},
-			{
-				"author": "GLICom",
-				"acronym": "UPF",
-				"name": "Dolor sit amet",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"link": "http://a"
 			}
 		]
 	}

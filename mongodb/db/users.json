@@ -14,12 +14,11 @@
 	"_id": {
 		"$oid": "5ba35eb0c4330f03cda4a53b"
 	},
-	"team": "ADMIN",
-	"acronym": "ADM",
-	"place": "ADM",
+	"team": "CORPUSNET",
+	"acronym": "CN",
+	"place": "CN",
 	"role": "ROLE_ADMIN",
 	"master": "César Gutiérrez",
 	"password": "$2a$10$mFIchX7arjqCisgMHSyyT.2ZpBz8MyTKydBD83wFJGvspM.I7fl7C",
 	"__v": 0
 }]
-

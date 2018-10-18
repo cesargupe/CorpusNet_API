@@ -27,31 +27,7 @@
 		},
 		"corpus": [
 			{
-				"name": "P-Business-News-EN-ES",
-				"link": "https://actres.unileon.es/wordpress/?page_id=33\u0026lang=en",
-				"author": "ACTRES",
-				"acronym": "ULE"
-			},
-			{
-				"name": "P-Annual-Accounts-EN-ES",
-				"link": "https://actres.unileon.es/wordpress/?page_id=33\u0026lang=en",
-				"author": "ACTRES",
-				"acronym": "ULE"
-			},
-			{
-				"name": "P-ACTRES 2.0",
-				"link": "https://actres.unileon.es/wordpress/?page_id=33\u0026lang=en",
-				"author": "ACTRES",
-				"acronym": "ULE"
-			},
-			{
-				"name": "P-ACTRES ES→EN",
-				"link": "https://actres.unileon.es/wordpress/?page_id=33\u0026lang=en",
-				"author": "ACTRES",
-				"acronym": "ULE"
-			},
-			{
-				"name": "P-ACTRES EN→ES",
+				"name": "Parallel ACTRES 2.0",
 				"link": "https://actres.unileon.es/wordpress/?page_id=33\u0026lang=en",
 				"author": "ACTRES",
 				"acronym": "ULE"
