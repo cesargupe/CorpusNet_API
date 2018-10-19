@@ -1,25 +1,25 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c557"
+		"$oid": "5ba210feaf3c2e052dd8c558"
 	},
 	"name": "herramientas-tagsets",
-	"language": "es",
+	"language": "en",
 	"data": {
 		"title": "Tagsets",
 		"buttons": [
-			"Acceder",
-			"Ficha técnica"
+			"Access",
+			"Datasheet"
 		],
 		"edit_menu": {
-			"new_btn": "Nueva herramienta",
-			"new_title": "Nueva herramienta",
-			"edit_title": "Editar herramienta",
-			"error_text": "Se ha producido un error guardando la herramienta",
-			"name_title": "Nombre de la herramienta",
-			"description_title": "Descripción de la herramienta",
-			"email_title": "Link de la herramienta",
-			"cancel_btn": "Cancelar",
-			"save_btn": "Guardar"
+			"new_btn": "New tool",
+			"new_title": "New tool",
+			"edit_title": "Edit tool",
+			"error_text": "There was an error saving tool",
+			"name_title": "Name of tool",
+			"description_title": "Description of tool",
+			"email_title": "Link of tool",
+			"cancel_btn": "Cancel",
+			"save_btn": "Save"
 		},
 		"tools": [
 			{
@@ -41,26 +41,26 @@
 },
 {
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c558"
+		"$oid": "5ba210feaf3c2e052dd8c557"
 	},
 	"name": "herramientas-tagsets",
-	"language": "en",
+	"language": "es",
 	"data": {
 		"title": "Tagsets",
 		"buttons": [
-			"Access",
-			"Datasheet"
+			"Acceder",
+			"Ficha técnica"
 		],
 		"edit_menu": {
-			"new_btn": "New tool",
-			"new_title": "New tool",
-			"edit_title": "Edit tool",
-			"error_text": "There was an error saving tool",
-			"name_title": "Name of tool",
-			"description_title": "Description of tool",
-			"email_title": "Link of tool",
-			"cancel_btn": "Cancel",
-			"save_btn": "Save"
+			"new_btn": "Nueva herramienta",
+			"new_title": "Nueva herramienta",
+			"edit_title": "Editar herramienta",
+			"error_text": "Se ha producido un error guardando la herramienta",
+			"name_title": "Nombre de la herramienta",
+			"description_title": "Descripción de la herramienta",
+			"email_title": "Link de la herramienta",
+			"cancel_btn": "Cancelar",
+			"save_btn": "Guardar"
 		},
 		"tools": [
 			{

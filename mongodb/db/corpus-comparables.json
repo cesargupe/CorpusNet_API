@@ -62,16 +62,40 @@
 		},
 		"corpus": [
 			{
-				"name": "Lorem ipsum",
-				"acronym": "ULE",
-				"author": "ACTRES",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_C-GEFEM.html"
+				"name": "Corpus of English and Spanish Journalistic Discourse",
+				"link": "https://www.ucm.es/discom-cogfunc/el-grupo",
+				"author": "CORPUSNET",
+				"acronym": "CN"
 			},
 			{
-				"name": "Dolor sit amet",
-				"acronym": "ULE",
-				"author": "ACTRES",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_C-GEFEM.html"
+				"name": "Ecoturismo",
+				"link": "http://www.lexytrad.es/tradicor/app/",
+				"author": "CORPUSNET",
+				"acronym": "CN"
+			},
+			{
+				"name": "Intelligent Terminology Management System for Translators",
+				"link": "http://www.lexytrad.es/inteliterm/",
+				"author": "CORPUSNET",
+				"acronym": "CN"
+			},
+			{
+				"name": "Intelligent terminological dictionary for the tourism sector",
+				"link": "http://www.lexytrad.es/termitur/",
+				"author": "CORPUSNET",
+				"acronym": "CN"
+			},
+			{
+				"name": "MULTINOT",
+				"link": "https://www.ucm.es/funcap/multinot",
+				"author": "CORPUSNET",
+				"acronym": "CN"
+			},
+			{
+				"name": "Towards European Language Learning for MEdical professionals",
+				"link": "http://www.tellme-project.eu/",
+				"author": "CORPUSNET",
+				"acronym": "CN"
 			}
 		]
 	}
