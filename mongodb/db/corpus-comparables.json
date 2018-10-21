@@ -64,40 +64,39 @@
 			{
 				"name": "Corpus of English and Spanish Journalistic Discourse",
 				"link": "https://www.ucm.es/discom-cogfunc/el-grupo",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"author": "GDISCOM-COGFUNC",
+				"acronym": "UCM"
 			},
 			{
 				"name": "Ecoturismo",
 				"link": "http://www.lexytrad.es/tradicor/app/",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
 			},
 			{
 				"name": "Intelligent Terminology Management System for Translators",
 				"link": "http://www.lexytrad.es/inteliterm/",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
 			},
 			{
 				"name": "Intelligent terminological dictionary for the tourism sector",
 				"link": "http://www.lexytrad.es/termitur/",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
 			},
 			{
 				"name": "MULTINOT",
 				"link": "https://www.ucm.es/funcap/multinot",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"author": "FUNCAP",
+				"acronym": "UCM"
 			},
 			{
 				"name": "Towards European Language Learning for MEdical professionals",
 				"link": "http://www.tellme-project.eu/",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
 			}
 		]
 	}
 }]
-

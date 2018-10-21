@@ -102,44 +102,44 @@
 			{
 				"name": "Corpus paralelo multilingüe UPF",
 				"link": "https://iac.upf.edu/",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"author": "GLICom",
+				"acronym": "UPF"
 			},
 			{
 				"name": "Corpus Valencià de Literatura Traduïda (Valencian Corpus of Translated Literature)",
 				"link": "http://www.covalt.uji.es",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"author": "COVALT",
+				"acronym": "UJI"
 			},
 			{
 				"name": "Parallel Corpus German Spanish",
 				"link": "http://www.corpuspages.eu",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"author": "SpatiAlEs",
+				"acronym": "USC"
 			},
 			{
 				"name": "EUSAL",
 				"link": "http://www.ehu.eus/tralima/index.html",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"author": "TRALIMA",
+				"acronym": "UPV/EHU"
 			},
 			{
 				"name": "Aleuska",
 				"link": "http://www.ehu.eus/tralima/index.html",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"author": "TRALIMA",
+				"acronym": "UPV/EHU"
 			},
 			{
 				"name": "TEATRAD",
 				"link": "http://www.ehu.eus/tralima/index.html",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"author": "TRALIMA",
+				"acronym": "UPV/EHU"
 			},
 			{
 				"name": "TRACEti",
 				"link": "http://www.ehu.eus/tralima/index.html",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"author": "TRALIMA",
+				"acronym": "UPV/EHU"
 			},
 			{
 				"name": "Parallel ACTRES 2.0",
@@ -150,22 +150,21 @@
 			{
 				"name": "Intelligent Terminology Management System for Translators",
 				"link": "http://www.lexytrad.es/inteliterm/",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
 			},
 			{
 				"name": "Intelligent terminological dictionary for the tourism sector",
 				"link": "http://www.lexytrad.es/termitur/",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
 			},
 			{
 				"name": "MULTINOT",
 				"link": "https://www.ucm.es/funcap/multinot",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"author": "FUNCAP",
+				"acronym": "UCM"
 			}
 		]
 	}
 }]
-
