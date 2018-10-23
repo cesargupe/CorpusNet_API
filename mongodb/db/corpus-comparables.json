@@ -1,48 +1,9 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c54c"
-	},
-	"name": "corpus-comparables",
-	"language": "en",
-	"data": {
-		"title": "Comparable corpora",
-		"buttons": [
-			"Access",
-			"Datasheet"
-		],
-		"edit_menu": {
-			"new_btn": "New Corpora",
-			"new_title": "New Corpora",
-			"edit_title": "Edit Corpora",
-			"error_text": "There was an error saving Corpora",
-			"name_title": "Name of Corpora",
-			"description_title": "Description of Corpora",
-			"email_title": "Link of Corpora",
-			"cancel_btn": "Cancel",
-			"save_btn": "Save"
-		},
-		"corpus": [
-			{
-				"name": "Lorem ipsum",
-				"acronym": "ULE",
-				"author": "ACTRES",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_C-GEFEM.html"
-			},
-			{
-				"name": "Dolor sit amet",
-				"acronym": "ULE",
-				"author": "ACTRES",
-				"link": "http://contraste2.unileon.es/web/es/corpus0_C-GEFEM.html"
-			}
-		]
-	}
-},
-{
-	"_id": {
 		"$oid": "5ba210feaf3c2e052dd8c54b"
 	},
 	"name": "corpus-comparables",
-	"language": "es",
+	"language": "default",
 	"data": {
 		"title": "Corpus comparables",
 		"buttons": [
@@ -100,3 +61,4 @@
 		]
 	}
 }]
+

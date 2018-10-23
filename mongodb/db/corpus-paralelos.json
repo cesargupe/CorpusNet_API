@@ -1,82 +1,9 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c552"
-	},
-	"name": "corpus-paralelos",
-	"language": "en",
-	"data": {
-		"title": "Corpus paralelos",
-		"instructions": {
-			"title": "Instructions for use",
-			"content": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor. Et ultricies imperdiet interdum proin porta aptent volutpat neque, semper fringilla libero penatibus nostra id dictum inceptos, magnis pellentesque phasellus quisque lacinia curabitur platea.\u003cbr\u003e\u003cbr\u003eMagnis mattis taciti elementum rhoncus habitasse accumsan lacinia iaculis vel dignissim sagittis metus ultrices, euismod conubia tellus tempor luctus imperdiet ac justo aliquet risus commodo praesent curabitur, gravida fusce per sem morbi ullamcorper arcu turpis lectus pulvinar consequat torquent. Suscipit diam euismod sollicitudin placerat ornare, ultrices porta enim fringilla tellus, mollis magnis est condimentum. Fringilla cubilia elementum tellus condimentum urna imperdiet magnis varius, blandit praesent massa risus neque dapibus volutpat, sociosqu mus montes nullam nostra id phasellus."
-		},
-		"buttons": [
-			"Access",
-			"Datasheet"
-		],
-		"edit_menu": {
-			"new_btn": "New Corpora",
-			"new_title": "New Corpora",
-			"edit_title": "Edit Corpora",
-			"error_text": "There was an error saving Corpora",
-			"name_title": "Name of Corpora",
-			"description_title": "Description of Corpora",
-			"email_title": "Link of Corpora",
-			"cancel_btn": "Cancel",
-			"save_btn": "Save"
-		},
-		"corpus": [
-			{
-				"name": "P-Business-News-EN-ES",
-				"link": "https://actres.unileon.es/wordpress/?page_id=33\u0026lang=en",
-				"author": "ACTRES",
-				"acronym": "ULE"
-			},
-			{
-				"name": "P-Annual-Accounts-EN-ES",
-				"link": "https://actres.unileon.es/wordpress/?page_id=33\u0026lang=en",
-				"author": "ACTRES",
-				"acronym": "ULE"
-			},
-			{
-				"name": "P-ACTRES 2.0",
-				"link": "https://actres.unileon.es/wordpress/?page_id=33\u0026lang=en",
-				"author": "ACTRES",
-				"acronym": "ULE"
-			},
-			{
-				"name": "P-ACTRES ES→EN",
-				"link": "https://actres.unileon.es/wordpress/?page_id=33\u0026lang=en",
-				"author": "ACTRES",
-				"acronym": "ULE"
-			},
-			{
-				"name": "P-ACTRES EN→ES",
-				"link": "https://actres.unileon.es/wordpress/?page_id=33\u0026lang=en",
-				"author": "ACTRES",
-				"acronym": "ULE"
-			},
-			{
-				"author": "FRASYTRAM",
-				"acronym": "UA",
-				"name": "Lorem ipsum",
-				"link": "https://google.es"
-			},
-			{
-				"author": "LEXYTRAD",
-				"acronym": "UMA",
-				"name": "Dolor sit amet",
-				"link": "https://google.es"
-			}
-		]
-	}
-},
-{
-	"_id": {
 		"$oid": "5ba210feaf3c2e052dd8c551"
 	},
 	"name": "corpus-paralelos",
-	"language": "es",
+	"language": "default",
 	"data": {
 		"title": "Corpus paralelos",
 		"instructions": {
@@ -100,10 +27,10 @@
 		},
 		"corpus": [
 			{
-				"name": "Corpus paralelo multilingüe UPF",
-				"link": "https://iac.upf.edu/",
-				"author": "GLICom",
-				"acronym": "UPF"
+				"name": "P-ACTRES 2.0",
+				"link": "https://actres.unileon.es/wordpress/?page_id=33\u0026lang=en",
+				"author": "ACTRES",
+				"acronym": "ULE"
 			},
 			{
 				"name": "Corpus Valencià de Literatura Traduïda (Valencian Corpus of Translated Literature)",
@@ -112,19 +39,43 @@
 				"acronym": "UJI"
 			},
 			{
+				"name": "MULTINOT",
+				"link": "https://www.ucm.es/funcap/multinot",
+				"author": "FUNCAP",
+				"acronym": "UCM"
+			},
+			{
+				"name": "Corpus paralelo multilingüe UPF",
+				"link": "https://iac.upf.edu/",
+				"author": "GLICom",
+				"acronym": "UPF"
+			},
+			{
+				"name": "Intelligent Terminology Management System for Translators",
+				"link": "http://www.lexytrad.es/inteliterm/",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			},
+			{
+				"name": "Intelligent terminological dictionary for the tourism sector",
+				"link": "http://www.lexytrad.es/termitur/",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			},
+			{
 				"name": "Parallel Corpus German Spanish",
 				"link": "http://www.corpuspages.eu",
-				"author": "SpatiAlEs",
+				"author": "PaGeS",
 				"acronym": "USC"
 			},
 			{
-				"name": "EUSAL",
+				"name": "Aleuska",
 				"link": "http://www.ehu.eus/tralima/index.html",
 				"author": "TRALIMA",
 				"acronym": "UPV/EHU"
 			},
 			{
-				"name": "Aleuska",
+				"name": "EUSAL",
 				"link": "http://www.ehu.eus/tralima/index.html",
 				"author": "TRALIMA",
 				"acronym": "UPV/EHU"
@@ -140,31 +91,8 @@
 				"link": "http://www.ehu.eus/tralima/index.html",
 				"author": "TRALIMA",
 				"acronym": "UPV/EHU"
-			},
-			{
-				"name": "Parallel ACTRES 2.0",
-				"link": "https://actres.unileon.es/wordpress/?page_id=33\u0026lang=en",
-				"author": "ACTRES",
-				"acronym": "ULE"
-			},
-			{
-				"name": "Intelligent Terminology Management System for Translators",
-				"link": "http://www.lexytrad.es/inteliterm/",
-				"author": "LEXYTRAD",
-				"acronym": "UMA"
-			},
-			{
-				"name": "Intelligent terminological dictionary for the tourism sector",
-				"link": "http://www.lexytrad.es/termitur/",
-				"author": "LEXYTRAD",
-				"acronym": "UMA"
-			},
-			{
-				"name": "MULTINOT",
-				"link": "https://www.ucm.es/funcap/multinot",
-				"author": "FUNCAP",
-				"acronym": "UCM"
 			}
 		]
 	}
 }]
+

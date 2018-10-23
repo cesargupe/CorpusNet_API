@@ -1,29 +1,5 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c546"
-	},
-	"name": "inicio",
-	"language": "en",
-	"data": {
-		"alert": {
-			"bold_text": "Last notice",
-			"normal_text": "",
-			"link": ""
-		},
-		"panels": [
-			{
-				"title": "General information and objectives",
-				"text": "Lorem ipsum dolor noemi sit amet consectetur, adipiscing elit hac lectus eleifend, porttitor malesuada class ultricies. Quisque ut varius cursus aliquet eu vivamus mattis, lectus blandit vestibulum facilisi litora dignissim diam tempor, sollicitudin per quis mus primis orci. Curae erat lacus torquent turpis sollicitudin venenatis hendrerit risus porta, magna ad taciti lacinia curabitur aliquam dictumst sagittis vitae, tristique sapien arcu euismod vestibulum vivamus nullam facilisis. Phasellus tortor ut odio aenean neque elementum habitant curae rutrum primis, imperdiet torquent conubia semper lobortis porta quisque sagittis dictumst. Pellentesque eros convallis praesent accumsan natoque ligula sollicitudin morbi, sed suspendisse pulvinar nec auctor fames curabitur, pharetra ridiculus mi laoreet vulputate eleifend erat. Mi hac consequat montes porttitor nam sollicitudin, id donec purus torquent himenaeos odio mattis, dignissim proin curabitur netus aenean."
-			},
-			{
-				"title": "Take part",
-				"text": "Lorem ipsum dolor sit amet consectetur adipiscing elit cursus ligula non parturient, nunc vestibulum fermentum convallis tempus nibh pretium sociis faucibus. Tempor vestibulum vitae gravida senectus condimentum dui fringilla hendrerit, magnis cubilia porta molestie tempus massa dignissim metus, suspendisse mattis tortor sem volutpat ut dictum. Auctor fermentum nisl habitant porta cum velit rutrum penatibus, conubia nullam habitasse dictum vestibulum porttitor aliquet pharetra pulvinar, tortor diam pretium curabitur magnis duis erat. Cubilia habitant pharetra diam dignissim sodales sagittis bibendum, netus commodo himenaeos odio potenti dis ullamcorper, risus quis id litora hac nostra."
-			}
-		]
-	}
-},
-{
-	"_id": {
 		"$oid": "5ba210feaf3c2e052dd8c545"
 	},
 	"name": "inicio",
@@ -37,11 +13,55 @@
 		"panels": [
 			{
 				"title": "Información general y objetivos",
-				"text": "Lorem ipsum dolor sit amet consectetur, adipiscing elit hac lectus eleifend, porttitor malesuada class ultricies. Quisque ut varius cursus aliquet eu vivamus mattis, lectus blandit vestibulum facilisi litora dignissim diam tempor, sollicitudin per quis mus primis orci. Curae erat lacus torquent turpis sollicitudin venenatis hendrerit risus porta, magna ad taciti lacinia curabitur aliquam dictumst sagittis vitae, tristique sapien arcu euismod vestibulum vivamus nullam facilisis. \u003cbr\u003e\u003c/br\u003e Phasellus tortor ut odio aenean neque elementum habitant curae rutrum primis, imperdiet torquent conubia semper lobortis porta quisque sagittis dictumst. Pellentesque eros convallis praesent accumsan natoque ligula sollicitudin morbi, sed suspendisse pulvinar nec auctor fames curabitur, pharetra ridiculus mi laoreet vulputate eleifend erat. Mi hac consequat montes porttitor nam sollicitudin, id donec purus torquent himenaeos odio mattis, dignissim proin curabitur netus aenean."
+				"text": [
+					"CorpusNet es una red de corpus bilingües y multilingües de cualquiera de las lenguas de España (castellano, catalán, gallego y vasco) y otras lenguas junto con otros recursos relacionados.",
+					"Tiene tres objetivos básicos:"
+				],
+				"points": [
+					"Facilitar el acceso a los recursos ya existentes y propiciar la colaboración entre los usuarios con el fin de promover investigaciones más ambiciosas y visibles. ",
+					"Constituirse en un catalizador de recursos en estas lenguas abierto a nuevas incorporaciones ",
+					"Sentar las bases para una colaboración internacional de amplio alcance en el marco de H2020 y la Agenda Digital Europea."
+				]
 			},
 			{
 				"title": "Formar parte",
-				"text": "Lorem ipsum dolor sit amet consectetur adipiscing elit cursus ligula non parturient, nunc vestibulum fermentum convallis tempus nibh pretium sociis faucibus. Tempor vestibulum vitae gravida senectus condimentum dui fringilla hendrerit, magnis cubilia porta molestie tempus massa dignissim metus, suspendisse mattis tortor sem volutpat ut dictum. Auctor fermentum nisl habitant porta cum velit rutrum penatibus, conubia nullam habitasse dictum vestibulum porttitor aliquet pharetra pulvinar, tortor diam pretium curabitur magnis duis erat. Cubilia habitant pharetra diam dignissim sodales sagittis bibendum, netus commodo himenaeos odio potenti dis ullamcorper, risus quis id litora hac nostra."
+				"text": [
+					"Lorem ipsum dolor sit amet consectetur adipiscing elit cursus ligula non parturient, nunc vestibulum fermentum convallis tempus nibh pretium sociis faucibus. Tempor vestibulum vitae gravida senectus condimentum dui fringilla hendrerit, magnis cubilia porta molestie tempus massa dignissim metus, suspendisse mattis tortor sem volutpat ut dictum. Auctor fermentum nisl habitant porta cum velit rutrum penatibus, conubia nullam habitasse dictum vestibulum porttitor aliquet pharetra pulvinar, tortor diam pretium curabitur magnis duis erat. Cubilia habitant pharetra diam dignissim sodales sagittis bibendum, netus commodo himenaeos odio potenti dis ullamcorper, risus quis id litora hac nostra."
+				]
+			}
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c546"
+	},
+	"name": "inicio",
+	"language": "en",
+	"data": {
+		"alert": {
+			"bold_text": "Last notice",
+			"normal_text": "",
+			"link": ""
+		},
+		"panels": [
+			{
+				"title": "General information and objectives",
+				"text": [
+					"CorpusNet is a hub of bilingual and multilingual corpora and related resources featuring any of the languages of Spain (Spanish, Catalan, Galician and Basque) alongside other languages.",
+					"Its mission is threefold:"
+				],
+				"points": [
+					"Promote more ambitious and more visible research by facilitating easier access to existing resources and encouraging users cooperation.",
+					"Provide a starting point for a Spanish-based resource hub, which additional groups may consider joining in the future.",
+					"Pave the way for far-reaching, international collaboration within the framework of H2020 and the European Digital Agenda."
+				]
+			},
+			{
+				"title": "Take part",
+				"text": [
+					"Lorem ipsum dolor sit amet consectetur adipiscing elit cursus ligula non parturient, nunc vestibulum fermentum convallis tempus nibh pretium sociis faucibus. Tempor vestibulum vitae gravida senectus condimentum dui fringilla hendrerit, magnis cubilia porta molestie tempus massa dignissim metus, suspendisse mattis tortor sem volutpat ut dictum. Auctor fermentum nisl habitant porta cum velit rutrum penatibus, conubia nullam habitasse dictum vestibulum porttitor aliquet pharetra pulvinar, tortor diam pretium curabitur magnis duis erat. Cubilia habitant pharetra diam dignissim sodales sagittis bibendum, netus commodo himenaeos odio potenti dis ullamcorper, risus quis id litora hac nostra."
+				]
 			}
 		]
 	}

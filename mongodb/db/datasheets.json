@@ -370,7 +370,7 @@
 		"Yes",
 		"Yes for registered users",
 		"free online for research",
-		"SpatiAlEs",
+		"PaGeS",
 		"Santiago de Compostela",
 		"Irene Doval (i.doval@usc.es)"
 	],
@@ -401,7 +401,7 @@
 		"University of León, Spain",
 		"actres@unileon.es Belén Labrador de la Cruz"
 	],
-	"name": "Parallel ACTRES 2.0"
+	"name": "P-ACTRES 2.0"
 },
 {
 	"_id": {
@@ -457,3 +457,4 @@
 	],
 	"name": "Corpus paralelo multilingüe UPF"
 }]
+
