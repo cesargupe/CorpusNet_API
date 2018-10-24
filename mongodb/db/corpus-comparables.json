@@ -3,7 +3,7 @@
 		"$oid": "5ba210feaf3c2e052dd8c54b"
 	},
 	"name": "corpus-comparables",
-	"language": "default",
+	"language": "es",
 	"data": {
 		"title": "Corpus comparables",
 		"buttons": [
@@ -35,18 +35,6 @@
 				"acronym": "UMA"
 			},
 			{
-				"name": "Intelligent Terminology Management System for Translators",
-				"link": "http://www.lexytrad.es/inteliterm/",
-				"author": "LEXYTRAD",
-				"acronym": "UMA"
-			},
-			{
-				"name": "Intelligent terminological dictionary for the tourism sector",
-				"link": "http://www.lexytrad.es/termitur/",
-				"author": "LEXYTRAD",
-				"acronym": "UMA"
-			},
-			{
 				"name": "MULTINOT",
 				"link": "https://www.ucm.es/funcap/multinot",
 				"author": "FUNCAP",
@@ -61,4 +49,3 @@
 		]
 	}
 }]
-

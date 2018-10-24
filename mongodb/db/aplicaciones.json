@@ -23,14 +23,6 @@
 		},
 		"applications": [
 			{
-				"name": "Diccionarios",
-				"description": "Diccionario terminológico y fraseológico español/inglés de fichas de cata.",
-				"link": "https://actres.unileon.es/wordpress/?page_id=52\u0026lang=es",
-				"author": "ACTRES",
-				"acronym": "ULE",
-				"image": "/assets/uploads/applications/ACTRES_gen_fivi.png"
-			},
-			{
 				"name": "Generadores para escritura 1.0",
 				"description": "ACTRES presenta una serie de generadores con el fin de ayudar a los investigadores y profesionales en la elaboración de textos cientifico-técnicos en idioma Inglés. Estos generadores se caracterizan por asistir al profesional en cada momento de la redacción con las sugerencias más adecuadas en cada momento desde el punto de vista gramatical. Todo ello, a través de una interfaz de usuario amigable y enfocada a la productividad.",
 				"link": "http://contraste2.unileon.es/web/es/applications.html",
@@ -59,9 +51,16 @@
 				"acronym": "UMA"
 			},
 			{
-				"name": "Scleaner [Aplicación web]",
-				"description": "Aplicación para limpiar el texto pegado.",
-				"link": "http://www.lexytrad.es/es/es/recursos/scleaner",
+				"name": "Intelligent Terminology Management System for Translators",
+				"description": "",
+				"link": "http://www.lexytrad.es/inteliterm/",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			},
+			{
+				"name": "Intelligent terminological dictionary for the tourism sector",
+				"description": "",
+				"link": "http://www.lexytrad.es/termitur/",
 				"author": "LEXYTRAD",
 				"acronym": "UMA"
 			}
@@ -134,15 +133,7 @@
 				"link": "http://www.lexytrad.es/es/es/recursos/inteliterm",
 				"author": "LEXYTRAD",
 				"acronym": "UMA"
-			},
-			{
-				"name": "Scleaner [Aplicación web]",
-				"description": "Aplicación para limpiar el texto pegado.",
-				"link": "http://www.lexytrad.es/es/es/recursos/scleaner",
-				"author": "LEXYTRAD",
-				"acronym": "UMA"
 			}
 		]
 	}
 }]
-
