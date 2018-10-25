@@ -7,6 +7,7 @@ mongoimport --db corpusnet --collection contents --file db/corpus-paralelos.json
 mongoimport --db corpusnet --collection contents --file db/herramientas-tagsets.json --jsonArray
 mongoimport --db corpusnet --collection contents --file db/herramientas-tecnicas.json --jsonArray
 mongoimport --db corpusnet --collection contents --file db/aplicaciones.json --jsonArray
+mongoimport --db corpusnet --collection contents --file db/bases-datos.json --jsonArray
 mongoimport --db corpusnet --collection contents --file db/grupos.json --jsonArray
 mongoimport --db corpusnet --collection contents --file db/noticias.json --jsonArray
 mongoimport --db corpusnet --collection contents --file db/acceso.json --jsonArray

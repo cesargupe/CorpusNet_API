@@ -456,5 +456,26 @@
 		"carme.colominas@upf.edu"
 	],
 	"name": "Corpus paralelo multilingüe UPF"
+},
+{
+	"_id": {
+		"$oid": "5bd17fb0cfcc7fab5155a768"
+	},
+	"type": "aplicaciones",
+	"data": [
+		"Lorem ipsum dolor sit amet consectetur adipiscing elit parturient, torquent dignissim pretium elementum primis est curabitur ridiculus, a libero vivamus sollicitudin quis accumsan eu. Dapibus inceptos a blandit malesuada per nunc dictum ornare sagittis, conubia hendrerit imperdiet id pulvinar lacus mattis odio venenatis, gravida ultrices ut mus neque nec natoque platea. Cum porta habitasse nostra vulputate tempus tincidunt imperdiet senectus, porttitor diam maecenas neque quis suscipit habitant venenatis quam, et egestas sollicitudin netus gravida volutpat fusce. Aliquam vestibulum fames ac dignissim urna libero cursus rutrum nibh, dapibus metus in morbi bibendum diam himenaeos orci pellentesque accumsan, sociis venenatis penatibus etiam imperdiet dictum potenti vel. \n\nLaoreet et purus sodales lectus pretium mauris donec porttitor eleifend, faucibus duis cursus malesuada sollicitudin fames dapibus commodo congue, odio cum aliquet fringilla in netus eget sociosqu. Lectus donec maecenas leo litora lacinia faucibus ultricies suscipit hendrerit, porttitor ridiculus pretium suspendisse duis rutrum varius nostra porta, urna placerat platea curabitur quam dictum semper est. Nostra ante egestas metus morbi sociosqu parturient rutrum himenaeos nascetur, tellus volutpat et ligula curabitur eleifend id ultricies. Cubilia nulla vivamus arcu imperdiet eget fames per tempus neque, convallis sagittis non sociosqu turpis vestibulum iaculis conubia ultrices, metus congue lacinia volutpat diam suscipit erat quis. \n\nHendrerit curae quisque primis pulvinar volutpat eget posuere interdum molestie sem sagittis aliquam nascetur, sed ornare suscipit metus neque luctus iaculis praesent rhoncus accumsan donec duis. Urna luctus leo id tortor inceptos sapien habitasse dapibus, aptent varius ultrices dictumst class lacinia ultricies, magna risus nam erat himenaeos ridiculus justo. Molestie pharetra rutrum mi sollicitudin faucibus nibh neque, nullam blandit venenatis nulla litora vivamus, maecenas tellus egestas ad phasellus proin."
+	],
+	"name": "Generadores para escritura 1.0"
+},
+{
+	"_id": {
+		"$oid": "5bd1819d9a1f27120747d138"
+	},
+	"name": "HISTRA",
+	"type": "aplicaciones",
+	"data": [
+		"Lorem ipsum dolor sit amet consectetur adipiscing elit, eros nam luctus nullam tellus rhoncus, litora quisque maecenas fringilla ad eleifend. Morbi porta ad sapien gravida eu consequat sodales praesent bibendum quisque vestibulum, venenatis sagittis nec per senectus urna sed magnis in proin, enim posuere himenaeos placerat cubilia cursus ridiculus ornare justo mus. Porta nibh maecenas neque non pretium, convallis feugiat velit mollis, tortor rutrum orci parturient. Velit iaculis vivamus integer enim magna et nullam metus, fringilla class tempor per vitae viverra sodales diam cras, tortor accumsan consequat mus tincidunt dui leo. Fames placerat vestibulum a libero facilisis feugiat nec eros sed, parturient posuere pulvinar pretium mus mauris montes imperdiet nunc, cum condimentum quis porttitor lacinia augue aliquet curabitur.\n\nA gravida dignissim tempor volutpat augue, varius viverra penatibus taciti netus justo, massa quis eget nunc. Proin aenean sodales suspendisse ad eget et elementum venenatis, egestas auctor in nunc commodo tempor lobortis arcu, placerat pellentesque cubilia nibh viverra torquent morbi. Donec rutrum natoque molestie fringilla id netus at phasellus bibendum mollis magna, ultricies facilisis nunc scelerisque dignissim imperdiet massa tortor blandit accumsan, posuere nam cras egestas quis convallis eget praesent commodo ridiculus.\n\nPraesent himenaeos ultrices lobortis ultricies nulla tellus nostra iaculis, inceptos eleifend porta ante eget hendrerit diam mus conubia, netus fermentum class viverra nisi senectus dictum. Suscipit nulla condimentum inceptos posuere molestie congue, sollicitudin consequat cubilia dictumst justo pretium hac, fringilla massa metus ullamcorper dis. Sapien ligula accumsan massa dui nullam interdum imperdiet etiam nascetur sociis mattis, primis lobortis magnis venenatis sollicitudin maecenas lacus eros nunc conubia porta consequat, vivamus cras vitae cum habitant platea curae proin blandit non."
+	],
+	"__v": 0
 }]
 

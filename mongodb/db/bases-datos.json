@@ -1,0 +1,83 @@
+[{
+	"_id": {
+		"$oid": "5bd17342cfcc7fab51559eda"
+	},
+	"name": "bases-datos",
+	"language": "en",
+	"data": {
+		"title": "Databases",
+		"buttons": [
+			"Access",
+			"Info"
+		],
+		"edit_menu": {
+			"new_btn": "New database",
+			"new_title": "New database",
+			"edit_title": "Edit database",
+			"error_text": "There was an error saving database",
+			"name_title": "Name of database",
+			"description_title": "Description of database",
+			"email_title": "Link of database",
+			"cancel_btn": "Cancel",
+			"save_btn": "Save"
+		},
+		"databases": [
+			{
+				"name": "HISTRA",
+				"description": "HISTRA (HIStory of TRAnslation) is a database of translators and translated works, which originates from the archive compiled by Dr. Santoyo Mediavilla of bibliographic references of English-Spanish translations, from the sixteenth century to the nineteen eighties. It is a work in progress.",
+				"link": "http://histra.unileon.es/",
+				"author": "TRACE",
+				"acronym": "ULE"
+			},
+			{
+				"name": "TRACE DB",
+				"description": "TRACE DB (TRAnslations CEnsored) is a database of narrative, poetry, theatre and audiovisual (cinema and television) works, translated and censored in Spain from 1939 until 1985, which originates from the catalogues compiled by various members of the TRACE team. It is a work in progress.",
+				"link": "http://trace.unileon.es/tracedb/",
+				"author": "TRACE",
+				"acronym": "ULE"
+			}
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "5bd17342cfcc7fab51559ed9"
+	},
+	"name": "bases-datos",
+	"language": "es",
+	"data": {
+		"title": "Bases de datos",
+		"buttons": [
+			"Acceder",
+			"Info"
+		],
+		"edit_menu": {
+			"new_btn": "Nueva base de datos",
+			"new_title": "Nueva base de datos",
+			"edit_title": "Editar base de datos",
+			"error_text": "Se ha producido un error guardando la base de datos",
+			"name_title": "Nombre de la base de datos",
+			"description_title": "Descripción de la base de datos",
+			"email_title": "Link de la base de datos",
+			"cancel_btn": "Cancelar",
+			"save_btn": "Guardar"
+		},
+		"databases": [
+			{
+				"name": "HISTRA",
+				"description": "HISTRA (HIStoria de la TRAducción) es una base de datos sobre traductores y obras traducidas, que tiene su origen en el archivo compilado por el Dr. Santoyo Mediavilla de referencias bibliográficas de traducciones inglés-español, desde el siglo XVI hasta la década de los ochenta del siglo XX. Se encuentra en proceso de construcción.",
+				"link": "http://histra.unileon.es/",
+				"author": "TRACE",
+				"acronym": "ULE"
+			},
+			{
+				"name": "TRACE DB",
+				"description": "TRACE DB (TRAducciones CEnsuradas) es una base de datos sobre obras de narrativa, poesía, teatro y en formato audiovisual (cine y televisión), traducidas y censuradas en España desde 1939 hasta 1985, que tiene su origen en los catálogos compilados por diferentes miembros del equipo TRACE. Se encuentra en proceso de construcción.",
+				"link": "http://trace.unileon.es/tracedb/",
+				"author": "TRACE",
+				"acronym": "ULE"
+			}
+		]
+	}
+}]
+

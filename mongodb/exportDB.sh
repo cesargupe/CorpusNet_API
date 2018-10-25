@@ -14,6 +14,8 @@ query="{name:'herramientas-tecnicas'}";
 mongoexport --db corpusnet --collection contents --jsonArray --pretty --out db/herramientas-tecnicas.json --query "$query"
 query="{name:'aplicaciones'}";
 mongoexport --db corpusnet --collection contents --jsonArray --pretty --out db/aplicaciones.json --query "$query"
+query="{name:'bases-datos'}";
+mongoexport --db corpusnet --collection contents --jsonArray --pretty --out db/bases-datos.json --query "$query"
 query="{name:'grupos'}";
 mongoexport --db corpusnet --collection contents --jsonArray --pretty --out db/grupos.json --query "$query"
 query="{name:'noticias'}";

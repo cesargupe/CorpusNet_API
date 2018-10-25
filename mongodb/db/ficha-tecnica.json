@@ -1,9 +1,9 @@
 [{
 	"_id": {
-		"$oid": "5bb323bb4cef29563c2e400b"
+		"$oid": "5bb323bb4cef29563c2e400d"
 	},
 	"name": "ficha-tecnica",
-	"type": "corpus-comparables",
+	"type": "corpus-paralelos",
 	"data": [
 		"Corpus Name",
 		"Acronym",
@@ -19,10 +19,30 @@
 		"Alignment",
 		"Interface",
 		"Downloadable",
-		"Access",
+		"Access Availability",
 		"Research Group",
 		"University",
 		"Contact person (Name and Email)"
+	]
+},
+{
+	"_id": {
+		"$oid": "5bb323bb4cef29563c2e400f"
+	},
+	"name": "ficha-tecnica",
+	"type": "aplicaciones",
+	"data": [
+		"Info"
+	]
+},
+{
+	"_id": {
+		"$oid": "5bd17fb0cfcc7fab5155a75e"
+	},
+	"name": "ficha-tecnica",
+	"type": "bases-datos",
+	"data": [
+		"Info"
 	]
 },
 {
@@ -80,10 +100,10 @@
 },
 {
 	"_id": {
-		"$oid": "5bb323bb4cef29563c2e400d"
+		"$oid": "5bb323bb4cef29563c2e400b"
 	},
 	"name": "ficha-tecnica",
-	"type": "corpus-paralelos",
+	"type": "corpus-comparables",
 	"data": [
 		"Corpus Name",
 		"Acronym",
@@ -99,33 +119,7 @@
 		"Alignment",
 		"Interface",
 		"Downloadable",
-		"Access Availability",
-		"Research Group",
-		"University",
-		"Contact person (Name and Email)"
-	]
-},
-{
-	"_id": {
-		"$oid": "5bb323bb4cef29563c2e400f"
-	},
-	"name": "ficha-tecnica",
-	"type": "aplicaciones",
-	"data": [
-		"Corpus Name",
-		"Acronym",
-		"Project URL",
-		"Medium",
-		"Contents",
-		"Region",
-		"Language pairs",
-		"Direction",
-		"Words Number",
-		"Linguistic Annotation",
-		"Alignment",
-		"Interface",
-		"Downloadable",
-		"Access Availability",
+		"Access",
 		"Research Group",
 		"University",
 		"Contact person (Name and Email)"

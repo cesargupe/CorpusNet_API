@@ -1,39 +1,5 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c545"
-	},
-	"name": "inicio",
-	"language": "es",
-	"data": {
-		"alert": {
-			"bold_text": "Última noticia",
-			"normal_text": "",
-			"link": ""
-		},
-		"panels": [
-			{
-				"title": "Información general y objetivos",
-				"text": [
-					"CorpusNet es una red de corpus bilingües y multilingües de cualquiera de las lenguas de España (castellano, catalán, gallego y vasco) y otras lenguas junto con otros recursos relacionados.",
-					"Tiene tres objetivos básicos:"
-				],
-				"points": [
-					"Facilitar el acceso a los recursos ya existentes y propiciar la colaboración entre los usuarios con el fin de promover investigaciones más ambiciosas y visibles. ",
-					"Constituirse en un catalizador de recursos en estas lenguas abierto a nuevas incorporaciones ",
-					"Sentar las bases para una colaboración internacional de amplio alcance en el marco de H2020 y la Agenda Digital Europea."
-				]
-			},
-			{
-				"title": "Formar parte",
-				"text": [
-					"Lorem ipsum dolor sit amet consectetur adipiscing elit cursus ligula non parturient, nunc vestibulum fermentum convallis tempus nibh pretium sociis faucibus. Tempor vestibulum vitae gravida senectus condimentum dui fringilla hendrerit, magnis cubilia porta molestie tempus massa dignissim metus, suspendisse mattis tortor sem volutpat ut dictum. Auctor fermentum nisl habitant porta cum velit rutrum penatibus, conubia nullam habitasse dictum vestibulum porttitor aliquet pharetra pulvinar, tortor diam pretium curabitur magnis duis erat. Cubilia habitant pharetra diam dignissim sodales sagittis bibendum, netus commodo himenaeos odio potenti dis ullamcorper, risus quis id litora hac nostra."
-				]
-			}
-		]
-	}
-},
-{
-	"_id": {
 		"$oid": "5ba210feaf3c2e052dd8c546"
 	},
 	"name": "inicio",
@@ -65,4 +31,39 @@
 			}
 		]
 	}
+},
+{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c545"
+	},
+	"name": "inicio",
+	"language": "es",
+	"data": {
+		"alert": {
+			"bold_text": "Última noticia",
+			"normal_text": "",
+			"link": ""
+		},
+		"panels": [
+			{
+				"title": "Información general y objetivos",
+				"text": [
+					"CorpusNet es una red de corpus bilingües y multilingües de cualquiera de las lenguas de España (castellano, catalán, gallego y vasco) y otras lenguas junto con otros recursos relacionados.",
+					"Tiene tres objetivos básicos:"
+				],
+				"points": [
+					"Facilitar el acceso a los recursos ya existentes y propiciar la colaboración entre los usuarios con el fin de promover investigaciones más ambiciosas y visibles. ",
+					"Constituirse en un catalizador de recursos en estas lenguas abierto a nuevas incorporaciones ",
+					"Sentar las bases para una colaboración internacional de amplio alcance en el marco de H2020 y la Agenda Digital Europea."
+				]
+			},
+			{
+				"title": "Formar parte",
+				"text": [
+					"Lorem ipsum dolor sit amet consectetur adipiscing elit cursus ligula non parturient, nunc vestibulum fermentum convallis tempus nibh pretium sociis faucibus. Tempor vestibulum vitae gravida senectus condimentum dui fringilla hendrerit, magnis cubilia porta molestie tempus massa dignissim metus, suspendisse mattis tortor sem volutpat ut dictum. Auctor fermentum nisl habitant porta cum velit rutrum penatibus, conubia nullam habitasse dictum vestibulum porttitor aliquet pharetra pulvinar, tortor diam pretium curabitur magnis duis erat. Cubilia habitant pharetra diam dignissim sodales sagittis bibendum, netus commodo himenaeos odio potenti dis ullamcorper, risus quis id litora hac nostra."
+				]
+			}
+		]
+	}
 }]
+
