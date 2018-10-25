@@ -8,7 +8,7 @@
 		"title": "Herramientas técnicas",
 		"buttons": [
 			"Acceder",
-			"Ficha técnica"
+			"Info"
 		],
 		"edit_menu": {
 			"new_btn": "Nueva herramienta",
@@ -73,8 +73,10 @@
 					"author": "TRACE",
 					"acronym": "ULE",
 					"name": "TRACE CORPUS TAGGER / ALIGNER 1.0",
-					"description": "Capaz de etiquetar y alinear pares de textos de narrativa, teatro, cine, televisión y poesía en cualquier lengua y de analizar y exportar los resultados.",
-					"link": "http://trace.unileon.es/herramientas/trace-corpus-taggeraligner-1-0/"
+					"description": "TRACE Corpus Tagger / Aligner 1.0 es una aplicación de alineación de textos desarrollada en el seno del grupo de investigación TRACE, Dpto de Filología Moderna, de la Universidad de León.",
+					"link": "/assets/uploads/tools/Taligner.jar",
+					"info": "http://trace.unileon.es/herramientas/trace-corpus-taggeraligner-1-0/",
+					"image": "/assets/uploads/tools/Taligner.png"
 				},
 				{
 					"author": "TRALIMA",
@@ -120,7 +122,7 @@
 		"title": "Herramientas técnicas",
 		"buttons": [
 			"Access",
-			"Datasheet"
+			"Info"
 		],
 		"edit_menu": {
 			"new_btn": "New tool",
@@ -198,7 +200,9 @@
 					"acronym": "ULE",
 					"name": "TRACE CORPUS TAGGER / ALIGNER 1.0",
 					"description": "Capaz de etiquetar y alinear pares de textos de narrativa, teatro, cine, televisión y poesía en cualquier lengua y de analizar y exportar los resultados.",
-					"link": "http://trace.unileon.es/herramientas/trace-corpus-taggeraligner-1-0/"
+					"link": "/assets/uploads/tools/Taligner.jar",
+					"info": "http://trace.unileon.es/herramientas/trace-corpus-taggeraligner-1-0/",
+					"image": "/assets/uploads/tools/Taligner.png"
 				},
 				{
 					"author": "TRALIMA",
@@ -234,4 +238,3 @@
 		}
 	}
 }]
-

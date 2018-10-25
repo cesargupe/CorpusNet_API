@@ -27,79 +27,6 @@
 },
 {
 	"_id": {
-		"$oid": "5bb323bb4cef29563c2e400f"
-	},
-	"name": "ficha-tecnica",
-	"type": "aplicaciones",
-	"data": [
-		"Info"
-	]
-},
-{
-	"_id": {
-		"$oid": "5bd17fb0cfcc7fab5155a75e"
-	},
-	"name": "ficha-tecnica",
-	"type": "bases-datos",
-	"data": [
-		"Info"
-	]
-},
-{
-	"_id": {
-		"$oid": "5bb323bb4cef29563c2e400c"
-	},
-	"name": "ficha-tecnica",
-	"type": "herramientas-tecnicas",
-	"data": [
-		"Corpus Name",
-		"Acronym",
-		"Project URL",
-		"Medium",
-		"Contents",
-		"Region",
-		"Language pairs",
-		"Direction",
-		"Words Number",
-		"Linguistic Annotation",
-		"Alignment",
-		"Interface",
-		"Downloadable",
-		"Access Availability",
-		"Research Group",
-		"University",
-		"Contact person (Name and Email)"
-	]
-},
-{
-	"_id": {
-		"$oid": "5bb323bb4cef29563c2e400e"
-	},
-	"name": "ficha-tecnica",
-	"type": "herramientas-tagsets",
-	"data": [
-		"Corpus Name",
-		"Acronym",
-		"Project URL",
-		"Medium",
-		"Contents",
-		"Time Coverage",
-		"Region",
-		"Language pairs",
-		"Direction",
-		"Words Number",
-		"Linguistic Annotation",
-		"Alignment",
-		"Interface",
-		"Downloadable",
-		"Access Availability",
-		"Research Group",
-		"University",
-		"Contact person (Name and Email)"
-	]
-},
-{
-	"_id": {
 		"$oid": "5bb323bb4cef29563c2e400b"
 	},
 	"name": "ficha-tecnica",
@@ -125,4 +52,3 @@
 		"Contact person (Name and Email)"
 	]
 }]
-

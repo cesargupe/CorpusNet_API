@@ -8,7 +8,7 @@
 		"title": "Tagsets",
 		"buttons": [
 			"Access",
-			"Datasheet"
+			"Info"
 		],
 		"edit_menu": {
 			"new_btn": "New tool",
@@ -42,7 +42,7 @@
 		"title": "Tagsets",
 		"buttons": [
 			"Acceder",
-			"Ficha técnica"
+			"Info"
 		],
 		"edit_menu": {
 			"new_btn": "Nueva herramienta",
@@ -66,4 +66,3 @@
 		]
 	}
 }]
-
