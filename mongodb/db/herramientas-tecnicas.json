@@ -1,119 +1,5 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c55d"
-	},
-	"name": "herramientas-tecnicas",
-	"language": "es",
-	"data": {
-		"title": "Herramientas técnicas",
-		"buttons": [
-			"Acceder",
-			"Info"
-		],
-		"edit_menu": {
-			"new_btn": "Nueva herramienta",
-			"new_title": "Nueva herramienta",
-			"edit_title": "Editar herramienta",
-			"error_text": "Se ha producido un error guardando la herramienta",
-			"type_title": "Tipo de herramienta",
-			"name_title": "Nombre de la herramienta",
-			"description_title": "Descripción de la herramienta",
-			"email_title": "Link de la herramienta",
-			"cancel_btn": "Cancelar",
-			"save_btn": "Guardar"
-		},
-		"nav": [
-			{
-				"name": "tagger",
-				"title": "Etiquetadores"
-			},
-			{
-				"name": "browser",
-				"title": "Visores"
-			},
-			{
-				"name": "aligner",
-				"title": "Alineadores"
-			},
-			{
-				"name": "other",
-				"title": "Otras herramientas"
-			}
-		],
-		"tools": {
-			"tagger": [
-				{
-					"description": "Facilita la clasificación y anotación de movimientos retóricos en los textos a tratar, de modo que puede seleccionarse el fragmento de texto que se desee y asignarle una etiqueta retórica (dentro de una jerarquía de movimientos, pasos y subpasos).",
-					"link": "https://actres.unileon.es/wordpress/?page_id=42\u0026lang=es",
-					"name": "Etiquetador multicapa ACTRES",
-					"author": "ACTRES",
-					"acronym": "ULE",
-					"image": "/assets/uploads/tools/ACTRES_El_etiquetador.png"
-				},
-				{
-					"name": "PoSTagger",
-					"description": "Aplicación para etiquetar texto morfológicamente.",
-					"link": "http://www.lexytrad.es/es/apps/txt2vrt",
-					"author": "LEXYTRAD",
-					"acronym": "UMA"
-				}
-			],
-			"browser": [
-				{
-					"name": "Visor multicapa ACTRES",
-					"description": "Posibilita la realización de búsquedas concretas de partes de textos con determinadas etiquetas retóricas y líneas de concordancias de palabras o combinaciones de palabras. Asimismo, ofrece información estadística, como frecuencias de aparición de palabras o combinaciones fraseológicas y porcentajes de cada movimiento retórico con respecto al total de palabras del corpus.",
-					"link": "https://actres.unileon.es/wordpress/?page_id=42\u0026lang=es",
-					"author": "ACTRES",
-					"acronym": "ULE",
-					"image": "/assets/uploads/tools/ACTRES_El_visor.png"
-				}
-			],
-			"aligner": [
-				{
-					"author": "TRACE",
-					"acronym": "ULE",
-					"name": "TRACE CORPUS TAGGER / ALIGNER 1.0",
-					"description": "TRACE Corpus Tagger / Aligner 1.0 es una aplicación de alineación de textos desarrollada en el seno del grupo de investigación TRACE, Dpto de Filología Moderna, de la Universidad de León.",
-					"link": "/assets/uploads/tools/Taligner.jar",
-					"info": "http://trace.unileon.es/herramientas/trace-corpus-taggeraligner-1-0/",
-					"image": "/assets/uploads/tools/Taligner.png"
-				},
-				{
-					"author": "TRALIMA",
-					"acronym": "UPV/EHU",
-					"name": "TAligner 3.0",
-					"description": "TAligner es una aplicación de alineación de textos desarrollada en el seno del grupo de investigación TRALIMA/ITZULIK, Facultad de Letras, Universidad del País Vasco, en Vitoria-Gasteiz, a partir del TRACE Aligner",
-					"link": "http://trace.unileon.es/herramientas/trace-corpus-taggeraligner-1-0/"
-				}
-			],
-			"other": [
-				{
-					"author": "GLICom",
-					"acronym": "UPF",
-					"name": "CDDZ",
-					"description": "Indexador",
-					"link": "http://a"
-				},
-				{
-					"name": "ReCor",
-					"description": "Se utiliza para determinar la representatividad de un corpus (se proporcionará video/capturas y la información necesaria para ponerse en contacto con la UMA en caso de que el usuario este interesado en descargarlo).",
-					"link": "http://www.lexytrad.es/es/es/recursos/recor-2",
-					"author": "LEXYTRAD",
-					"acronym": "UMA"
-				},
-				{
-					"name": "Scleaner",
-					"description": "Aplicación para limpiar el texto pegado.",
-					"link": "http://www.lexytrad.es/es/es/recursos/scleaner",
-					"author": "LEXYTRAD",
-					"acronym": "UMA"
-				}
-			]
-		}
-	}
-},
-{
-	"_id": {
 		"$oid": "5ba210feaf3c2e052dd8c55e"
 	},
 	"name": "herramientas-tecnicas",
@@ -237,4 +123,119 @@
 			]
 		}
 	}
+},
+{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c55d"
+	},
+	"name": "herramientas-tecnicas",
+	"language": "es",
+	"data": {
+		"title": "Herramientas técnicas",
+		"buttons": [
+			"Acceder",
+			"Info"
+		],
+		"edit_menu": {
+			"new_btn": "Nueva herramienta",
+			"new_title": "Nueva herramienta",
+			"edit_title": "Editar herramienta",
+			"error_text": "Se ha producido un error guardando la herramienta",
+			"type_title": "Tipo de herramienta",
+			"name_title": "Nombre de la herramienta",
+			"description_title": "Descripción de la herramienta",
+			"email_title": "Link de la herramienta",
+			"cancel_btn": "Cancelar",
+			"save_btn": "Guardar"
+		},
+		"nav": [
+			{
+				"name": "tagger",
+				"title": "Etiquetadores"
+			},
+			{
+				"name": "browser",
+				"title": "Visores"
+			},
+			{
+				"name": "aligner",
+				"title": "Alineadores"
+			},
+			{
+				"name": "other",
+				"title": "Otras herramientas"
+			}
+		],
+		"tools": {
+			"tagger": [
+				{
+					"description": "Facilita la clasificación y anotación de movimientos retóricos en los textos a tratar, de modo que puede seleccionarse el fragmento de texto que se desee y asignarle una etiqueta retórica (dentro de una jerarquía de movimientos, pasos y subpasos).",
+					"link": "https://actres.unileon.es/wordpress/?page_id=42\u0026lang=es",
+					"name": "Etiquetador multicapa ACTRES",
+					"author": "ACTRES",
+					"acronym": "ULE",
+					"image": "/assets/uploads/tools/ACTRES_El_etiquetador.png"
+				},
+				{
+					"name": "PoSTagger",
+					"description": "Aplicación para etiquetar texto morfológicamente.",
+					"link": "http://www.lexytrad.es/es/apps/txt2vrt",
+					"author": "LEXYTRAD",
+					"acronym": "UMA"
+				}
+			],
+			"browser": [
+				{
+					"name": "Visor multicapa ACTRES",
+					"description": "Posibilita la realización de búsquedas concretas de partes de textos con determinadas etiquetas retóricas y líneas de concordancias de palabras o combinaciones de palabras. Asimismo, ofrece información estadística, como frecuencias de aparición de palabras o combinaciones fraseológicas y porcentajes de cada movimiento retórico con respecto al total de palabras del corpus.",
+					"link": "https://actres.unileon.es/wordpress/?page_id=42\u0026lang=es",
+					"author": "ACTRES",
+					"acronym": "ULE",
+					"image": "/assets/uploads/tools/ACTRES_El_visor.png"
+				}
+			],
+			"aligner": [
+				{
+					"author": "TRACE",
+					"acronym": "ULE",
+					"name": "TRACE CORPUS TAGGER / ALIGNER 1.0",
+					"description": "TRACE Corpus Tagger / Aligner 1.0 es una aplicación de alineación de textos desarrollada en el seno del grupo de investigación TRACE, Dpto de Filología Moderna, de la Universidad de León.",
+					"link": "/assets/uploads/tools/Taligner.jar",
+					"info": "http://trace.unileon.es/herramientas/trace-corpus-taggeraligner-1-0/",
+					"image": "/assets/uploads/tools/Taligner.png"
+				},
+				{
+					"author": "TRALIMA",
+					"acronym": "UPV/EHU",
+					"name": "TAligner 3.0",
+					"description": "TAligner es una aplicación de alineación de textos desarrollada en el seno del grupo de investigación TRALIMA/ITZULIK, Facultad de Letras, Universidad del País Vasco, en Vitoria-Gasteiz, a partir del TRACE Aligner",
+					"link": "http://trace.unileon.es/herramientas/trace-corpus-taggeraligner-1-0/"
+				}
+			],
+			"other": [
+				{
+					"author": "GLICom",
+					"acronym": "UPF",
+					"name": "CDDZ",
+					"description": "Indexador",
+					"link": "http://a"
+				},
+				{
+					"name": "ReCor",
+					"description": "Se utiliza para determinar la representatividad de un corpus (se proporcionará video/capturas y la información necesaria para ponerse en contacto con la UMA en caso de que el usuario este interesado en descargarlo).",
+					"link": "http://www.lexytrad.es/es/es/recursos/recor-2",
+					"author": "LEXYTRAD",
+					"acronym": "UMA"
+				},
+				{
+					"name": "Scleaner",
+					"description": "Aplicación para limpiar el texto pegado.",
+					"link": "http://www.lexytrad.es/es/es/recursos/scleaner",
+					"author": "LEXYTRAD",
+					"acronym": "UMA"
+				}
+			]
+		}
+	}
 }]
+
