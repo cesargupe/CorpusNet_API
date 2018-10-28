@@ -29,10 +29,22 @@
 				"acronym": "ULE"
 			},
 			{
-				"name": "Corpus Valencià de Literatura Traduïda (Valencian Corpus of Translated Literature)",
+				"name": "COVALT",
 				"link": "http://www.covalt.uji.es",
 				"author": "COVALT",
 				"acronym": "UJI"
+			},
+			{
+				"name": "BancTrad",
+				"link": "https://iac.upf.edu/",
+				"author": "GLICom",
+				"acronym": "UPF"
+			},
+			{
+				"name": "PaGeS",
+				"link": "http://www.corpuspages.eu",
+				"author": "PaGeS",
+				"acronym": "USC"
 			},
 			{
 				"name": "MULTINOT",
@@ -41,16 +53,85 @@
 				"acronym": "UCM"
 			},
 			{
-				"name": "Corpus paralelo multilingüe UPF",
+				"name": "Aleuska",
+				"link": "http://www.ehu.eus/tralima/index.html",
+				"author": "TRALIMA",
+				"acronym": "UPV/EHU"
+			},
+			{
+				"name": "EUSAL",
+				"link": "http://www.ehu.eus/tralima/index.html",
+				"author": "TRALIMA",
+				"acronym": "UPV/EHU"
+			},
+			{
+				"name": "TEATRAD",
+				"link": "http://www.ehu.eus/tralima/index.html",
+				"author": "TRALIMA",
+				"acronym": "UPV/EHU"
+			},
+			{
+				"name": "TRACEti",
+				"link": "http://www.ehu.eus/tralima/index.html",
+				"author": "TRALIMA",
+				"acronym": "UPV/EHU"
+			}
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "5bd361266b1e04f4d5945292"
+	},
+	"name": "corpus-paralelos",
+	"language": "en",
+	"data": {
+		"title": "Parallel Corpora",
+		"buttons": [
+			"Access",
+			"Datasheet"
+		],
+		"edit_menu": {
+			"new_btn": "New Corpora",
+			"new_title": "New Corpora",
+			"edit_title": "Edit Corpora",
+			"error_text": "There was an error saving Corpora",
+			"name_title": "Name of Corpora",
+			"description_title": "Description of Corpora",
+			"email_title": "Link of Corpora",
+			"cancel_btn": "Cancel",
+			"save_btn": "Save"
+		},
+		"corpus": [
+			{
+				"name": "P-ACTRES 2.0",
+				"link": "https://actres.unileon.es/wordpress/?page_id=33\u0026lang=en",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"name": "COVALT",
+				"link": "http://www.covalt.uji.es",
+				"author": "COVALT",
+				"acronym": "UJI"
+			},
+			{
+				"name": "BancTrad",
 				"link": "https://iac.upf.edu/",
 				"author": "GLICom",
 				"acronym": "UPF"
 			},
 			{
-				"name": "Parallel Corpus German Spanish",
+				"name": "PaGeS",
 				"link": "http://www.corpuspages.eu",
 				"author": "PaGeS",
 				"acronym": "USC"
+			},
+			{
+				"name": "MULTINOT",
+				"link": "https://www.ucm.es/funcap/multinot",
+				"author": "FUNCAP",
+				"acronym": "UCM"
 			},
 			{
 				"name": "Aleuska",

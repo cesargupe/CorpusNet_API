@@ -13,10 +13,10 @@
 				"text": "Corpus",
 				"sublements": [
 					{
-						"text": "Comparable Corpus"
+						"text": "Comparable Corpora"
 					},
 					{
-						"text": "Parallel Corpus"
+						"text": "Parallel Corpora"
 					}
 				]
 			},
@@ -75,7 +75,7 @@
 				"text": "Corpus",
 				"sublements": [
 					{
-						"text": "Corpus comparable"
+						"text": "Corpus comparables"
 					},
 					{
 						"text": "Corpus paralelos"

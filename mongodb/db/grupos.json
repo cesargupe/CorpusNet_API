@@ -1,22 +1,22 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c569"
+		"$oid": "5ba210feaf3c2e052dd8c56a"
 	},
 	"name": "grupos",
-	"language": "es",
+	"language": "en",
 	"data": {
 		"title": "Grupos",
 		"buttons": [
-			"Acceder",
-			"Ficha técnica"
+			"Access",
+			"Datasheet"
 		],
 		"edit_menu": {
-			"edit_title": "Editar grupo",
-			"error_text": "Se ha producido un error guardando el contenido",
-			"description_title": "Descripción del grupo",
-			"email_title": "Link del grupo",
-			"cancel_btn": "Cancelar",
-			"save_btn": "Guardar"
+			"edit_title": "Edit team",
+			"error_text": "There was an error saving content",
+			"description_title": "Description of team",
+			"email_title": "Link of team",
+			"cancel_btn": "Cancel",
+			"save_btn": "Save"
 		},
 		"teams": [
 			{
@@ -104,23 +104,23 @@
 },
 {
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c56a"
+		"$oid": "5ba210feaf3c2e052dd8c569"
 	},
 	"name": "grupos",
-	"language": "en",
+	"language": "es",
 	"data": {
 		"title": "Grupos",
 		"buttons": [
-			"Access",
-			"Datasheet"
+			"Acceder",
+			"Ficha técnica"
 		],
 		"edit_menu": {
-			"edit_title": "Edit team",
-			"error_text": "There was an error saving content",
-			"description_title": "Description of team",
-			"email_title": "Link of team",
-			"cancel_btn": "Cancel",
-			"save_btn": "Save"
+			"edit_title": "Editar grupo",
+			"error_text": "Se ha producido un error guardando el contenido",
+			"description_title": "Descripción del grupo",
+			"email_title": "Link del grupo",
+			"cancel_btn": "Cancelar",
+			"save_btn": "Guardar"
 		},
 		"teams": [
 			{

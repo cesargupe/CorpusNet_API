@@ -23,7 +23,13 @@
 		},
 		"corpus": [
 			{
-				"name": "Corpus of English and Spanish Journalistic Discourse",
+				"name": "MULTINOT",
+				"link": "https://www.ucm.es/funcap/multinot",
+				"author": "FUNCAP",
+				"acronym": "UCM"
+			},
+			{
+				"name": "CESJD_JMA",
 				"link": "https://www.ucm.es/discom-cogfunc/el-grupo",
 				"author": "GDISCOM-COGFUNC",
 				"acronym": "UCM"
@@ -35,13 +41,58 @@
 				"acronym": "UMA"
 			},
 			{
+				"name": "Tell-Me",
+				"link": "http://www.tellme-project.eu/",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			}
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "5bd361266b1e04f4d594528d"
+	},
+	"name": "corpus-comparables",
+	"language": "en",
+	"data": {
+		"title": "Comparable corpora",
+		"buttons": [
+			"Access",
+			"Datasheet"
+		],
+		"edit_menu": {
+			"new_btn": "New Corpora",
+			"new_title": "New Corpora",
+			"edit_title": "Edit Corpora",
+			"error_text": "There was an error saving Corpora",
+			"name_title": "Name of Corpora",
+			"description_title": "Description of Corpora",
+			"email_title": "Link of Corpora",
+			"cancel_btn": "Cancel",
+			"save_btn": "Save"
+		},
+		"corpus": [
+			{
 				"name": "MULTINOT",
 				"link": "https://www.ucm.es/funcap/multinot",
 				"author": "FUNCAP",
 				"acronym": "UCM"
 			},
 			{
-				"name": "Towards European Language Learning for MEdical professionals",
+				"name": "CESJD_JMA",
+				"link": "https://www.ucm.es/discom-cogfunc/el-grupo",
+				"author": "GDISCOM-COGFUNC",
+				"acronym": "UCM"
+			},
+			{
+				"name": "Ecoturismo",
+				"link": "http://www.lexytrad.es/tradicor/app/",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			},
+			{
+				"name": "Tell-Me",
 				"link": "http://www.tellme-project.eu/",
 				"author": "LEXYTRAD",
 				"acronym": "UMA"

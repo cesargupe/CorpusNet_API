@@ -110,7 +110,7 @@
 	"_id": {
 		"$oid": "5bc636189a09729ab0d0328d"
 	},
-	"name": "Towards European Language Learning for MEdical professionals",
+	"name": "Tell-Me",
 	"type": "corpus-comparables",
 	"data": [
 		"Towards European Language Learning for MEdical professionals",
@@ -299,7 +299,7 @@
 	"_id": {
 		"$oid": "5bc636189a09729ab0d03294"
 	},
-	"name": "Corpus of English and Spanish Journalistic Discourse",
+	"name": "CESJD_JMA",
 	"type": "corpus-comparables",
 	"data": [
 		"Corpus of English and Spanish Journalistic Discourse",
@@ -374,7 +374,7 @@
 		"Santiago de Compostela",
 		"Irene Doval (i.doval@usc.es)"
 	],
-	"name": "Parallel Corpus German Spanish"
+	"name": "PaGeS"
 },
 {
 	"_id": {
@@ -428,7 +428,7 @@
 		"Universitat Jaume I",
 		"Josep Marco (jmarco@uji.es)\n Josep Guzman (guzman@uji.es)"
 	],
-	"name": "Corpus Valencià de Literatura Traduïda (Valencian Corpus of Translated Literature)"
+	"name": "COVALT"
 },
 {
 	"_id": {
@@ -455,6 +455,6 @@
 		"Universitat Pompeu Fabra",
 		"carme.colominas@upf.edu"
 	],
-	"name": "Corpus paralelo multilingüe UPF"
+	"name": "BancTrad"
 }]
 

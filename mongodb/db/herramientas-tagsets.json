@@ -23,11 +23,12 @@
 		},
 		"tools": [
 			{
+				"name": "Etiquetador de Modalidad",
+				"link": "/assets/uploads/tools/MULTINOT_GUIDELINES_2.4.pdf",
+				"info": "/assets/uploads/tools/Etiquetador_modalidad.xlsx",
+				"description": " ",
 				"author": "FUNCAP",
-				"acronym": "UCM",
-				"name": "Herramienta de ejemplo",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"link": "http://www.google.es"
+				"acronym": "UCM"
 			}
 		]
 	}
@@ -57,11 +58,12 @@
 		},
 		"tools": [
 			{
+				"name": "Etiquetador de Modalidad",
+				"link": "/assets/uploads/tools/MULTINOT_GUIDELINES_2.4.pdf",
+				"info": "/assets/uploads/tools/Etiquetador_modalidad.xlsx",
+				"description": " ",
 				"author": "FUNCAP",
-				"acronym": "UCM",
-				"name": "Example tool",
-				"description": "Lorem ipsum dolor sit amet consectetur adipiscing elit orci nec curae feugiat, parturient fames conubia egestas mus sapien convallis dignissim netus nunc. Luctus erat est convallis platea vivamus vehicula id, risus imperdiet consequat ridiculus massa varius augue, fames velit cubilia habitasse eu tortor.",
-				"link": "http://www.google.es"
+				"acronym": "UCM"
 			}
 		]
 	}

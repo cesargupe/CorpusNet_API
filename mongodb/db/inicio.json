@@ -1,39 +1,5 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c546"
-	},
-	"name": "inicio",
-	"language": "en",
-	"data": {
-		"alert": {
-			"bold_text": "Last notice",
-			"normal_text": "",
-			"link": ""
-		},
-		"panels": [
-			{
-				"title": "General information and objectives",
-				"text": [
-					"CorpusNet is a hub of bilingual and multilingual corpora and related resources featuring any of the languages of Spain (Spanish, Catalan, Galician and Basque) alongside other languages.",
-					"Its mission is threefold:"
-				],
-				"points": [
-					"Promote more ambitious and more visible research by facilitating easier access to existing resources and encouraging users cooperation.",
-					"Provide a starting point for a Spanish-based resource hub, which additional groups may consider joining in the future.",
-					"Pave the way for far-reaching, international collaboration within the framework of H2020 and the European Digital Agenda."
-				]
-			},
-			{
-				"title": "Membership",
-				"text": [
-					"Lorem ipsum dolor sit amet consectetur adipiscing elit cursus ligula non parturient, nunc vestibulum fermentum convallis tempus nibh pretium sociis faucibus. Tempor vestibulum vitae gravida senectus condimentum dui fringilla hendrerit, magnis cubilia porta molestie tempus massa dignissim metus, suspendisse mattis tortor sem volutpat ut dictum. Auctor fermentum nisl habitant porta cum velit rutrum penatibus, conubia nullam habitasse dictum vestibulum porttitor aliquet pharetra pulvinar, tortor diam pretium curabitur magnis duis erat. Cubilia habitant pharetra diam dignissim sodales sagittis bibendum, netus commodo himenaeos odio potenti dis ullamcorper, risus quis id litora hac nostra."
-				]
-			}
-		]
-	}
-},
-{
-	"_id": {
 		"$oid": "5ba210feaf3c2e052dd8c545"
 	},
 	"name": "inicio",
@@ -58,12 +24,45 @@
 				]
 			},
 			{
-				"title": "Formar parte",
+				"title": "Adhesión",
 				"text": [
-					"Lorem ipsum dolor sit amet consectetur adipiscing elit cursus ligula non parturient, nunc vestibulum fermentum convallis tempus nibh pretium sociis faucibus. Tempor vestibulum vitae gravida senectus condimentum dui fringilla hendrerit, magnis cubilia porta molestie tempus massa dignissim metus, suspendisse mattis tortor sem volutpat ut dictum. Auctor fermentum nisl habitant porta cum velit rutrum penatibus, conubia nullam habitasse dictum vestibulum porttitor aliquet pharetra pulvinar, tortor diam pretium curabitur magnis duis erat. Cubilia habitant pharetra diam dignissim sodales sagittis bibendum, netus commodo himenaeos odio potenti dis ullamcorper, risus quis id litora hac nostra."
+					"<b>Adhesión</b>: Para adherirse a la red, los recursos han de compartirse bajo los requisitos de una licencia CC y han de estar disponibles para ser utilizados."
+				]
+			}
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c546"
+	},
+	"name": "inicio",
+	"language": "en",
+	"data": {
+		"alert": {
+			"bold_text": "Lastest news",
+			"normal_text": "",
+			"link": ""
+		},
+		"panels": [
+			{
+				"title": "General information and objectives",
+				"text": [
+					"CorpusNet is a hub of bilingual and multilingual corpora and related resources featuring any of the languages of Spain (Spanish, Catalan, Galician and Basque) alongside other languages.",
+					"Its mission is threefold:"
+				],
+				"points": [
+					"Promote more ambitious and more visible research by facilitating easier access to existing resources and encouraging users cooperation.",
+					"Provide a starting point for a Spanish-based resource hub, which additional groups may consider joining in the future.",
+					"Pave the way for far-reaching, international collaboration within the framework of H2020 and the European Digital Agenda."
+				]
+			},
+			{
+				"title": "Membership",
+				"text": [
+					"<b>Membership</b>: Candidate resources need to comply with regulations so that a CC licence may apply and should be ready for use by researchers."
 				]
 			}
 		]
 	}
 }]
-
