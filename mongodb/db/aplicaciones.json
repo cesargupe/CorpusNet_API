@@ -10,6 +10,12 @@
 			"Acceder",
 			"Info"
 		],
+		"licenses": {
+			"crative_commons": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+				}
+		},
 		"edit_menu": {
 			"new_btn": "Nueva aplicación",
 			"new_title": "Nueva aplicación",
@@ -23,14 +29,14 @@
 		},
 		"applications": [
 			{
-				"name": "Generadores para escritura 1.0",
+				"name": "Generadores de textos 1.0 ©",
 				"description": "Serie 1.0 de aplicaciones de apoyo a usuarios hispanohablantes en la\nredacción en inglés de textos altamente formalizados como informes técnicos y\nde auditoría, actas de reuniones, fichas de cata de vino, etc. Se caracterizan\npor asistir al profesional en la redacción con las sugerencias más adecuadas\ntanto desde el punto de vista gramatical como léxico y retórico. Interfaz de usuario de fácil manejo enfocada a la productividad.",
 				"link": "http://contraste2.unileon.es/web/es/applications.html",
 				"author": "ACTRES",
 				"acronym": "ULE"
 			},
 			{
-				"name": "PETRA 1.0: Evaluación y posedición",
+				"name": "PETRA 1.0 ©: Evaluación y posedición",
 				"description": "Facilita la evaluación y (pos)edición en las traducciones del inglés al español de\ntextos “de lengua general”: artículos de revistas y periódicos, ensayo, narrativa,\netc. . Identifica elementos problemáticos gracias a la información lingüística\nexperta procedente de estudios basados en corpus y ofrece una interfaz\naltamente intuitiva y totalmente centrada en el usuario.",
 				"link": "https://actres.unileon.es/wordpress/?page_id=48\u0026lang=es",
 				"author": "ACTRES",
@@ -40,28 +46,23 @@
 				"name": "Fraseología y Traducción multilingüe",
 				"description": " ",
 				"link": "http://84.127.230.137:6263/phraseology/",
-				"info": "https://dti.ua.es/es/frasytram/documentos/presentacion-aplicacion.pdf",
+				"info": "https://dti.ua.es/es/frasytram/documentos/presentacion-aplicacion-frasytram.pdf",
 				"author": "FRASYTRAM",
 				"acronym": "UA"
 			},
 			{
-				"name": "Inteliterm [Applet Java]",
-				"description": "Diccionario inteligente (se proporcionará una demo en video para la plataforma web).",
-				"link": "http://www.lexytrad.es/es/es/recursos/inteliterm",
+				"name": "INTELITERM",
+				"description": "Diccionario inteligente multilingüe diseñado en Java que permite mostrar rápida y visualmente la información incluida en su base de datos sobre los términos del texto de trabajo. Cuenta con un gestor de bases de datos en formato TBX. Está enlazada a un gestor de corpus que permite buscar concordacias, n-gramas, etc.",
+				"link": "http://www.lexytrad.es/inteliterm/inteliterm/",
+				"info": "http://www.lexytrad.es/inteliterm/videos.php",
 				"author": "LEXYTRAD",
 				"acronym": "UMA"
 			},
 			{
-				"name": "Intelligent Terminology Management System for Translators",
-				"description": "",
-				"link": "http://www.lexytrad.es/inteliterm/",
-				"author": "LEXYTRAD",
-				"acronym": "UMA"
-			},
-			{
-				"name": "Intelligent terminological dictionary for the tourism sector",
-				"description": "",
-				"link": "http://www.lexytrad.es/termitur/",
+				"name": "TERMITUR",
+				"description": "Un diccionario inteligente especializado en documentos y recursos digitales de turismo 2.0. Se compone de varios módulos que permiten cargar diccionarios y glosarios según las necesidades del usuario.",
+				"link": "http://www.lexytrad.es/termitur/termitur.php",
+				"info": "http://www.lexytrad.es/termitur/ManualTermitur_ES.pdf",
 				"author": "LEXYTRAD",
 				"acronym": "UMA"
 			}
@@ -80,6 +81,12 @@
 			"Access",
 			"Info"
 		],
+		"licenses": {
+			"crative_commons": {
+				"title": "This work is licensed under Creative Commons Attribution-Non...",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+				}
+		},
 		"edit_menu": {
 			"new_btn": "New application",
 			"new_title": "New application",
@@ -93,35 +100,43 @@
 		},
 		"applications": [
 			{
-				"name": "PETRA 1.0: Translation and Postediting",
-				"description": "Petra 1.0 is a semiautomatic application designed to assess the grammatical quality of general English translations into Spanish, both fiction and non-fiction.\n\nIt is a user-friendly application with a highly intuitive interface. The grammatical assessment that it provides is based on the analysis of a number of grammatical units called ‘anchors’ (Rabadán 2008, 2010, 2011)",
-				"link": "https://actres.unileon.es/wordpress/?page_id=48\u0026lang=es",
+				"name": "Writing Aids 1.0 ©",
+				"description": "Applications (series 1.0) designed to help Spanish-speaking users when writing in English highly formalized texts such as technical and audit reports, minutes of meetings, wine tasting notes, etc. They assist the user during the writing process by suggesting the most appropriate grammatical, lexical and rhetorical options.  Easy-to-use user interface focused on productivity.",
+				"link": "http://contraste2.unileon.es/web/en/applications.html",
 				"author": "ACTRES",
 				"acronym": "ULE"
 			},
 			{
-				"name": "Writing Aids 1.0",
-				"description": "ACTRES presents a series of generators designed to assist researchers and professionals in the composition of scientific and technical texts in English. These generators support the user throughout the composition process by offering the most appropriate suggestions where grammar is concerned.This is achieved by means of a user-friendly, productivity-driven interface.",
-				"link": "http://contraste2.unileon.es/web/es/applications.html",
+				"name": "PETRA 1.0 ©: Evaluation and Postediting",
+				"description": "It facilitates the evaluation and (post) editing of translations from English into Spanish of \"general language\" texts: journal and newspaper articles, essays, narrative, etc.  It identifies problematic elements on the basis of corpus-based cross-linguistic findings and offers a highly intuitive, user-centered interface.",
+				"link": "https://actres.unileon.es/wordpress/?page_id=50\u0026lang=en",
 				"author": "ACTRES",
 				"acronym": "ULE"
 			},
 			{
-				"name": "Fraseología y Traducción multilingüe",
+				"name": "Phraseology and Multilingual Translation",
 				"description": " ",
 				"link": "http://84.127.230.137:6263/phraseology/",
-				"info": "https://dti.ua.es/es/frasytram/documentos/presentacion-aplicacion.pdf",
+				"info": "https://dti.ua.es/es/frasytram/documentos/presentacion-aplicacion-frasytram.pdf",
 				"author": "FRASYTRAM",
 				"acronym": "UA"
 			},
 			{
-				"name": "Inteliterm [Applet Java]",
-				"description": "Diccionario inteligente (se proporcionará una demo en video para la plataforma web).",
-				"link": "http://www.lexytrad.es/es/es/recursos/inteliterm",
+				"name": "INTELITERM",
+				"description": "Multilingual intelligent dictionary developed in Java that allows to show quick and visually the information included in its database about terms in working text. I has a TBX database manager and it is linked to a corpus manager so it allows to search for concordances, n-grams, etc.",
+				"link": "http://www.lexytrad.es/inteliterm/inteliterm/",
+				"info": "http://www.lexytrad.es/inteliterm/videos_en.php",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			},
+			{
+				"name": "TERMITUR",
+				"description": "An intelligent specialised dictionary based on documents and digital resources from tourism\n2.0. It is made up of several modules that allow dictionaries and glossaries to be loaded\naccording to user needs.",
+				"link": "http://www.lexytrad.es/termitur/termitur.php",
+				"info": "http://www.lexytrad.es/termitur/ManualTermitur_EN.pdf",
 				"author": "LEXYTRAD",
 				"acronym": "UMA"
 			}
 		]
 	}
 }]
-

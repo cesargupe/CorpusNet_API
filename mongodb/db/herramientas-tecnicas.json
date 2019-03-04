@@ -10,6 +10,12 @@
 			"Access",
 			"Info"
 		],
+		"licenses": {
+			"crative_commons": {
+				"title": "This work is licensed under Creative Commons Attribution-Non...",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+				}
+		},
 		"edit_menu": {
 			"new_btn": "New tool",
 			"new_title": "New tool",
@@ -45,15 +51,15 @@
 				{
 					"author": "ACTRES",
 					"acronym": "ULE",
-					"name": "ACTRES multilayer Tagger",
-					"description": "Facilita la anotación de los elementos lingüísticos, discursivos y de género textual previa definición de las etiquetas correspondientes a cada uno de los niveles de análisis.",
+					"name": "ACTRES Multilayer Tagger ©",
+					"description": "It includes a tagset building feature, the ML TagSetBuilder, which  allows for several simultaneous layers of annotation, and the annotation tool, the ML Tagger, which facilitates this task.",
 					"link": "http://corpusnet.unileon.es/apps/suite/app.php/launcher/login/tools",
 					"image": "/assets/uploads/tools/ACTRES_El_etiquetador.png"
 				},
 				{
 					"name": "PoSTagger",
-					"description": "Etiquetador de categorías morfológicas.",
-					"link": "http://www.lexytrad.es/es/apps/txt2vrt",
+					"description": "It morphologically annotates and lemmatizes uploaded .txt files and converts them to .vrt\nformat (one-word-per-line)",
+					"link": "http://www.lexytrad.es/apps/txt2vrt/",
 					"author": "LEXYTRAD",
 					"acronym": "UMA"
 				}
@@ -62,29 +68,30 @@
 				{
 					"author": "ACTRES",
 					"acronym": "ULE",
-					"name": "ACTRES multilayer Browser",
-					"description": "Allows the user to retrieve information from the tagged texts by searching for particular rhetorical moves, steps or substeps and for key words or combinations of words. In addition, the browser provides statistical information such as frequency rates of words or phrases and percentages of each rhetorical move compared with the total number of words in the corpus.",
+					"name": "ACTRES Multilayer Browser ©",
+					"description": "It helps to retrieve searches of morphologically, semantically and/ or rhetorically annotated\nelements. It also offers frequency and percentage statistical information.",
 					"link": "http://corpusnet.unileon.es/apps/suite/app.php/launcher/login/tools",
 					"image": "/assets/uploads/tools/ACTRES_El_visor.png"
 				}
 			],
 			"aligner": [
 				{
-					"author": "TRACE",
-					"acronym": "ULE",
-					"name": "TRACE Corpus Tagger / Aligner",
-					"description": "Enables the user to annotate and align pairs of a) narrative, b) cinema/theatre and c) poetry/songs in any language.",
-					"link": "http:///assets/uploads/tools/TRACE_Corpus_Tagger_Aligner.jar",
-					"info": "http://trace.unileon.es/herramientas/trace-corpus-taggeraligner-1-0/",
-					"image": "/assets/uploads/tools/Taligner.png"
-				},
-				{
 					"author": "TRALIMA",
 					"acronym": "UPV/EHU",
 					"name": "TAligner 3.0",
-					"description": "TAligner es una aplicación de alineación de textos desarrollada en el seno del grupo de investigación TRALIMA/ITZULIK, Facultad de Letras, Universidad del País Vasco, en Vitoria-Gasteiz, a partir del TRACE Aligner",
-					"link": "http://www.ehu.eus/tralima/taligner.html",
-					"info": "http://www.ehu.eus/tralima/taligner.html"
+					"description": "A text alignment tool developed by the TRALIMA / ITZULIK research group from an earlier\nTRACE Corpus Tagger / Aligner 1.0",
+					"link": "/assets/uploads/tools/TAligner2018.zip",
+					"info": "http://www.ehu.eus/tralima/taligner.html",
+					"image": "/assets/uploads/tools/Taligner3.png"
+				},
+				{
+					"author": "TRACE",
+					"acronym": "ULE",
+					"name": "TRACE Corpus Tagger / Aligner 1.0 ©",
+					"description": "Enables the user to annotate and align pairs of a) narrative, b) cinema/theatre and c) poetry/songs in any language.",
+					"link": "http:///assets/uploads/tools/TRACE_Corpus_Tagger_Aligner.jar",
+					"info": "http://trace.unileon.es/records/trace-corpus-taggeraligner-1-0/",
+					"image": "/assets/uploads/tools/Taligner.png"
 				}
 			],
 			"other": [
@@ -92,20 +99,20 @@
 					"author": "GLICom",
 					"acronym": "UPF",
 					"name": "CDDZ",
-					"description": "Permite a un usuario no experto indexar un corpus ad-hoc (lematizado y\nanotado lingüísticamente) para su consulta inmediata.",
-					"link": "http://google.es"
+					"description": "It helps a non-expert user to index an ad-hoc corpus (lemmatized and linguistically\nannotated) for immediate reference.",
+					"link": "#"
 				},
 				{
 					"name": "ReCor",
-					"description": "Se utiliza para determinar la representatividad de un corpus (se proporcionará video/capturas y la información necesaria para ponerse en contacto con la UMA en caso de que el usuario este interesado en descargarlo).",
-					"link": "http://www.lexytrad.es/es/es/recursos/recor-2",
+					"description": "It determines the minimum size of a corpus or a textual collection, regardless of language or\ntextual genre of the collection, establishing therefore the minimum threshold for\nrepresentation by an algorithm (N-Cor) and analysing lexical density according to the\nincremental increase in the corpus.",
+					"link": "http://www.lexytrad.es/en/resources/recor-3/",
 					"author": "LEXYTRAD",
 					"acronym": "UMA"
 				},
 				{
 					"name": "Scleaner",
-					"description": "Herramienta para limpiar el texto pegado.",
-					"link": "http://www.lexytrad.es/es/es/recursos/scleaner",
+					"description": "It helps users to format text copied from a pdf file. When copying and pasting from a PDF\nfile, users can find various formatting problems: white spaces, tabulations, sentence\nboundaries, etc. Scleaner removes extra tabs and white spaces, and splits sentences in the\nright place automatically.",
+					"link": "http://www.lexytrad.es/scleaner/",
 					"author": "LEXYTRAD",
 					"acronym": "UMA"
 				}
@@ -125,6 +132,12 @@
 			"Acceder",
 			"Info"
 		],
+		"licenses": {
+			"crative_commons": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+				}
+		},
 		"edit_menu": {
 			"new_btn": "Nueva herramienta",
 			"new_title": "Nueva herramienta",
@@ -158,24 +171,24 @@
 		"tools": {
 			"tagger": [
 				{
-					"description": "Facilita la anotación de los elementos lingüísticos, discursivos y de género textual previa definición de las etiquetas correspondientes a cada uno de los niveles de análisis.",
+					"description": "Ofrece una herramienta doble: una, el ML TagSetBuilder, que permite al usuario definir sus propias etiquetas en varios niveles simultáneamente, y la segunda, el ML Tagger que facilita las tareas de etiquetado.",
 					"link": "http://corpusnet.unileon.es/apps/suite/app.php/launcher/login/tools",
-					"name": "Etiquetador multinivel ACTRES",
+					"name": "Etiquetador multinivel ACTRES ©",
 					"author": "ACTRES",
 					"acronym": "ULE",
 					"image": "/assets/uploads/tools/ACTRES_El_etiquetador.png"
 				},
 				{
 					"name": "PoSTagger",
-					"description": "Etiquetador de categorías morfológicas.",
-					"link": "http://www.lexytrad.es/es/apps/txt2vrt",
+					"description": "Etiqueta morfológicamente y lematiza los términos de archivos .txt subidos y los convierte en formato .vrt (one-word-per-line) ",
+					"link": "http://www.lexytrad.es/apps/txt2vrt/",
 					"author": "LEXYTRAD",
 					"acronym": "UMA"
 				}
 			],
 			"browser": [
 				{
-					"name": "Visor multinivel ACTRES",
+					"name": "Visor multinivel ACTRES ©",
 					"description": "Posibilita las búsquedas de partes de texto marcadas con etiquetas, ya sean estas morfológicas, semánticas o retóricas. Asimismo, ofrece información estadística, como frecuencias de aparición o porcentajes con respecto al total de palabras del corpus.",
 					"link": "http://corpusnet.unileon.es/apps/suite/app.php/launcher/login/tools",
 					"author": "ACTRES",
@@ -185,21 +198,22 @@
 			],
 			"aligner": [
 				{
+					"author": "TRALIMA",
+					"acronym": "UPV/EHU",
+					"name": "TAligner 3.0",
+					"description": "TAligner 3.0 es una herramienta que permite alinear textos narrativos y teatrales/cinematográficos para crear corpus paralelos, así como realizar consultas en esos corpus. Se ha desarrollado en el seno del grupo de investigación TRALIMA/ITZULIK, Universidad del País Vasco, a partir de TRACE Corpus Tagger / Aligner 1.0.",
+					"link": "/assets/uploads/tools/TAligner2018.zip",
+					"info": "http://www.ehu.eus/tralima/taligner.html",
+					"image": "/assets/uploads/tools/Taligner3.png"
+				},
+				{
 					"author": "TRACE",
 					"acronym": "ULE",
-					"name": "TRACE Corpus Tagger / Aligner",
+					"name": "TRACE Corpus Tagger / Aligner 1.0 ©",
 					"description": "Etiqueta y alinea pares de textos de a) narrativa, b) cine/teatro y c) poesía/canciones en cualquier lengua.",
 					"link": "http:///assets/uploads/tools/TRACE_Corpus_Tagger_Aligner.jar",
 					"info": "http://trace.unileon.es/herramientas/trace-corpus-taggeraligner-1-0/",
 					"image": "/assets/uploads/tools/Taligner.png"
-				},
-				{
-					"author": "TRALIMA",
-					"acronym": "UPV/EHU",
-					"name": "TAligner 3.0",
-					"description": "TAligner es una aplicación de alineación de textos desarrollada en el seno del grupo de investigación TRALIMA/ITZULIK, Facultad de Letras, Universidad del País Vasco, en Vitoria-Gasteiz, a partir del TRACE Aligner",
-					"link": "http://www.ehu.eus/tralima/taligner.html",
-					"info": "http://www.ehu.eus/tralima/taligner.html"
 				}
 			],
 			"other": [
@@ -208,18 +222,18 @@
 					"acronym": "UPF",
 					"name": "CDDZ",
 					"description": "Permite a un usuario no experto indexar un corpus ad-hoc (lematizado y anotado lingüísticamente) para su consulta inmediata.",
-					"link": "http://google.es"
+					"link": "#"
 				},
 				{
 					"name": "ReCor",
-					"description": "Se utiliza para determinar la representatividad de un corpus (se proporcionará video/capturas y la información necesaria para ponerse en contacto con la UMA en caso de que el usuario este interesado en descargarlo).",
+					"description": "Determina a posteriori el tamaño mínimo de un corpus o colección textual, independientemente de la lengua o género textual de dicha colección, estableciendo, por tanto, el umbral mínimo de representatividad a través de un algoritmo (N-Cor) de análisis de la densidad léxica en función del aumento incremental del corpus.",
 					"link": "http://www.lexytrad.es/es/es/recursos/recor-2",
 					"author": "LEXYTRAD",
 					"acronym": "UMA"
 				},
 				{
 					"name": "Scleaner",
-					"description": "Herramienta para limpiar el texto pegado.",
+					"description": "Limpia cualquier texto pegado eliminando espacios innecesarios, tabulaciones, líneas en blanco, etc.",
 					"link": "http://www.lexytrad.es/es/es/recursos/scleaner",
 					"author": "LEXYTRAD",
 					"acronym": "UMA"
@@ -228,4 +242,3 @@
 		}
 	}
 }]
-

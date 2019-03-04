@@ -10,6 +10,12 @@
 			"Acceder",
 			"Info"
 		],
+		"licenses": {
+			"crative_commons": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+				}
+		},
 		"edit_menu": {
 			"new_btn": "Nueva base de datos",
 			"new_title": "Nueva base de datos",
@@ -27,9 +33,10 @@
 				"description": "HISTRA (HIStoria de la TRAducción) es una base de datos sobre traductores y obras traducidas, que tiene su origen en el archivo compilado por el Dr. Santoyo Mediavilla de referencias bibliográficas de traducciones inglés-español, desde el siglo XVI hasta la década de los ochenta del siglo XX. Se encuentra en proceso de construcción.",
 				"link": "http://histra.unileon.es/",
 				"author": "TRACE",
-				"info": "/assets/uploads/databases/01_HISTRA_info_ingles.pdf",
+				"info": "/assets/uploads/databases/01_HISTRA_info_espanol.pdf",
 				"image": "/assets/uploads/databases/HISTRA.png",
-				"acronym": "ULE"
+				"acronym": "ULE",
+				"license": "crative_commons"
 			},
 			{
 				"name": "TRACE DB",
@@ -38,31 +45,35 @@
 				"info": "http://trace.unileon.es/biblioteca-digital/descripcion-de-trace-db/",
 				"image": "/assets/uploads/databases/TRACE_DB.png",
 				"author": "TRACE",
-				"acronym": "ULE"
+				"acronym": "ULE",
+				"license": "crative_commons"
 			},
 			{
-				"name": "CATRACE",
+				"name": "caTRACE",
 				"link": "http://www.ehu.eus/tralima/catrace.php",
-				"info": "http://www.ehu.eus/tralima/catrace.php",
+				"info": "/assets/uploads/databases/CATRACE.pdf",
 				"description": "Los catálogos TRACE-UPV/EHU han sido generados en periodo y con uso de fuentes documentales de Censura, y en su mayor parte han sido compilados en el contexto de proyectos financiados TRACE.",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"author": "TRALIMA",
+				"acronym": "UPV/EHU",
+				"image": "/assets/uploads/databases/TRALIMA.png"
+			},
+			{
+				"name": "caTRALIMA",
+				"description": "Los catálogos TRALIMA han sido generados en periodo y con uso de fuentes documentales no vinculadas a Censura, y han sido compilados en el contexto del Grupo de Investigación consolidado TRALIMA",
+				"link": "http://www.ehu.eus/tralima/catralima.php",
+				"info": "/assets/uploads/databases/CATRALIMA.pdf",
+				"author": "TRALIMA",
+				"acronym": "UPV/EHU",
+				"image": "/assets/uploads/databases/TRALIMA.png"
 			},
 			{
 				"description": "ELI (Euskal Literatura Itzuliaren): Literatura Vasca Traducida.",
 				"name": "ELI",
-				"link": "http://www.ehu.eus/ehg/eli/",
-				"info": "http://www.ehu.eus/ehg/eli/",
-				"author": "CORPUSNET",
-				"acronym": "CN"
-			},
-			{
-				"name": "CATRALIMA",
-				"description": "Los catálogos TRALIMA han sido generados en periodo y con uso de fuentes documentales no vinculadas a Censura, y han sido compilados en el contexto del Grupo de Investigación consolidado TRALIMA",
-				"link": "http://www.ehu.eus/tralima/catralima.php",
-				"info": "http://www.ehu.eus/tralima/catralima.php",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"link": "https://www.ehu.eus/es/web/eins/euskal-literatura-itzuliaren-katalogoa-eli-",
+				"info": "https://www.ehu.eus/es/web/eins/euskal-literatura-itzuliaren-katalogoa-eli-",
+				"author": "TRALIMA",
+				"acronym": "UPV/EHU",
+				"image": "/assets/uploads/databases/TRALIMA.png"
 			}
 		]
 	}
@@ -79,6 +90,12 @@
 			"Access",
 			"Info"
 		],
+		"licenses": {
+			"crative_commons": {
+				"title": "This work is licensed under Creative Commons Attribution-Non...",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+				}
+		},
 		"edit_menu": {
 			"new_btn": "New database",
 			"new_title": "New database",
@@ -98,7 +115,8 @@
 				"info": "/assets/uploads/databases/01_HISTRA_info_ingles.pdf",
 				"image": "/assets/uploads/databases/HISTRA.png",
 				"author": "TRACE",
-				"acronym": "ULE"
+				"acronym": "ULE",
+				"license": "crative_commons"
 			},
 			{
 				"name": "TRACE DB",
@@ -107,33 +125,36 @@
 				"info": "http://trace.unileon.es/digital-library/description-2/",
 				"image": "/assets/uploads/databases/TRACE_DB.png",
 				"author": "TRACE",
-				"acronym": "ULE"
+				"acronym": "ULE",
+				"license": "crative_commons"
 			},
 			{
-				"name": "CATRACE",
+				"name": "caTRACE",
 				"link": "http://www.ehu.eus/tralima/catrace.php",
-				"info": "http://www.ehu.eus/tralima/catrace.php",
+				"info": "/assets/uploads/databases/CATRACE.pdf",
 				"description": "Los catálogos TRACE-UPV/EHU han sido generados en periodo y con uso de fuentes documentales de Censura, y en su mayor parte han sido compilados en el contexto de proyectos financiados TRACE.",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"author": "TRALIMA",
+				"acronym": "UPV/EHU",
+				"image": "/assets/uploads/databases/TRALIMA.png"
+			},
+			{
+				"name": "caTRALIMA",
+				"description": "Los catálogos TRALIMA han sido generados en periodo y con uso de fuentes documentales no vinculadas a Censura, y han sido compilados en el contexto del Grupo de Investigación consolidado TRALIMA",
+				"link": "http://www.ehu.eus/tralima/catralima.php",
+				"info": "/assets/uploads/databases/CATRALIMA.pdf",
+				"author": "TRALIMA",
+				"acronym": "UPV/EHU",
+				"image": "/assets/uploads/databases/TRALIMA.png"
 			},
 			{
 				"description": "ELI (Euskal Literatura Itzuliaren): Literatura Vasca Traducida.",
 				"name": "ELI",
-				"link": "http://www.ehu.eus/ehg/eli/",
-				"info": "http://www.ehu.eus/ehg/eli/",
-				"author": "CORPUSNET",
-				"acronym": "CN"
-			},
-			{
-				"name": "CATRALIMA",
-				"description": "Los catálogos TRALIMA han sido generados en periodo y con uso de fuentes documentales no vinculadas a Censura, y han sido compilados en el contexto del Grupo de Investigación consolidado TRALIMA",
-				"link": "http://www.ehu.eus/tralima/catralima.php",
-				"info": "http://www.ehu.eus/tralima/catralima.php",
-				"author": "CORPUSNET",
-				"acronym": "CN"
+				"link": "https://www.ehu.eus/en/web/eins/euskal-literatura-itzuliaren-katalogoa-eli-",
+				"info": "https://www.ehu.eus/en/web/eins/euskal-literatura-itzuliaren-katalogoa-eli-",
+				"author": "TRALIMA",
+				"acronym": "UPV/EHU",
+				"image": "/assets/uploads/databases/TRALIMA.png"
 			}
 		]
 	}
 }]
-

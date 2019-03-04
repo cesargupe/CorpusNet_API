@@ -10,6 +10,12 @@
 			"Acceder",
 			"Ficha técnica"
 		],
+		"licenses": {
+			"crative_commons": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+				}
+		},
 		"edit_menu": {
 			"new_btn": "Nuevo Corpus",
 			"new_title": "Nuevo Corpus",
@@ -24,13 +30,14 @@
 		"corpus": [
 			{
 				"name": "P-ACTRES 2.0",
-				"link": "https://actres.unileon.es/wordpress/?page_id=33\u0026lang=en",
+				"link": "http://contraste-test.unileon.es/demos/demos/p-actres2/",
 				"author": "ACTRES",
-				"acronym": "ULE"
+				"acronym": "ULE",
+				"license": "crative_commons"
 			},
 			{
 				"name": "COVALT",
-				"link": "http://www.covalt.uji.es",
+				"link": "http://cwbcovalt.xtrad.uji.es/cqpweb/",
 				"author": "COVALT",
 				"acronym": "UJI"
 			},
@@ -89,8 +96,14 @@
 		"title": "Parallel Corpora",
 		"buttons": [
 			"Access",
-			"Datasheet"
+			"Info"
 		],
+		"licenses": {
+			"crative_commons": {
+				"title": "This work is licensed under Creative Commons Attribution-Non...",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+				}
+		},
 		"edit_menu": {
 			"new_btn": "New Corpora",
 			"new_title": "New Corpora",
@@ -105,13 +118,14 @@
 		"corpus": [
 			{
 				"name": "P-ACTRES 2.0",
-				"link": "https://actres.unileon.es/wordpress/?page_id=33\u0026lang=en",
+				"link": "http://contraste-test.unileon.es/demos/demos/p-actres2/",
 				"author": "ACTRES",
-				"acronym": "ULE"
+				"acronym": "ULE",
+				"license": "crative_commons"
 			},
 			{
 				"name": "COVALT",
-				"link": "http://www.covalt.uji.es",
+				"link": "http://cwbcovalt.xtrad.uji.es/cqpweb/",
 				"author": "COVALT",
 				"acronym": "UJI"
 			},
@@ -160,4 +174,3 @@
 		]
 	}
 }]
-

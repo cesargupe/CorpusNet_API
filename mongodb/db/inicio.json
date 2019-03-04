@@ -26,7 +26,7 @@
 			{
 				"title": "Adhesión",
 				"text": [
-					"<b>Adhesión</b>: Para adherirse a la red, los recursos han de compartirse bajo los requisitos de una licencia CC y han de estar disponibles para ser utilizados."
+					"\u003cb\u003eAdhesión\u003c/b\u003e: Para adherirse a la red, los recursos han de compartirse bajo los requisitos de una licencia CC y han de estar disponibles para ser utilizados."
 				]
 			}
 		]
@@ -60,9 +60,10 @@
 			{
 				"title": "Membership",
 				"text": [
-					"<b>Membership</b>: Candidate resources need to comply with regulations so that a CC licence may apply and should be ready for use by researchers."
+					"\u003cb\u003eMembership\u003c/b\u003e: Candidate resources need to comply with regulations so that a CC licence may apply and should be ready for use by researchers."
 				]
 			}
 		]
 	}
 }]
+

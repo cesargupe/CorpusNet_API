@@ -4,6 +4,12 @@ var bcrypt = require('bcrypt-nodejs');
 var jwt = require('../services/jwt');
 var User = require('../models/user');
 
+function checkToken(req, res) {
+
+  res.status(200).send({message: 'Token Correcto'});
+
+}
+
 function getUsers(req, res) {
 
   User.find({}).sort({'_id': -1}).exec((err, users) => {
@@ -93,6 +99,7 @@ function saveUser(req, res) {
 }
 
 module.exports = {
+  checkToken,
   getUsers,
   loginUser,
   saveUser

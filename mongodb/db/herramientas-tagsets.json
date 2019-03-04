@@ -10,6 +10,12 @@
 			"Acceder",
 			"Info"
 		],
+		"licenses": {
+			"crative_commons": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+				}
+		},
 		"edit_menu": {
 			"new_btn": "Nueva herramienta",
 			"new_title": "Nueva herramienta",
@@ -23,11 +29,19 @@
 		},
 		"tools": [
 			{
-				"name": "Etiquetador de Modalidad",
-				"link": "/assets/uploads/tools/MULTINOT_GUIDELINES_2.4.pdf",
-				"info": "/assets/uploads/tools/Etiquetador_modalidad.xlsx",
+				"name": "Tagset Modalidad",
+				"link": "/assets/uploads/tools/Etiquetador_modalidad.xlsx",
+				"info": "/assets/uploads/tools/MULTINOT_GUIDELINES_2.4.pdf",
 				"description": " ",
 				"author": "FUNCAP",
+				"acronym": "UCM"
+			},
+			{
+				"name": "Tagset Evidencialidad",
+				"description": " ",
+				"link": "/assets/uploads/tools/CESJD-TAGSET.pdf",
+				"info": "/assets/uploads/tools/CESJD-TAGSET.pdf",
+				"author": "GDISCOM-COGFUNC",
 				"acronym": "UCM"
 			}
 		]
@@ -45,6 +59,12 @@
 			"Access",
 			"Info"
 		],
+		"licenses": {
+			"crative_commons": {
+				"title": "This work is licensed under Creative Commons Attribution-Non...",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+				}
+		},
 		"edit_menu": {
 			"new_btn": "New tool",
 			"new_title": "New tool",
@@ -58,14 +78,21 @@
 		},
 		"tools": [
 			{
-				"name": "Etiquetador de Modalidad",
-				"link": "/assets/uploads/tools/MULTINOT_GUIDELINES_2.4.pdf",
-				"info": "/assets/uploads/tools/Etiquetador_modalidad.xlsx",
+				"name": "Modality Tagset",
+				"link": "/assets/uploads/tools/Etiquetador_modalidad.xlsx",
+				"info": "/assets/uploads/tools/MULTINOT_GUIDELINES_2.4.pdf",
 				"description": " ",
 				"author": "FUNCAP",
+				"acronym": "UCM"
+			},
+			{
+				"name": "Evidentiality Tagset",
+				"description": " ",
+				"link": "/assets/uploads/tools/CESJD-TAGSET.pdf",
+				"info": "/assets/uploads/tools/CESJD-TAGSET.pdf",
+				"author": "GDISCOM-COGFUNC",
 				"acronym": "UCM"
 			}
 		]
 	}
 }]
-
