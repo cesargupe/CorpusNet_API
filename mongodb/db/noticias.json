@@ -1,29 +1,5 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c56f"
-	},
-	"name": "noticias",
-	"language": "es",
-	"data": {
-		"title": "Noticias",
-		"pagination": {
-			"btn_previous": "Anterior",
-			"btn_next": "Siguiente"
-		},
-		"edit_menu": {
-			"new_btn": "Nueva",
-			"new_title": "Nueva noticia",
-			"edit_title": "Editar Noticia",
-			"error_text": "Se ha producido un error guardando la noticia",
-			"text_title": "Texto de la noticia",
-			"link_title": "Link de la noticia",
-			"cancel_btn": "Cancelar",
-			"save_btn": "Guardar"
-		}
-	}
-},
-{
-	"_id": {
 		"$oid": "5ba210feaf3c2e052dd8c570"
 	},
 	"name": "noticias",
@@ -43,6 +19,30 @@
 			"link_title": "Link of the notice",
 			"cancel_btn": "Cancel",
 			"save_btn": "Save"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5ba210feaf3c2e052dd8c56f"
+	},
+	"name": "noticias",
+	"language": "es",
+	"data": {
+		"title": "Noticias",
+		"pagination": {
+			"btn_previous": "Anterior",
+			"btn_next": "Siguiente"
+		},
+		"edit_menu": {
+			"new_btn": "Nueva",
+			"new_title": "Nueva noticia",
+			"edit_title": "Editar Noticia",
+			"error_text": "Se ha producido un error guardando la noticia",
+			"text_title": "Texto de la noticia",
+			"link_title": "Link de la noticia",
+			"cancel_btn": "Cancelar",
+			"save_btn": "Guardar"
 		}
 	}
 }]

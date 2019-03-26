@@ -1,31 +1,35 @@
 [{
 	"_id": {
-		"$oid": "5ba210feaf3c2e052dd8c551"
+		"$oid": "5bd361266b1e04f4d5945292"
 	},
 	"name": "corpus-paralelos",
-	"language": "es",
+	"language": "en",
 	"data": {
-		"title": "Corpus paralelos",
+		"title": "Parallel Corpora",
 		"buttons": [
-			"Acceder",
-			"Ficha técnica"
+			"Access",
+			"Info"
 		],
 		"licenses": {
 			"crative_commons": {
+				"title": "This work is licensed under Creative Commons Attribution-Non...",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			},
+			"crative_commons2": {
 				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
 				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-				}
+			}
 		},
 		"edit_menu": {
-			"new_btn": "Nuevo Corpus",
-			"new_title": "Nuevo Corpus",
-			"edit_title": "Editar Corpus",
-			"error_text": "Se ha producido un error guardando el corpus",
-			"name_title": "Nombre del Corpus",
-			"description_title": "Descripción del Corpus",
-			"email_title": "Link del Corpus",
-			"cancel_btn": "Cancelar",
-			"save_btn": "Guardar"
+			"new_btn": "New Corpora",
+			"new_title": "New Corpora",
+			"edit_title": "Edit Corpora",
+			"error_text": "There was an error saving Corpora",
+			"name_title": "Name of Corpora",
+			"description_title": "Description of Corpora",
+			"email_title": "Link of Corpora",
+			"cancel_btn": "Cancel",
+			"save_btn": "Save"
 		},
 		"corpus": [
 			{
@@ -48,10 +52,17 @@
 				"acronym": "UPF"
 			},
 			{
+				"name": "TERMITUR",
+				"link": "http://www.lexytrad.es/termitur/termitur.php",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			},
+			{
 				"name": "PaGeS",
 				"link": "http://www.corpuspages.eu",
 				"author": "PaGeS",
-				"acronym": "USC"
+				"acronym": "USC",
+				"license": "crative_commons2"
 			},
 			{
 				"name": "MULTINOT",
@@ -88,32 +99,36 @@
 },
 {
 	"_id": {
-		"$oid": "5bd361266b1e04f4d5945292"
+		"$oid": "5ba210feaf3c2e052dd8c551"
 	},
 	"name": "corpus-paralelos",
-	"language": "en",
+	"language": "es",
 	"data": {
-		"title": "Parallel Corpora",
+		"title": "Corpus paralelos",
 		"buttons": [
-			"Access",
-			"Info"
+			"Acceder",
+			"Ficha técnica"
 		],
 		"licenses": {
 			"crative_commons": {
-				"title": "This work is licensed under Creative Commons Attribution-Non...",
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
 				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-				}
+			},
+			"crative_commons2": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			}
 		},
 		"edit_menu": {
-			"new_btn": "New Corpora",
-			"new_title": "New Corpora",
-			"edit_title": "Edit Corpora",
-			"error_text": "There was an error saving Corpora",
-			"name_title": "Name of Corpora",
-			"description_title": "Description of Corpora",
-			"email_title": "Link of Corpora",
-			"cancel_btn": "Cancel",
-			"save_btn": "Save"
+			"new_btn": "Nuevo Corpus",
+			"new_title": "Nuevo Corpus",
+			"edit_title": "Editar Corpus",
+			"error_text": "Se ha producido un error guardando el corpus",
+			"name_title": "Nombre del Corpus",
+			"description_title": "Descripción del Corpus",
+			"email_title": "Link del Corpus",
+			"cancel_btn": "Cancelar",
+			"save_btn": "Guardar"
 		},
 		"corpus": [
 			{
@@ -136,10 +151,17 @@
 				"acronym": "UPF"
 			},
 			{
+				"name": "TERMITUR",
+				"link": "http://www.lexytrad.es/termitur/termitur.php",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			},
+			{
 				"name": "PaGeS",
 				"link": "http://www.corpuspages.eu",
 				"author": "PaGeS",
-				"acronym": "USC"
+				"acronym": "USC",
+				"license": "crative_commons2"
 			},
 			{
 				"name": "MULTINOT",

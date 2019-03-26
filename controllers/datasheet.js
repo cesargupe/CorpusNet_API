@@ -6,22 +6,39 @@ function getDatasheet(req, res) {
 
   var name_content = req.params.name;
   var type_content = req.params.type;
+  var language_content = req.params.language;
 
+  console.log('\n********************')
   console.log(req.params);
+  console.log('********************\n')
 
 
-  if (!name_content || !type_content) {
+  if (!name_content || !type_content || !language_content) {
     // Si no especificas el contenido devuelve un error.
     res.status(500).send({message: 'No se ha especificado el contenido'});
   }else {
     // Sacar solo el contenido solicitado.
-    Datasheet.findOne({'name': name_content, 'type': type_content}).sort({'_id': -1}).exec((err, datasheet) => {
+    Datasheet.findOne({'name': name_content, 'type': type_content, 'language': language_content}).sort({'_id': -1}).exec((err, datasheet) => {
 
       if (err) {
         res.status(500).send({message: 'Error en la peticion'});
       }else {
         if (!datasheet) {
-          res.status(404).send({message: 'Esta ficha no existe no existe'});
+
+          Datasheet.findOne({'name': name_content, 'type': type_content, 'language': 'en'}).sort({'_id': -1}).exec((err, datasheet) => {
+
+            if (err) {
+              res.status(500).send({message: 'Error en la peticion'});
+            }else {
+              if (!datasheet) {
+                res.status(404).send({message: 'Esta ficha no existe no existe'});
+              }else {
+                res.status(200).send({datasheet});
+              }
+            }
+
+          });
+          
         }else {
           res.status(200).send({datasheet});
         }
@@ -39,6 +56,7 @@ function saveDatasheet(req, res) {
 
   datasheet.name = params.name;
   datasheet.type = params.type;
+  datasheet.language = params.language;
   datasheet.data = params.data;
 
   datasheet.save((err, datasheetStored) => {
@@ -84,9 +102,10 @@ function updateDatasheetName(req, res) {
 
   var datasheetName = req.params.name;
   var datasheetType = req.params.type;
+  var datasheetLanguage = req.params.language;
   var update = req.body;
 
-  Datasheet.findOneAndUpdate({'name': datasheetName, 'type': datasheetType}, {$set: update}, (err, datasheetUpdated) => {
+  Datasheet.findOneAndUpdate({'name': datasheetName, 'type': datasheetType, 'language': datasheetLanguage}, {$set: update}, (err, datasheetUpdated) => {
 
     if (err) {
       res.status(500).send({message: 'Error en el servidor'});
@@ -108,8 +127,9 @@ function deleteDatasheet(req, res) {
 
   var datasheetName = req.params.name;
   var datasheetType = req.params.type;
+  var datasheetLanguage = req.params.language;
 
-  Datasheet.findOneAndRemove({'name': datasheetName, 'type': datasheetType}, (err, datasheetRemoved) => {
+  Datasheet.findOneAndRemove({'name': datasheetName, 'type': datasheetType, 'language': datasheetLanguage}, (err, datasheetRemoved) => {
 
     if (err) {
       res.status(500).send({message: 'Error en el servidor'});

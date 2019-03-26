@@ -1,19 +1,5 @@
 [{
 	"_id": {
-		"$oid": "5ba2148aaf3c2e052dd8c898"
-	},
-	"name": "acceso",
-	"language": "es",
-	"data": {
-		"username_title": "Grupo",
-		"username_example": "Nombre del grupo",
-		"password_title": "Contraseña",
-		"btnLogin_title": "Acceder",
-		"error_login": "Datos incorrectos"
-	}
-},
-{
-	"_id": {
 		"$oid": "5ba2148aaf3c2e052dd8c897"
 	},
 	"name": "acceso",
@@ -24,6 +10,20 @@
 		"password_title": "Password",
 		"btnLogin_title": "Log in",
 		"error_login": "Wrong credentials"
+	}
+},
+{
+	"_id": {
+		"$oid": "5ba2148aaf3c2e052dd8c898"
+	},
+	"name": "acceso",
+	"language": "es",
+	"data": {
+		"username_title": "Grupo",
+		"username_example": "Nombre del grupo",
+		"password_title": "Contraseña",
+		"btnLogin_title": "Acceder",
+		"error_login": "Datos incorrectos"
 	}
 }]
 

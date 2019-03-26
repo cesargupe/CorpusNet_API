@@ -4,6 +4,7 @@
 	},
 	"name": "Intelligent terminological dictionary for the tourism sector",
 	"type": "corpus-comparables",
+	"language": "en",
 	"data": [
 		"Intelligent terminological dictionary for the tourism sector",
 		"TERMITUR",
@@ -31,6 +32,7 @@
 	},
 	"name": "Intelligent Terminology Management System for Translators",
 	"type": "corpus-paralelos",
+	"language": "en",
 	"data": [
 		"Intelligent Terminology Management System for Translators",
 		"INTELITERM",
@@ -56,8 +58,9 @@
 	"_id": {
 		"$oid": "5bc636189a09729ab0d0328b"
 	},
-	"name": "Intelligent terminological dictionary for the tourism sector",
+	"name": "TERMITUR",
 	"type": "corpus-paralelos",
+	"language": "en",
 	"data": [
 		"Intelligent terminological dictionary for the tourism sector",
 		"TERMITUR",
@@ -85,6 +88,7 @@
 	},
 	"name": "Intelligent Terminology Management System for Translators",
 	"type": "corpus-comparables",
+	"language": "en",
 	"data": [
 		"Intelligent Terminology Management System for Translators",
 		"INTELITERM",
@@ -112,6 +116,7 @@
 	},
 	"name": "Tell-Me",
 	"type": "corpus-comparables",
+	"language": "en",
 	"data": [
 		"Towards European Language Learning for MEdical professionals",
 		"Tell-Me",
@@ -139,6 +144,7 @@
 	},
 	"name": "MULTINOT",
 	"type": "corpus-paralelos",
+	"language": "en",
 	"data": [
 		"MULTINOT",
 		"MULTINOT",
@@ -166,6 +172,7 @@
 	},
 	"name": "MULTINOT",
 	"type": "corpus-comparables",
+	"language": "en",
 	"data": [
 		"MULTINOT",
 		"MULTINOT",
@@ -193,6 +200,7 @@
 	},
 	"name": "TRACEti",
 	"type": "corpus-paralelos",
+	"language": "en",
 	"data": [
 		"TRACEti",
 		"",
@@ -220,6 +228,7 @@
 	},
 	"name": "TEATRAD",
 	"type": "corpus-paralelos",
+	"language": "en",
 	"data": [
 		"TEATRAD",
 		"",
@@ -247,6 +256,7 @@
 	},
 	"name": "Aleuska",
 	"type": "corpus-paralelos",
+	"language": "en",
 	"data": [
 		"Aleuska",
 		"",
@@ -274,6 +284,7 @@
 	},
 	"name": "Ecoturismo",
 	"type": "corpus-comparables",
+	"language": "en",
 	"data": [
 		"Ecoturismo",
 		"-",
@@ -301,6 +312,7 @@
 	},
 	"name": "CESJD_JMA",
 	"type": "corpus-comparables",
+	"language": "en",
 	"data": [
 		"Corpus of English and Spanish Journalistic Discourse",
 		"CESJD_JMA",
@@ -328,6 +340,7 @@
 	},
 	"name": "EUSAL",
 	"type": "corpus-paralelos",
+	"language": "en",
 	"data": [
 		"EUSAL",
 		"",
@@ -354,6 +367,32 @@
 		"$oid": "5bc636189a09729ab0d03296"
 	},
 	"type": "corpus-paralelos",
+	"language": "en",
+	"data": [
+		"Parallel Corpus German Spanish",
+		"PaGeS",
+		"www.corpuspages.eu",
+		"Written, spoken",
+		"fiction, popular-scientific texts, political speech , tourism leaflets , corporate websites, academic writtings, minutes of European Parlament......",
+		"1960-2017",
+		"Spain, South America, Germany, Switzerland, Austria",
+		"de \u003c=\u003e es",
+		"unidirectional, bidirectional",
+		"26,409,991",
+		"Lemmatized, pos tagged, parsed, semantic, pragmatic, rhetorical",
+		"Sentence",
+		"Yes",
+		"Yes for registered users",
+		"free online for research",
+		"PaGeS",
+		"Santiago de Compostela",
+		"Irene Doval (i.doval@usc.es)"
+	],
+	"name": "PaGeS"
+},
+{
+	"type": "corpus-paralelos",
+	"language": "gal",
 	"data": [
 		"Parallel Corpus German Spanish",
 		"PaGeS",
@@ -381,6 +420,7 @@
 		"$oid": "5bc636189a09729ab0d03297"
 	},
 	"type": "corpus-paralelos",
+	"language": "en",
 	"data": [
 		"Parallel ACTRES 2.0",
 		"P-ACTRES 2.0",
@@ -408,6 +448,7 @@
 		"$oid": "5bc636189a09729ab0d03298"
 	},
 	"type": "corpus-paralelos",
+	"language": "en",
 	"data": [
 		"Corpus Valencià de Literatura Traduïda (Valencian Corpus of Translated Literature)",
 		"COVALT",
@@ -435,6 +476,7 @@
 		"$oid": "5bc636189a09729ab0d03299"
 	},
 	"type": "corpus-paralelos",
+	"language": "en",
 	"data": [
 		"Corpus paralelo multilingüe UPF",
 		"BancTrad",
@@ -457,4 +499,3 @@
 	],
 	"name": "BancTrad"
 }]
-

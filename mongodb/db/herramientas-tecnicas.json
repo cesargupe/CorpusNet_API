@@ -14,7 +14,11 @@
 			"crative_commons": {
 				"title": "This work is licensed under Creative Commons Attribution-Non...",
 				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-				}
+			},
+			"crative_commons2": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			}
 		},
 		"edit_menu": {
 			"new_btn": "New tool",
@@ -51,7 +55,7 @@
 				{
 					"author": "ACTRES",
 					"acronym": "ULE",
-					"name": "ACTRES Multilayer Tagger ©",
+					"name": "ACTRES Multilayer Tagger\u003csup\u003e©\u003c/sup\u003e",
 					"description": "It includes a tagset building feature, the ML TagSetBuilder, which  allows for several simultaneous layers of annotation, and the annotation tool, the ML Tagger, which facilitates this task.",
 					"link": "http://corpusnet.unileon.es/apps/suite/app.php/launcher/login/tools",
 					"image": "/assets/uploads/tools/ACTRES_El_etiquetador.png"
@@ -68,7 +72,7 @@
 				{
 					"author": "ACTRES",
 					"acronym": "ULE",
-					"name": "ACTRES Multilayer Browser ©",
+					"name": "ACTRES Multilayer Browser\u003csup\u003e©\u003c/sup\u003e",
 					"description": "It helps to retrieve searches of morphologically, semantically and/ or rhetorically annotated\nelements. It also offers frequency and percentage statistical information.",
 					"link": "http://corpusnet.unileon.es/apps/suite/app.php/launcher/login/tools",
 					"image": "/assets/uploads/tools/ACTRES_El_visor.png"
@@ -87,9 +91,9 @@
 				{
 					"author": "TRACE",
 					"acronym": "ULE",
-					"name": "TRACE Corpus Tagger / Aligner 1.0 ©",
+					"name": "TRACE Corpus Tagger / Aligner 1.0\u003csup\u003e©\u003c/sup\u003e",
 					"description": "Enables the user to annotate and align pairs of a) narrative, b) cinema/theatre and c) poetry/songs in any language.",
-					"link": "http:///assets/uploads/tools/TRACE_Corpus_Tagger_Aligner.jar",
+					"link": "http://corpusnet.unileon.es/assets/uploads/tools/TRACE_Corpus_Tagger_Aligner.jar",
 					"info": "http://trace.unileon.es/records/trace-corpus-taggeraligner-1-0/",
 					"image": "/assets/uploads/tools/Taligner.png"
 				}
@@ -136,7 +140,11 @@
 			"crative_commons": {
 				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
 				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-				}
+			},
+			"crative_commons2": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			}
 		},
 		"edit_menu": {
 			"new_btn": "Nueva herramienta",
@@ -173,7 +181,7 @@
 				{
 					"description": "Ofrece una herramienta doble: una, el ML TagSetBuilder, que permite al usuario definir sus propias etiquetas en varios niveles simultáneamente, y la segunda, el ML Tagger que facilita las tareas de etiquetado.",
 					"link": "http://corpusnet.unileon.es/apps/suite/app.php/launcher/login/tools",
-					"name": "Etiquetador multinivel ACTRES ©",
+					"name": "Etiquetador multinivel ACTRES\u003csup\u003e©\u003c/sup\u003e",
 					"author": "ACTRES",
 					"acronym": "ULE",
 					"image": "/assets/uploads/tools/ACTRES_El_etiquetador.png"
@@ -188,7 +196,7 @@
 			],
 			"browser": [
 				{
-					"name": "Visor multinivel ACTRES ©",
+					"name": "Visor multinivel ACTRES\u003csup\u003e©\u003c/sup\u003e",
 					"description": "Posibilita las búsquedas de partes de texto marcadas con etiquetas, ya sean estas morfológicas, semánticas o retóricas. Asimismo, ofrece información estadística, como frecuencias de aparición o porcentajes con respecto al total de palabras del corpus.",
 					"link": "http://corpusnet.unileon.es/apps/suite/app.php/launcher/login/tools",
 					"author": "ACTRES",
@@ -209,9 +217,9 @@
 				{
 					"author": "TRACE",
 					"acronym": "ULE",
-					"name": "TRACE Corpus Tagger / Aligner 1.0 ©",
+					"name": "TRACE Corpus Tagger / Aligner 1.0\u003csup\u003e©\u003c/sup\u003e",
 					"description": "Etiqueta y alinea pares de textos de a) narrativa, b) cine/teatro y c) poesía/canciones en cualquier lengua.",
-					"link": "http:///assets/uploads/tools/TRACE_Corpus_Tagger_Aligner.jar",
+					"link": "http://corpusnet.unileon.es/assets/uploads/tools/TRACE_Corpus_Tagger_Aligner.jar",
 					"info": "http://trace.unileon.es/herramientas/trace-corpus-taggeraligner-1-0/",
 					"image": "/assets/uploads/tools/Taligner.png"
 				}

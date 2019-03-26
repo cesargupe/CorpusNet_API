@@ -14,7 +14,11 @@
 			"crative_commons": {
 				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
 				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-				}
+			},
+			"crative_commons2": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			}
 		},
 		"edit_menu": {
 			"new_btn": "Nuevo Corpus",
@@ -48,7 +52,7 @@
 			},
 			{
 				"name": "Tell-Me",
-				"link": "http://www.tellme-project.eu/",
+				"link": "http://www.lexytrad.es/tradicor/app/",
 				"author": "LEXYTRAD",
 				"acronym": "UMA"
 			}
@@ -71,7 +75,11 @@
 			"crative_commons": {
 				"title": "This work is licensed under Creative Commons Attribution-Non...",
 				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-				}
+			},
+			"crative_commons2": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			}
 		},
 		"edit_menu": {
 			"new_btn": "New Corpora",
@@ -105,7 +113,7 @@
 			},
 			{
 				"name": "Tell-Me",
-				"link": "http://www.tellme-project.eu/",
+				"link": "http://www.lexytrad.es/tradicor/app/",
 				"author": "LEXYTRAD",
 				"acronym": "UMA"
 			}

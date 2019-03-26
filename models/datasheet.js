@@ -5,6 +5,7 @@ var Schema = mongoose.Schema;
 
 var DatasheetSchema = Schema({
   name: String,
+  language: String,
   type: String,
   data: Object
 });
