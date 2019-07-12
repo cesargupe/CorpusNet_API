@@ -29,7 +29,6 @@ function getContent(req, res) {
 
   console.log(req.params);
 
-
   if (!name_content) {
     // Si no especificas el contenido devuelve un error.
     res.status(500).send({message: 'No se ha especificado el contenido'});
@@ -41,7 +40,23 @@ function getContent(req, res) {
         res.status(500).send({message: 'Error en la peticion'});
       }else {
         if (!content) {
-          res.status(404).send({message: 'El contenido no existe'});
+
+          if (language_content != 'es') {
+
+            Content.findOne({'name': name_content, 'language': 'es'}).sort({'_id': -1}).exec((err, content) => {
+
+              if (err) {
+                res.status(500).send({message: 'Error en la peticion'});
+              }else {
+                if (!content) {
+                  res.status(404).send({message: 'El contenido no existe'});
+                }else {
+                  res.status(200).send({content});
+                }
+              }
+            });
+          }
+
         }else {
           res.status(200).send({content});
         }

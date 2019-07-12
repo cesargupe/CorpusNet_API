@@ -213,9 +213,9 @@
 		"unidirectional",
 		"429 693",
 		"No",
-		"Sentence",
+		"Replique",
 		"No",
-		"Yes",
+		"No",
 		"On request",
 		"Tralima-Itzulik",
 		"UPV/EHU",
@@ -241,9 +241,9 @@
 		"unidirectional",
 		"374 062",
 		"No",
-		"Sentence",
+		"Replique",
 		"No",
-		"Yes",
+		"No",
 		"On request",
 		"Tralima-Itzulik",
 		"UPV/EHU",
@@ -271,7 +271,7 @@
 		"No",
 		"Sentence",
 		"No",
-		"Yes",
+		"No",
 		"On request",
 		"Tralima-Itzulik",
 		"UPV/EHU",
@@ -355,7 +355,7 @@
 		"No",
 		"Sentence",
 		"No",
-		"Yes",
+		"No",
 		"On request",
 		"Tralima-Itzulik",
 		"UPV/EHU",
@@ -368,31 +368,6 @@
 	},
 	"type": "corpus-paralelos",
 	"language": "en",
-	"data": [
-		"Parallel Corpus German Spanish",
-		"PaGeS",
-		"www.corpuspages.eu",
-		"Written, spoken",
-		"fiction, popular-scientific texts, political speech , tourism leaflets , corporate websites, academic writtings, minutes of European Parlament......",
-		"1960-2017",
-		"Spain, South America, Germany, Switzerland, Austria",
-		"de \u003c=\u003e es",
-		"unidirectional, bidirectional",
-		"26,409,991",
-		"Lemmatized, pos tagged, parsed, semantic, pragmatic, rhetorical",
-		"Sentence",
-		"Yes",
-		"Yes for registered users",
-		"free online for research",
-		"PaGeS",
-		"Santiago de Compostela",
-		"Irene Doval (i.doval@usc.es)"
-	],
-	"name": "PaGeS"
-},
-{
-	"type": "corpus-paralelos",
-	"language": "gal",
 	"data": [
 		"Parallel Corpus German Spanish",
 		"PaGeS",
@@ -498,4 +473,33 @@
 		"carme.colominas@upf.edu"
 	],
 	"name": "BancTrad"
+},
+{
+	"_id": {
+		"$oid": "5c9c8215d587acd8e72bcd84"
+	},
+	"type": "corpus-paralelos",
+	"language": "gal",
+	"data": [
+		"Parallel Corpus German Spanish",
+		"PaGeS",
+		"www.corpuspages.eu",
+		"Written, spoken",
+		"fiction, popular-scientific texts, political speech , tourism leaflets , corporate websites, academic writtings, minutes of European Parlament......",
+		"1960-2017",
+		"Spain, South America, Germany, Switzerland, Austria",
+		"de \u003c=\u003e es",
+		"unidirectional, bidirectional",
+		"26,409,991",
+		"Lemmatized, pos tagged, parsed, semantic, pragmatic, rhetorical",
+		"Sentence",
+		"Yes",
+		"Yes for registered users",
+		"free online for research",
+		"PaGeS",
+		"Santiago de Compostela",
+		"Irene Doval (i.doval@usc.es)"
+	],
+	"name": "PaGeS"
 }]
+

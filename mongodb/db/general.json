@@ -55,6 +55,18 @@
 			{
 				"code": "en",
 				"name": "English"
+			},
+			{
+				"code": "eu",
+				"name": "Euskera"
+			},
+			{
+				"code": "cat",
+				"name": "Catalan"
+			},
+			{
+				"code": "gal",
+				"name": "Gallego"
 			}
 		],
 		"footer": "\u003cb\u003eCorpusNet\u003c/b\u003e is funded by MINECO project FFI2016-81934-RED"
@@ -117,9 +129,233 @@
 			{
 				"code": "en",
 				"name": "Inglés"
+			},
+			{
+				"code": "eu",
+				"name": "Euskera"
+			},
+			{
+				"code": "cat",
+				"name": "Catalán"
+			},
+			{
+				"code": "gal",
+				"name": "Gallego"
 			}
 		],
 		"footer": "Red de Excelencia \u003cb\u003eCorpusNet\u003c/b\u003e financiada por MINECO FF12016-81934-RED/AEI"
 	}
+},
+{
+	"name": "general",
+	"language": "eu",
+	"data": {
+		"top_menu": [
+			{
+				"text": "Hasiera"
+			},
+			{
+				"text": "Corpusak",
+				"sublements": [
+					{
+						"text": "Corpus konparagarriak"
+					},
+					{
+						"text": "Corpus paraleloak"
+					}
+				]
+			},
+			{
+				"text": "Tresnak",
+				"sublements": [
+					{
+						"text": "Etiketa multzoak"
+					},
+					{
+						"text": "Tresna teknikoak"
+					}
+				]
+			},
+			{
+				"text": "Aplikazioak"
+			},
+			{
+				"text": "Datu-baseak"
+			},
+			{
+				"text": "Taldeak"
+			},
+			{
+				"text": "Berriak"
+			},
+			{
+				"text": "Hizkuntza"
+			}
+		],
+		"languages": [
+			{
+				"code": "es",
+				"name": "Gaztelania"
+			},
+			{
+				"code": "en",
+				"name": "Ingelesa"
+			},
+			{
+				"code": "eu",
+				"name": "Euskara"
+			},
+			{
+				"code": "cat",
+				"name": "katalana"
+			},
+			{
+				"code": "gal",
+				"name": "galiziera"
+			}
+		],
+		"footer": "MINECO FF12016-81934-RED/AEI proiektuak finantzatutako \u003cb\u003eCorpusNet\u003c/b\u003e bikaintasun sarea"
+	}
+},
+{
+	"name": "general",
+	"language": "cat",
+	"data": {
+		"top_menu": [
+			{
+				"text": "Inici"
+			},
+			{
+				"text": "Corpus ",
+				"sublements": [
+					{
+						"text": "Corpus comparables"
+					},
+					{
+						"text": "Corpus paral·lels"
+					}
+				]
+			},
+			{
+				"text": "Eines",
+				"sublements": [
+					{
+						"text": "Tagsets"
+					},
+					{
+						"text": "Eines tècniques"
+					}
+				]
+			},
+			{
+				"text": "Aplicacions"
+			},
+			{
+				"text": "Bases de dades"
+			},
+			{
+				"text": "Grups"
+			},
+			{
+				"text": "Notícies"
+			},
+			{
+				"text": "Idioma"
+			}
+		],
+		"languages": [
+			{
+				"code": "es",
+				"name": "Espanyol"
+			},
+			{
+				"code": "en",
+				"name": "Anglès"
+			},
+			{
+				"code": "eu",
+				"name": "Basc"
+			},
+			{
+				"code": "cat",
+				"name": "Català"
+			},
+			{
+				"code": "gal",
+				"name": "Gallec"
+			}
+		],
+		"footer": "Xarxa d’Excel·lència  \u003cb\u003eCorpusNet\u003c/b\u003e finançada per MINECO FF12016-81934-RED/AEI"
+	}
+},
+{
+	"name": "general",
+	"language": "gal",
+	"data": {
+		"top_menu": [
+			{
+				"text": "Inicio"
+			},
+			{
+				"text": "Corpora",
+				"sublements": [
+					{
+						"text": "Corpora comparables"
+					},
+					{
+						"text": "Corpora paralelos"
+					}
+				]
+			},
+			{
+				"text": "Ferramentas",
+				"sublements": [
+					{
+						"text": "Tagsets"
+					},
+					{
+						"text": "Ferramentas técnicas"
+					}
+				]
+			},
+			{
+				"text": "Aplicacións"
+			},
+			{
+				"text": "Bases de datos"
+			},
+			{
+				"text": "Grupos"
+			},
+			{
+				"text": "Novas"
+			},
+			{
+				"text": "Lingua"
+			}
+		],
+		"languages": [
+			{
+				"code": "es",
+				"name": "Español"
+			},
+			{
+				"code": "en",
+				"name": "Inglés"
+			},
+			{
+				"code": "eu",
+				"name": "Vasco"
+			},
+			{
+				"code": "cat",
+				"name": "Catalán"
+			},
+			{
+				"code": "gal",
+				"name": "Galego"
+			}
+		],
+		"footer": "Rede de Excelencia \u003cb\u003eCorpusNet\u003c/b\u003e financiada polo MINECO FF12016-81934-RED/AEI"
+	}
 }]
-

@@ -25,5 +25,26 @@
 		"btnLogin_title": "Acceder",
 		"error_login": "Datos incorrectos"
 	}
+},
+{
+	"name": "acceso",
+	"language": "eu",
+	"data": {
+		"username_title": "Grupo",
+		"username_example": "Nombre del grupo",
+		"password_title": "Contraseña",
+		"btnLogin_title": "Acceder",
+		"error_login": "Datos incorrectos"
+	}
+},
+{
+	"name": "acceso",
+	"language": "cat",
+	"data": {
+		"username_title": "Grupo",
+		"username_example": "Nombre del grupo",
+		"password_title": "Contraseña",
+		"btnLogin_title": "Acceder",
+		"error_login": "Datos incorrectos"
+	}
 }]
-

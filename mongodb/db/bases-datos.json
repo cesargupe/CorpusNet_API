@@ -55,29 +55,32 @@
 			{
 				"name": "caTRACE",
 				"link": "http://www.ehu.eus/tralima/catrace.php",
-				"info": "/assets/uploads/databases/CATRACE.pdf",
-				"description": "Los catálogos TRACE-UPV/EHU han sido generados en periodo y con uso de fuentes documentales de Censura, y en su mayor parte han sido compilados en el contexto de proyectos financiados TRACE.",
-				"author": "TRALIMA",
-				"acronym": "UPV/EHU",
-				"image": "/assets/uploads/databases/TRALIMA.png"
+				"info": "/assets/uploads/databases/CaTRACE_ES.pdf",
+				"description": "Los catálogos TRACE-UPV/EHU, de traducciones censuradas de narrativa y teatro (1939-1985), han sido generados utilizando fuentes documentales de censura en el contexto de los proyectos financiados TRACE.",
+				"author": "TRACE",
+				"acronym": "ULE",
+				"image": "/assets/uploads/databases/TRALIMA.png",
+				"license": "crative_commons"
 			},
 			{
 				"name": "caTRALIMA",
-				"description": "Los catálogos TRALIMA han sido generados en periodo y con uso de fuentes documentales no vinculadas a Censura, y han sido compilados en el contexto del Grupo de Investigación consolidado TRALIMA",
+				"description": "Los catálogos TRALIMA/ITZULIK-UPV/EHU, de traducciones de narrativa, teatro, cine y televisión, han sido generados por miembros del Grupo de Investigación TRALIMA/ITZULIK.",
 				"link": "http://www.ehu.eus/tralima/catralima.php",
-				"info": "/assets/uploads/databases/CATRALIMA.pdf",
-				"author": "TRALIMA",
+				"info": "/assets/uploads/databases/CaTRALIMA_ES.pdf",
+				"author": "TRALIMA ITZULIK",
 				"acronym": "UPV/EHU",
-				"image": "/assets/uploads/databases/TRALIMA.png"
+				"image": "/assets/uploads/databases/TRALIMA.png",
+				"license": "crative_commons"
 			},
 			{
 				"description": "ELI (Euskal Literatura Itzuliaren): Literatura Vasca Traducida.",
 				"name": "ELI",
 				"link": "https://www.ehu.eus/es/web/eins/euskal-literatura-itzuliaren-katalogoa-eli-",
 				"info": "https://www.ehu.eus/es/web/eins/euskal-literatura-itzuliaren-katalogoa-eli-",
-				"author": "TRALIMA",
+				"author": "TRALIMA ITZULIK",
 				"acronym": "UPV/EHU",
-				"image": "/assets/uploads/databases/TRALIMA.png"
+				"image": "/assets/uploads/databases/TRALIMA.png",
+				"license": "crative_commons"
 			}
 		]
 	}
@@ -139,29 +142,284 @@
 			{
 				"name": "caTRACE",
 				"link": "http://www.ehu.eus/tralima/catrace.php",
-				"info": "/assets/uploads/databases/CATRACE.pdf",
-				"description": "Los catálogos TRACE-UPV/EHU han sido generados en periodo y con uso de fuentes documentales de Censura, y en su mayor parte han sido compilados en el contexto de proyectos financiados TRACE.",
-				"author": "TRALIMA",
-				"acronym": "UPV/EHU",
-				"image": "/assets/uploads/databases/TRALIMA.png"
+				"info": "/assets/uploads/databases/CaTRACE_EN.pdf",
+				"description": "The TRACE-UPV/EHU catalogues, of narrative and theatrical censored translations (1939-1985) were compiled using censorship records in the framework of the TRACE projects.",
+				"author": "TRACE",
+				"acronym": "ULE",
+				"image": "/assets/uploads/databases/TRALIMA.png",
+				"license": "crative_commons"
 			},
 			{
 				"name": "caTRALIMA",
-				"description": "Los catálogos TRALIMA han sido generados en periodo y con uso de fuentes documentales no vinculadas a Censura, y han sido compilados en el contexto del Grupo de Investigación consolidado TRALIMA",
+				"description": "The TRALIMA/ITZULIK-UPV/EHU catalogues, of narrative, theatrical, filmic and televisual translations, were compiled by members of TRALIMA/ITZULIK research group.",
 				"link": "http://www.ehu.eus/tralima/catralima.php",
-				"info": "/assets/uploads/databases/CATRALIMA.pdf",
-				"author": "TRALIMA",
+				"info": "/assets/uploads/databases/CaTRALIMA_EN.pdf",
+				"author": "TRALIMA ITZULIK",
 				"acronym": "UPV/EHU",
-				"image": "/assets/uploads/databases/TRALIMA.png"
+				"image": "/assets/uploads/databases/TRALIMA.png",
+				"license": "crative_commons"
 			},
 			{
 				"description": "ELI (Euskal Literatura Itzuliaren): Literatura Vasca Traducida.",
 				"name": "ELI",
 				"link": "https://www.ehu.eus/en/web/eins/euskal-literatura-itzuliaren-katalogoa-eli-",
 				"info": "https://www.ehu.eus/en/web/eins/euskal-literatura-itzuliaren-katalogoa-eli-",
-				"author": "TRALIMA",
+				"author": "TRALIMA ITZULIK",
 				"acronym": "UPV/EHU",
-				"image": "/assets/uploads/databases/TRALIMA.png"
+				"image": "/assets/uploads/databases/TRALIMA.png",
+				"license": "crative_commons"
+			}
+		]
+	}
+},
+{
+	"name": "bases-datos",
+	"language": "eu",
+	"data": {
+		"title": "Datu-baseak",
+		"buttons": [
+			"Sartu",
+			"Informazioa"
+		],
+		"licenses": {
+			"crative_commons": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			},
+			"crative_commons2": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			}
+		},
+		"edit_menu": {
+			"new_btn": "Datu-base berria",
+			"new_title": "Datu-base berria",
+			"edit_title": "Datu-basea editatu",
+			"error_text": "Datu-basea gordetzean, errorea gertatu da",
+			"name_title": "Datu-basearen izena",
+			"description_title": "Datu-basearen deskripzioa",
+			"email_title": "Datu-basearen esteka",
+			"cancel_btn": "Utzi",
+			"save_btn": "Gorde"
+		},
+		"databases": [
+			{
+				"name": "HISTRA",
+				"description": "HISTRA (HIStoria de la TRAducción) itzultzaileen eta itzulpenen datu-basea da. Santoyo Mediavilla doktoreak osatutako artxibo batean du jatorria. Bertan, ingelesetik gaztelaniarako itzulpenen erreferentzia bibliografikoak jaso zituen, XVI. mendean hasi eta XX. mendeko 80ko hamarkada artekoak. Datu-basea ez dago amaituta.",
+				"link": "http://histra.unileon.es/",
+				"author": "TRACE",
+				"info": "/assets/uploads/databases/01_HISTRA_info_espanol.pdf",
+				"image": "/assets/uploads/databases/HISTRA.png",
+				"acronym": "ULE",
+				"license": "crative_commons"
+			},
+			{
+				"name": "TRACE DB",
+				"description": "TRACE DB (TRAducciones CEnsuradas) datu-baseak Espainian 1939tik 1985 arte itzulitako eta zentsuratutako lanak —narratiba, poesia, antzerkia eta ikus-entzunezkoak (zinema eta telebista)— biltzen ditu. TRACE taldeko kideek sortutako katalogoetan du jatorria. Datu-basea ez dago amaituta.",
+				"link": "http://trace.unileon.es/tracedb/",
+				"info": "http://trace.unileon.es/biblioteca-digital/descripcion-de-trace-db/",
+				"image": "/assets/uploads/databases/TRACE_DB.png",
+				"author": "TRACE",
+				"acronym": "ULE",
+				"license": "crative_commons"
+			},
+			{
+				"name": "caTRACE",
+				"link": "http://www.ehu.eus/tralima/catrace.php",
+				"info": "/assets/uploads/databases/CaTRACE_ES.pdf",
+				"description": "TRACE-UPV/EHU katalogoek narratiba eta antzerki alorreko (1939-1985) itzulpen zentsuratuak biltzen dituzte, eta zentsura dokumentuetan oinarrituta sortu dira, TRACE proiektu finantzatuen testuinguruan.",
+				"author": "TRACE",
+				"acronym": "ULE",
+				"image": "/assets/uploads/databases/TRALIMA.png",
+				"license": "crative_commons"
+			},
+			{
+				"name": "caTRALIMA",
+				"description": "TRALIMA/ITZULIK-UPV/EHU katalogoek narratiba, antzerki, zinema eta telebista alorreko itzulpenak biltzen dituzte, eta TRALIMA/ITZULIK ikerketa-taldeko kideek sortu dituzte.",
+				"link": "http://www.ehu.eus/tralima/catralima.php",
+				"info": "/assets/uploads/databases/CaTRALIMA_ES.pdf",
+				"author": "TRALIMA ITZULIK",
+				"acronym": "UPV/EHU",
+				"image": "/assets/uploads/databases/TRALIMA.png",
+				"license": "crative_commons"
+			},
+			{
+				"description": "ELI: Euskal Literatura Itzuliaren katalogoa.",
+				"name": "ELI",
+				"link": "https://www.ehu.eus/es/web/eins/euskal-literatura-itzuliaren-katalogoa-eli-",
+				"info": "https://www.ehu.eus/es/web/eins/euskal-literatura-itzuliaren-katalogoa-eli-",
+				"author": "TRALIMA ITZULIK",
+				"acronym": "UPV/EHU",
+				"image": "/assets/uploads/databases/TRALIMA.png",
+				"license": "crative_commons"
+			}
+		]
+	}
+},
+{
+	"name": "bases-datos",
+	"language": "cat",
+	"data": {
+		"title": "Bases de dades",
+		"buttons": [
+			"Accedir",
+			"Info"
+		],
+		"licenses": {
+			"crative_commons": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			},
+			"crative_commons2": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			}
+		},
+		"edit_menu": {
+			"new_btn": "Nova base de dades",
+			"new_title": "Nova base de dades",
+			"edit_title": "Editar base de dades",
+			"error_text": "S’ha produït un error en desar la base de dades",
+			"name_title": "Nom de la base de dades",
+			"description_title": "Descripció de la base de dades",
+			"email_title": "Link de la base de dades",
+			"cancel_btn": "Cancel·lar",
+			"save_btn": "Desar"
+		},
+		"databases": [
+			{
+				"name": "HISTRA",
+				"description": "HISTRA (HIStoria de la TRAducción) és una base de dades sobre traductors i obres traduïdes, que té el seu origen en l’arxiu compilat pel Dr. Santoyo Mediavilla de referències bibliogràfiques de traduccions anglès-espanyol, des del segle XVI fins a la dècada dels vuitanta del segle XX. Es troba en procés de construcció.",
+				"link": "http://histra.unileon.es/",
+				"author": "TRACE",
+				"info": "/assets/uploads/databases/01_HISTRA_info_espanol.pdf",
+				"image": "/assets/uploads/databases/HISTRA.png",
+				"acronym": "ULE",
+				"license": "crative_commons"
+			},
+			{
+				"name": "TRACE DB",
+				"description": "TRACE DB (TRAducciones CEnsuradas) és una base de dades sobre obres de narrativa, poesia, teatre i en format audiovisual (cinema i televisió), traduïdes i censurades a Espanya des de 1939 fins a 1985, que té el seu origen en els catàlegs compilats per diferents membres de l’equip TRACE. Es troba en procés de construcció.",
+				"link": "http://trace.unileon.es/tracedb/",
+				"info": "http://trace.unileon.es/biblioteca-digital/descripcion-de-trace-db/",
+				"image": "/assets/uploads/databases/TRACE_DB.png",
+				"author": "TRACE",
+				"acronym": "ULE",
+				"license": "crative_commons"
+			},
+			{
+				"name": "caTRACE",
+				"link": "http://www.ehu.eus/tralima/catrace.php",
+				"info": "/assets/uploads/databases/CaTRACE_ES.pdf",
+				"description": "Els catàlegs TRACE-UPV/EHU, de traduccions censurades de narrativa i teatre (1939-1985), han estat generats utilitzant fonts documentals de censura en el context dels projectes finançats TRACE.",
+				"author": "TRACE",
+				"acronym": "ULE",
+				"image": "/assets/uploads/databases/TRALIMA.png",
+				"license": "crative_commons"
+			},
+			{
+				"name": "caTRALIMA",
+				"description": "Els catàlegs TRALIMA/ITZULIK-UPV/EHU, de traduccions de narrativa, teatre, cinema i televisió, han estat generats per membres del grup de recerca TRALIMA/ITZULIK.",
+				"link": "http://www.ehu.eus/tralima/catralima.php",
+				"info": "/assets/uploads/databases/CaTRALIMA_ES.pdf",
+				"author": "TRALIMA ITZULIK",
+				"acronym": "UPV/EHU",
+				"image": "/assets/uploads/databases/TRALIMA.png",
+				"license": "crative_commons"
+			},
+			{
+				"description": "ELI (Euskal Literatura Itzuliaren): Literatura Basca Traduïda.",
+				"name": "ELI",
+				"link": "https://www.ehu.eus/es/web/eins/euskal-literatura-itzuliaren-katalogoa-eli-",
+				"info": "https://www.ehu.eus/es/web/eins/euskal-literatura-itzuliaren-katalogoa-eli-",
+				"author": "TRALIMA ITZULIK",
+				"acronym": "UPV/EHU",
+				"image": "/assets/uploads/databases/TRALIMA.png",
+				"license": "crative_commons"
+			}
+		]
+	}
+},
+{
+	"name": "bases-datos",
+	"language": "gal",
+	"data": {
+		"title": "Bases de datos",
+		"buttons": [
+			"Acceder",
+			"Info"
+		],
+		"licenses": {
+			"crative_commons": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			},
+			"crative_commons2": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			}
+		},
+		"edit_menu": {
+			"new_btn": "Nova base de datos",
+			"new_title": "Nova base de datos",
+			"edit_title": "Editar base de datos",
+			"error_text": "Produciuse un erro ao gardar a base de datos",
+			"name_title": "Nome da base de datos",
+			"description_title": "Descripción da base de datos",
+			"email_title": "Ligazón da base de datos",
+			"cancel_btn": "Cancelar",
+			"save_btn": "Gardar"
+		},
+		"databases": [
+			{
+				"name": "HISTRA",
+				"description": "HISTRA (Historia da Tradución) é unha base de datos sobre tradutores e obras traducidas, que ten a súa orixe no arquivo compilado polo Dr. Santoyo Mediavilla de referencias bibliográficas de traduccións inglés-español, desde o século XVI ata a década dos oitenta do século XX. Atópase en proceso de construción.",
+				"link": "http://histra.unileon.es/",
+				"author": "TRACE",
+				"info": "/assets/uploads/databases/01_HISTRA_info_espanol.pdf",
+				"image": "/assets/uploads/databases/HISTRA.png",
+				"acronym": "ULE",
+				"license": "crative_commons"
+			},
+			{
+				"name": "TRACE DB",
+				"description": "TRACE DB (TRAduccións Censuradas) é unha base de datos sobre obras de narrativa, poesía, teatro e en formato audiovisual (cine e televisión), traducidas e censuradas en España desde 1939 ata 1985, que ten a súa orixe nos catálogos compilados por diferentes membros do equipo TRACE. Atópase en proceso de construción.",
+				"link": "http://trace.unileon.es/tracedb/",
+				"info": "http://trace.unileon.es/biblioteca-digital/descripcion-de-trace-db/",
+				"image": "/assets/uploads/databases/TRACE_DB.png",
+				"author": "TRACE",
+				"acronym": "ULE",
+				"license": "crative_commons"
+			},
+			{
+				"name": "caTRACE",
+				"link": "http://www.ehu.eus/tralima/catrace.php",
+				"info": "/assets/uploads/databases/CaTRACE_ES.pdf",
+				"description": "Os catálogos TRACE-UPV/EHU foron xerados en período e con uso de fontes documentais de Censura, e na súa maior parte foron compilados no contexto de proxectos financiados TRACE.",
+				"author": "TRACE",
+				"acronym": "ULE",
+				"image": "/assets/uploads/databases/TRALIMA.png",
+				"license": "crative_commons"
+			},
+			{
+				"name": "caTRALIMA",
+				"description": "Os catálogos TRALIMA foron xerados en periodo e con uso de fontes documentales non vinculadas a Censura, e foron compilados no contexto do Grupo de Investigación consolidado TRALIMA",
+				"link": "http://www.ehu.eus/tralima/catralima.php",
+				"info": "/assets/uploads/databases/CaTRALIMA_ES.pdf",
+				"author": "TRALIMA ITZULIK",
+				"acronym": "UPV/EHU",
+				"image": "/assets/uploads/databases/TRALIMA.png",
+				"license": "crative_commons"
+			},
+			{
+				"description": "ELI (Euskal Literatura Itzuliaren): Literatura Vasca Traducida.",
+				"name": "ELI",
+				"link": "https://www.ehu.eus/es/web/eins/euskal-literatura-itzuliaren-katalogoa-eli-",
+				"info": "https://www.ehu.eus/es/web/eins/euskal-literatura-itzuliaren-katalogoa-eli-",
+				"author": "TRALIMA ITZULIK",
+				"acronym": "UPV/EHU",
+				"image": "/assets/uploads/databases/TRALIMA.png",
+				"license": "crative_commons"
 			}
 		]
 	}

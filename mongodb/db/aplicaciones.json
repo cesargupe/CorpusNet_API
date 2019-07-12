@@ -60,7 +60,8 @@
 				"link": "http://www.lexytrad.es/inteliterm/inteliterm/",
 				"info": "http://www.lexytrad.es/inteliterm/videos.php",
 				"author": "LEXYTRAD",
-				"acronym": "UMA"
+				"acronym": "UMA",
+				"image": "/assets/uploads/apps/inteliterm.png"
 			}
 		]
 	}
@@ -100,16 +101,16 @@
 		},
 		"applications": [
 			{
-				"name": "PETRA 1.0\u003csup\u003e©\u003c/sup\u003e: Evaluation and Postediting",
-				"description": "It facilitates the evaluation and (post) editing of translations from English into Spanish of \"general language\" texts: journal and newspaper articles, essays, narrative, etc.  It identifies problematic elements on the basis of corpus-based cross-linguistic findings and offers a highly intuitive, user-centered interface.",
-				"link": "https://actres.unileon.es/wordpress/?page_id=50\u0026lang=en",
+				"name": "Writing Aids 1.0\u003csup\u003e©\u003c/sup\u003e",
+				"description": "Applications (series 1.0) designed to help Spanish-speaking users when writing in English highly formalized texts such as technical and audit reports, minutes of meetings, wine tasting notes, etc. They assist the user during the writing process by suggesting the most appropriate grammatical, lexical and rhetorical options.  Easy-to-use user interface focused on productivity.",
+				"link": "http://contraste2.unileon.es/web/en/applications.html",
 				"author": "ACTRES",
 				"acronym": "ULE"
 			},
 			{
-				"name": "Writing Aids 1.0\u003csup\u003e©\u003c/sup\u003e",
-				"description": "Applications (series 1.0) designed to help Spanish-speaking users when writing in English highly formalized texts such as technical and audit reports, minutes of meetings, wine tasting notes, etc. They assist the user during the writing process by suggesting the most appropriate grammatical, lexical and rhetorical options.  Easy-to-use user interface focused on productivity.",
-				"link": "http://contraste2.unileon.es/web/en/applications.html",
+				"name": "PETRA 1.0\u003csup\u003e©\u003c/sup\u003e: Evaluation and Postediting",
+				"description": "It facilitates the evaluation and (post) editing of translations from English into Spanish of \"general language\" texts: journal and newspaper articles, essays, narrative, etc.  It identifies problematic elements on the basis of corpus-based cross-linguistic findings and offers a highly intuitive, user-centered interface.",
+				"link": "https://actres.unileon.es/wordpress/?page_id=50\u0026lang=en",
 				"author": "ACTRES",
 				"acronym": "ULE"
 			},
@@ -127,7 +128,203 @@
 				"link": "http://www.lexytrad.es/inteliterm/inteliterm/",
 				"info": "http://www.lexytrad.es/inteliterm/videos_en.php",
 				"author": "LEXYTRAD",
-				"acronym": "UMA"
+				"acronym": "UMA",
+				"image": "/assets/uploads/apps/inteliterm.png"
+			}
+		]
+	}
+},
+{
+	"name": "aplicaciones",
+	"language": "eu",
+	"data": {
+		"title": "Aplikazioak",
+		"buttons": [
+			"Sartu",
+			"Informazioa"
+		],
+		"licenses": {
+			"crative_commons": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			},
+			"crative_commons2": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			}
+		},
+		"edit_menu": {
+			"new_btn": "Aplikazio berria",
+			"new_title": "Aplikazio berria",
+			"edit_title": "Editatu aplikazioa",
+			"error_text": "Aplikazioa gordetzean, errorea gertatu da",
+			"name_title": "Aplikazioaren izena",
+			"description_title": "Aplikazioaren deskripzioa",
+			"email_title": "Aplikazioaren esteka",
+			"cancel_btn": "Utzi",
+			"save_btn": "Gorde"
+		},
+		"applications": [
+			{
+				"name": "Testu sortzaileak 1.0\u003csup\u003e©\u003c/sup\u003e",
+				"description": "Erabiltzaile hispanoamerikarrei formalizazio maila altua duten ingelesezko testuak (besteak beste, txosten teknikoak eta kontu ikuskaritzakoak, bileretako aktak eta ardo-dastatze fitxak) idazten laguntzeko aplikazioa. Testua sortzen duen profesionalari aukerarik egokienak iradokitzen dizkio maila gramatikal, lexiko eta erretorikoan. Interfazea erabilerraza da eta produktibitateari bideratua.",
+				"link": "http://contraste2.unileon.es/web/es/applications.html",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"name": "PETRA 1.0\u003csup\u003e©\u003c/sup\u003e: ebaluazioa eta postedizioa",
+				"description": "Ingelesetik gaztelaniara itzulitako «hizkuntza orokorreko» testuak (hala nola aldizkarietako eta egunkarietako artikuluak, saiakera, narratiba) ebaluatzen eta posteditatzen laguntzen du. Arazoak sortzen dituzten elementuak identifikatzen ditu, adituek corpusetan oinarritutako azterketetatik erauzitako informazio linguistikoari esker. Interfaze erabat intuitiboa eta erabiltzaileari zuzendua.",
+				"link": "https://actres.unileon.es/wordpress/?page_id=48\u0026lang=es",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"name": "Fraseologia eta itzulpen eleaniztuna",
+				"description": " ",
+				"link": "http://84.127.230.137:6263/phraseology/",
+				"info": "https://dti.ua.es/es/frasytram/documentos/presentacion-aplicacion-frasytram.pdf",
+				"author": "FRASYTRAM",
+				"acronym": "UA"
+			},
+			{
+				"name": "INTELITERM",
+				"description": "Javan idatzitako hiztegi adimendun eta eleaniztuna. Testu jakin bateko terminoen informazioa datu-basean bilatu, eta azkar eta modu bisualean erakusten du. TBX formatuan idatzitako datu-base kudeatzailea dauka. Corpus kudeatzaile bati lotua dago, eta, horri esker, konkordantziak, n-gramak eta abar bila daitezke.",
+				"link": "http://www.lexytrad.es/inteliterm/inteliterm/",
+				"info": "http://www.lexytrad.es/inteliterm/videos.php",
+				"author": "LEXYTRAD",
+				"acronym": "UMA",
+				"image": "/assets/uploads/apps/inteliterm.png"
+			}
+		]
+	}
+},
+{
+	"name": "aplicaciones",
+	"language": "cat",
+	"data": {
+		"title": "Aplicacions",
+		"buttons": [
+			"Accedir",
+			"Info"
+		],
+		"licenses": {
+			"crative_commons": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			},
+			"crative_commons2": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			}
+		},
+		"edit_menu": {
+			"new_btn": "Nova aplicació",
+			"new_title": "Nova aplicació",
+			"edit_title": "Editar aplicació",
+			"error_text": "S’ha produït un error en desar l’aplicació",
+			"name_title": "Nom de l’aplicació",
+			"description_title": "Descripció de l’aplicació",
+			"email_title": "Link de l’aplicació",
+			"cancel_btn": "Cancel·lar",
+			"save_btn": "Desar"
+		},
+		"applications": [
+			{
+				"name": "Generadors de textos 1.0\u003csup\u003e©\u003c/sup\u003e",
+				"description": "Sèrie 1.0 d’aplicacions de suport a usuaris hispanoparlants en la redacció en anglès de textos altament formalitzats, com ara informes tècnics i d’auditoria, actes de reunions, fitxes de tast de vi, etc. Es caracteritzen per assistir el professional en la redacció amb els suggeriments més adients tant des del punt de vista gramatical com lèxic i retòric. Interfície d’usuari fàcil de manejar i enfocada a la productivitat.",
+				"link": "http://contraste2.unileon.es/web/es/applications.html",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"name": "PETRA 1.0\u003csup\u003e©\u003c/sup\u003e: Avaluació i postedició",
+				"description": "Facilita l’avaluació i (post)edició en les traduccions de l’anglès a l’espanyol de textos de “llengua general”: articles de revistes i periòdics, assaig, narrativa, etc. Identifica elements problemàtics gràcies a la informació lingüística experta procedent d’estudis basats en corpus i ofereix una interfície altament intuïtiva i totalment centrada en l’usuari.",
+				"link": "https://actres.unileon.es/wordpress/?page_id=48\u0026lang=es",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"name": "Fraseologia i Traducció multilingüe",
+				"description": " ",
+				"link": "http://84.127.230.137:6263/phraseology/",
+				"info": "https://dti.ua.es/es/frasytram/documentos/presentacion-aplicacion-frasytram.pdf",
+				"author": "FRASYTRAM",
+				"acronym": "UA"
+			},
+			{
+				"name": "INTELITERM",
+				"description": "Diccionari intel·ligent multilingüe dissenyat en Java que permet mostrar de manera ràpida i visual la informació inclosa en la seua base de dades sobre els termes del text de treball. Disposa d’un gestor de bases de dades en format TBX. Està enllaçada amb un gestor de corpus que permet cercar concordances, n-grames, etc.",
+				"link": "http://www.lexytrad.es/inteliterm/inteliterm/",
+				"info": "http://www.lexytrad.es/inteliterm/videos.php",
+				"author": "LEXYTRAD",
+				"acronym": "UMA",
+				"image": "/assets/uploads/apps/inteliterm.png"
+			}
+		]
+	}
+},
+{
+	"name": "aplicaciones",
+	"language": "gal",
+	"data": {
+		"title": "Aplicacións",
+		"buttons": [
+			"Acceder",
+			"Info"
+		],
+		"licenses": {
+			"crative_commons": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			},
+			"crative_commons2": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			}
+		},
+		"edit_menu": {
+			"new_btn": "Nova aplicación",
+			"new_title": "Nova aplicación",
+			"edit_title": "Editar aplicación",
+			"error_text": "Produciuse un erro ao gardar a aplicación",
+			"name_title": "Nome da aplicación",
+			"description_title": "Descripción da aplicación",
+			"email_title": "Ligazón da aplicación",
+			"cancel_btn": "Cancelar",
+			"save_btn": "Gardar"
+		},
+		"applications": [
+			{
+				"name": "Xeradores de textos 1.0\u003csup\u003e©\u003c/sup\u003e",
+				"description": "Serie 1.0 de aplicacións de apoio a usuarios hispanofalantes na redacción en inglés de textos altamente formalizados como informes técnicos e de auditoría, actas de reunións, fichas de cata de viño, etc. Caracterízanse por asistir ao profesional na redacción coas suxestións máis adecuadas tanto desde o punto de vista gramatical como léxico e retórico. Interfaz de usuario de fácil manexo enfocada á productividade.",
+				"link": "http://contraste2.unileon.es/web/es/applications.html",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"name": "PETRA 1.0\u003csup\u003e©\u003c/sup\u003e: Avaliación e postedición",
+				"description": "Facilita a avaliación e (pos)edición nas traduccións do inglés ao español de textos “de lingua xeral”: artigos de revistas e xornais, ensaio, narrativa, etc. Identifica elementos problemáticos grazas á información lingüística experta procedente de estudos baseados en corpus e ofrece unha interfaz altamente intuitiva e totalmente centrada no usuario.",
+				"link": "https://actres.unileon.es/wordpress/?page_id=48\u0026lang=es",
+				"author": "ACTRES",
+				"acronym": "ULE"
+			},
+			{
+				"name": "Fraseoloxía e Traducción multilingüe",
+				"description": " ",
+				"link": "http://84.127.230.137:6263/phraseology/",
+				"info": "https://dti.ua.es/es/frasytram/documentos/presentacion-aplicacion-frasytram.pdf",
+				"author": "FRASYTRAM",
+				"acronym": "UA"
+			},
+			{
+				"name": "INTELITERM",
+				"description": "Diccionario intelixente multilingüe deseñado en Java que permite amosar axiña e visualmente a información da súa  base de datos sobre os termos do  texto de traballo. Conta cun xestor de bases de datos en formato TBX. Está vencellada a un xestor de corpus que permite buscar concordancias, n-grams, etc.",
+				"link": "http://www.lexytrad.es/inteliterm/inteliterm/",
+				"info": "http://www.lexytrad.es/inteliterm/videos.php",
+				"author": "LEXYTRAD",
+				"acronym": "UMA",
+				"image": "/assets/uploads/apps/inteliterm.png"
 			}
 		]
 	}

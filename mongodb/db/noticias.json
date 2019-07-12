@@ -45,5 +45,67 @@
 			"save_btn": "Guardar"
 		}
 	}
+},
+{
+	"name": "noticias",
+	"language": "eu",
+	"data": {
+		"title": "Berriak",
+		"pagination": {
+			"btn_previous": "Aurrekoa",
+			"btn_next": "Hurrengoa"
+		},
+		"edit_menu": {
+			"new_btn": "Berria",
+			"new_title": "Berria",
+			"edit_title": "Berria editatu",
+			"error_text": "Berria gordetzean, errorea gertatu da",
+			"text_title": "Berriaren testua",
+			"link_title": "Berriaren esteka",
+			"cancel_btn": "Utzi",
+			"save_btn": "Gorde"
+		}
+	}
+},
+{
+	"name": "noticias",
+	"language": "cat",
+	"data": {
+		"title": "Notícies",
+		"pagination": {
+			"btn_previous": "Anterior",
+			"btn_next": "Següent"
+		},
+		"edit_menu": {
+			"new_btn": "Nova",
+			"new_title": "Nova notícia",
+			"edit_title": "Editar notícia",
+			"error_text": "S’ha produït un error en desar la notícia",
+			"text_title": "Text de la notícia",
+			"link_title": "Link de la notícia",
+			"cancel_btn": "Cancel·lar",
+			"save_btn": "Desar"
+		}
+	}
+},
+{
+	"name": "noticias",
+	"language": "gal",
+	"data": {
+		"title": "Novas",
+		"pagination": {
+			"btn_previous": "Anterior",
+			"btn_next": "Siguiente"
+		},
+		"edit_menu": {
+			"new_btn": "Nova",
+			"new_title": "Nova",
+			"edit_title": "Editar nova",
+			"error_text": "Produciuse un erro gardanto a nova",
+			"text_title": "Texto da nova",
+			"link_title": "Ligazón da nova",
+			"cancel_btn": "Cancelar",
+			"save_btn": "Gardar"
+		}
+	}
 }]
-

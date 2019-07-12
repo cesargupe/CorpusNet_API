@@ -65,5 +65,97 @@
 			}
 		]
 	}
+},
+{
+	"name": "inicio",
+	"language": "eu",
+	"data": {
+		"alert": {
+			"bold_text": "Azken berria",
+			"normal_text": "",
+			"link": ""
+		},
+		"panels": [
+			{
+				"title": "Informazio orokorra eta helburuak",
+				"text": [
+					"Espainiako hizkuntzetan (gaztelania, katalana, galiziera eta euskara) eta beste hainbatetan sortutako corpus elebidun eta eleaniztunen sarea da CorpusNet. Corpusei lotutako beste baliabide batzuk ere jasotzen dira bertan.",
+					"Hiru dira helburu nagusiak:"
+				],
+				"points": [
+					"Dagoeneko sortuta dauden baliabideetarako sarbidea erraztea eta erabiltzaileen arteko lankidetza sustatzea, asmo eta ikusgaitasun handiko ikerketak aurrera eramateko. ",
+					"Aipatutako hizkuntzetarako baliabide-katalizatzaile bihurtzea, proposamen berriak jasotzeko prest egongo dena.",
+					"H2020 eta Europako Agenda Digitalaren testuinguruan, nazioarteko elkarlan zabala sustatzeko oinarriak finkatzea."
+				]
+			},
+			{
+				"title": "Atxikimendua",
+				"text": [
+					"\u003cb\u003eAtxikimendua\u003c/b\u003e: sareko kide egiteko, baliabideak CC lizentzia batekin partekatu, eta erabiltzaileen esku jarri behar dira."
+				]
+			}
+		]
+	}
+},
+{
+	"name": "inicio",
+	"language": "cat",
+	"data": {
+		"alert": {
+			"bold_text": "Última notícia",
+			"normal_text": "",
+			"link": ""
+		},
+		"panels": [
+			{
+				"title": "Informació general i objectius",
+				"text": [
+					"CorpusNet és una xarxa de corpus bilingües i multilingües de qualsevol de les llengües d’Espanya (castellà, català, gallec i basc) i d’altres llengües, juntament amb altres recursos relacionats.",
+					"Té tres objectius bàsics:"
+				],
+				"points": [
+					"Facilitar l’accés als recursos ja existents i propiciar la col·laboració entre els usuaris a fi de promoure investigacions més ambicioses i visibles.tentes y propiciar la colaboración entre los usuarios con el fin de promover investigaciones más ambiciosas y visibles. ",
+					"Constituir-se en un catalitzador de recursos en aquestes llengües obert a noves incorporacions.",
+					"Posar els fonaments per a una col·laboració internacional de gran abast en el marc d’H2020 i l’Agenda Digital Europea."
+				]
+			},
+			{
+				"title": "Adhesió",
+				"text": [
+					"\u003cb\u003eAdhesió\u003c/b\u003e: Per a adherir-se a la xarxa, els recursos s’han de compartir d’acord amb els requisits d’una llicència CC i han d’estar disponibles per a ser utilitzats."
+				]
+			}
+		]
+	}
+},
+{
+	"name": "inicio",
+	"language": "gal",
+	"data": {
+		"alert": {
+			"bold_text": "Ultima nova",
+			"normal_text": "",
+			"link": ""
+		},
+		"panels": [
+			{
+				"title": "Información xeral e obxectivos",
+				"text": [
+					"CorpusNet é unha rede de corpora bilingües e multilingües de calqueira das linguas de España (castelán, catalán, galego e vasco) e outras linguas xunto con outros recursos relacionados.",
+					"Ten tres obxectivos básicos:"
+				],
+				"points": [
+					"Facilitar o acceso aos recursos xa existentes e propiciar a colaboura entre os usuarios por mor de promover investigacións máis ambiciosas e visibles",
+					"Constituírse nun catalizador de recursos nestas linguas aberto a novas incorporacións.",
+					"Sentar as bases para unha colaboración internacional de amplo alcance no marco de H2020 e a Axenda Dixital Europea."
+				]
+			},
+			{
+				"title": "Adhesión",
+				"text": [
+					"\u003cb\u003eAdhesión\u003c/b\u003e: Para adherirse á rede, os recursos han compartirse baixo os requisitos dunha licenza CC e han estar dispoñibeis para poderen ser utilizados."
+				]
+			}
+		]
+	}
 }]
-

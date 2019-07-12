@@ -119,4 +119,178 @@
 			}
 		]
 	}
+},
+{
+	"name": "corpus-comparables",
+	"language": "eu",
+	"data": {
+		"title": "Corpus konparagarriak",
+		"buttons": [
+			"Sartu",
+			"Fitxa teknikoa"
+		],
+		"licenses": {
+			"crative_commons": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			},
+			"crative_commons2": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			}
+		},
+		"edit_menu": {
+			"new_btn": "Corpus berria",
+			"new_title": "Corpus berria",
+			"edit_title": "Corpusa editatu",
+			"error_text": "Corpusa gordetzean, errorea gertatu da",
+			"name_title": "Corpusaren izena",
+			"description_title": "Corpusaren deskripzioa",
+			"email_title": "Corpusaren esteka",
+			"cancel_btn": "Utzi",
+			"save_btn": "Gorde"
+		},
+		"corpus": [
+			{
+				"name": "MULTINOT",
+				"link": "https://www.ucm.es/funcap/multinot",
+				"author": "FUNCAP",
+				"acronym": "UCM"
+			},
+			{
+				"name": "CESJD_JMA",
+				"link": "https://www.ucm.es/discom-cogfunc/el-grupo",
+				"author": "GDISCOM-COGFUNC",
+				"acronym": "UCM"
+			},
+			{
+				"name": "Ecoturismo",
+				"link": "http://www.lexytrad.es/tradicor/app/",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			},
+			{
+				"name": "Tell-Me",
+				"link": "http://www.lexytrad.es/tradicor/app/",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			}
+		]
+	}
+},
+{
+	"name": "corpus-comparables",
+	"language": "cat",
+	"data": {
+		"title": "Corpus comparables",
+		"buttons": [
+			"Accedir",
+			"Fitxa tècnica"
+		],
+		"licenses": {
+			"crative_commons": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			},
+			"crative_commons2": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			}
+		},
+		"edit_menu": {
+			"new_btn": "Nou Corpus",
+			"new_title": "Nou Corpus",
+			"edit_title": "Editar Corpus",
+			"error_text": "S’ha produït un error en desar el corpus",
+			"name_title": "Nom del Corpus",
+			"description_title": "Descripció del Corpus",
+			"email_title": "Link del Corpus",
+			"cancel_btn": "Cancel·lar",
+			"save_btn": "Desar"
+		},
+		"corpus": [
+			{
+				"name": "MULTINOT",
+				"link": "https://www.ucm.es/funcap/multinot",
+				"author": "FUNCAP",
+				"acronym": "UCM"
+			},
+			{
+				"name": "CESJD_JMA",
+				"link": "https://www.ucm.es/discom-cogfunc/el-grupo",
+				"author": "GDISCOM-COGFUNC",
+				"acronym": "UCM"
+			},
+			{
+				"name": "Ecoturismo",
+				"link": "http://www.lexytrad.es/tradicor/app/",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			},
+			{
+				"name": "Tell-Me",
+				"link": "http://www.lexytrad.es/tradicor/app/",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			}
+		]
+	}
+},
+{
+	"name": "corpus-comparables",
+	"language": "gal",
+	"data": {
+		"title": "Corpora comparabeis",
+		"buttons": [
+			"Acceder",
+			"Ficha técnica"
+		],
+		"licenses": {
+			"crative_commons": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			},
+			"crative_commons2": {
+				"title": "Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.",
+				"link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+			}
+		},
+		"edit_menu": {
+			"new_btn": "Novo Corpus",
+			"new_title": "Novo Corpuss",
+			"edit_title": "Editar Corpus",
+			"error_text": "Produciuse un erro ao gardar o corpus",
+			"name_title": "Nome do Corpus",
+			"description_title": "Descripción do Corpus",
+			"email_title": "Ligazón do Corpus",
+			"cancel_btn": "Cancelar",
+			"save_btn": "Gardar"
+		},
+		"corpus": [
+			{
+				"name": "MULTINOT",
+				"link": "https://www.ucm.es/funcap/multinot",
+				"author": "FUNCAP",
+				"acronym": "UCM"
+			},
+			{
+				"name": "CESJD_JMA",
+				"link": "https://www.ucm.es/discom-cogfunc/el-grupo",
+				"author": "GDISCOM-COGFUNC",
+				"acronym": "UCM"
+			},
+			{
+				"name": "Ecoturismo",
+				"link": "http://www.lexytrad.es/tradicor/app/",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			},
+			{
+				"name": "Tell-Me",
+				"link": "http://www.lexytrad.es/tradicor/app/",
+				"author": "LEXYTRAD",
+				"acronym": "UMA"
+			}
+		]
+	}
 }]
